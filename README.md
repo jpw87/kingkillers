@@ -1,5 +1,5 @@
-###
-View the webpage at https://jpw87.github.io/kingkillers/public/
+## King Killers Loot System Point Calculation Tool
+View the webpage at [Point Calculation Tool](https://jpw87.github.io/kingkillers/public/)
 
 ### Development mode
 - After starting repl go to http://localhost:3000/
