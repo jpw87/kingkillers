@@ -33,8 +33,7 @@
      [:input {:class "btn btn-primary" :type "button" :value "Demo Data" :on-click #(reset! tmb-json-data demo-blob-data)}]]]
    [:div {:class "text-center p-3"}
     [:br] [:br] [:br] ; TODO bottom align the copyright footer somehow
-    [:footer [:p {:class "lead"} "© 2023 Copyright: Joshua White"]]]]
-)
+    [:footer [:p {:class "lead"} "© 2023 Copyright: Joshua White"]]]])
 
 ;; -------------------------
 ;; Initialize app
