@@ -2,12 +2,13 @@
     (:require
      [reagent.core :as r]
      [reagent.dom :as d]
-     [shadow.resource :as rc]))
+     [shadow.resource :as rc]
+     [kingkillers.parser :as p]))
 
 ;; -------------------------
 ;; State
 (def tmb-json-data (r/atom ""))
-(def demo-blob-data (rc/inline "demo-blob.json"))
+(def demo-blob-data (rc/inline "demo-tmb-blob-small.json"))
 
 ;; -------------------------
 ;; Views
@@ -27,7 +28,7 @@
      [:br]
      [text-area-input tmb-json-data]]
     [:div {:class "btn-toolbar"}
-     [:input {:class "btn btn-primary" :type "button" :value "Submit"}]
+     [:input {:class "btn btn-primary" :type "button" :value "Submit" :on-click #(reset! tmb-json-data (p/parse @tmb-json-data))}]
      [:input {:class "btn btn-primary" :type "button" :value "Clear" :on-click #(reset! tmb-json-data "")}]
      [:input {:class "btn btn-primary" :type "button" :value "Demo Data" :on-click #(reset! tmb-json-data demo-blob-data)}]]]
    [:div {:class "text-center p-3"}
