@@ -1,0 +1,5226 @@
+[
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Trash",
+    "itemName": "Belt of the Lonely Noble",
+    "quality": "epic",
+    "itemId": 50451,
+    "url": "https://wowhead.com/wotlk/item=50451"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Trash",
+    "itemName": "Harbinger's Bone Band",
+    "quality": "epic",
+    "itemId": 50447,
+    "url": "https://wowhead.com/wotlk/item=50447"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Trash",
+    "itemName": "Leggings of Dubious Charms",
+    "quality": "epic",
+    "itemId": 50450,
+    "url": "https://wowhead.com/wotlk/item=50450"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Trash",
+    "itemName": "Ring of Rotting Sinew",
+    "quality": "epic",
+    "itemId": 50453,
+    "url": "https://wowhead.com/wotlk/item=50453"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Trash",
+    "itemName": "Rowan's Rifle of Silver Bullets",
+    "quality": "epic",
+    "itemId": 50444,
+    "url": "https://wowhead.com/wotlk/item=50444"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Trash",
+    "itemName": "Stiffened Corpse Shoulderpads",
+    "quality": "epic",
+    "itemId": 50449,
+    "url": "https://wowhead.com/wotlk/item=50449"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Trash",
+    "itemName": "Wodin's Lucky Necklace",
+    "quality": "epic",
+    "itemId": 50452,
+    "url": "https://wowhead.com/wotlk/item=50452"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Tokens",
+    "itemName": "Primordial Saronite",
+    "quality": "rare",
+    "itemId": 49908,
+    "url": "https://wowhead.com/wotlk/item=49908"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Tokens",
+    "itemName": "Shadowfrost Shard",
+    "quality": "legendary",
+    "itemId": 50274,
+    "url": "https://wowhead.com/wotlk/item=50274"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Marrowgar",
+    "itemName": "Band of the Bone Colossus",
+    "quality": "epic",
+    "itemId": 50604,
+    "url": "https://wowhead.com/wotlk/item=50604"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Marrowgar",
+    "itemName": "Bone Sentinel's Amulet",
+    "quality": "epic",
+    "itemId": 50609,
+    "url": "https://wowhead.com/wotlk/item=50609"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Marrowgar",
+    "itemName": "Bracers of Dark Reckoning",
+    "quality": "epic",
+    "itemId": 50611,
+    "url": "https://wowhead.com/wotlk/item=50611"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Marrowgar",
+    "itemName": "Bryntroll, the Bone Arbiter",
+    "quality": "epic",
+    "itemId": 50709,
+    "url": "https://wowhead.com/wotlk/item=50709"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Marrowgar",
+    "itemName": "Bulwark of Smouldering Steel",
+    "quality": "epic",
+    "itemId": 50616,
+    "url": "https://wowhead.com/wotlk/item=50616"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Marrowgar",
+    "itemName": "Crushing Coldwraith Belt",
+    "quality": "epic",
+    "itemId": 50613,
+    "url": "https://wowhead.com/wotlk/item=50613"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Marrowgar",
+    "itemName": "Frostbitten Fur Boots",
+    "quality": "epic",
+    "itemId": 50607,
+    "url": "https://wowhead.com/wotlk/item=50607"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Marrowgar",
+    "itemName": "Frozen Bonespike",
+    "quality": "epic",
+    "itemId": 50608,
+    "url": "https://wowhead.com/wotlk/item=50608"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Marrowgar",
+    "itemName": "Gendarme's Cuirass",
+    "quality": "epic",
+    "itemId": 50606,
+    "url": "https://wowhead.com/wotlk/item=50606"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Marrowgar",
+    "itemName": "Handguards of Winter's Respite",
+    "quality": "epic",
+    "itemId": 50615,
+    "url": "https://wowhead.com/wotlk/item=50615"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Marrowgar",
+    "itemName": "Legguards of Lost Hope",
+    "quality": "epic",
+    "itemId": 50612,
+    "url": "https://wowhead.com/wotlk/item=50612"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Marrowgar",
+    "itemName": "Loop of the Endless Labyrinth",
+    "quality": "epic",
+    "itemId": 50614,
+    "url": "https://wowhead.com/wotlk/item=50614"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Marrowgar",
+    "itemName": "Marrowgar's Frigid Eye",
+    "quality": "epic",
+    "itemId": 50610,
+    "url": "https://wowhead.com/wotlk/item=50610"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Marrowgar",
+    "itemName": "Rusted Bonespike Pauldrons",
+    "quality": "epic",
+    "itemId": 50617,
+    "url": "https://wowhead.com/wotlk/item=50617"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Marrowgar",
+    "itemName": "Snowserpent Mail Helm",
+    "quality": "epic",
+    "itemId": 50605,
+    "url": "https://wowhead.com/wotlk/item=50605"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Deathwhisper",
+    "itemName": "Ahn'kahar Onyx Neckguard",
+    "quality": "epic",
+    "itemId": 50647,
+    "url": "https://wowhead.com/wotlk/item=50647"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Deathwhisper",
+    "itemName": "Blood-Soaked Saronite Stompers",
+    "quality": "epic",
+    "itemId": 50639,
+    "url": "https://wowhead.com/wotlk/item=50639"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Deathwhisper",
+    "itemName": "Broken Ram Skull Helm",
+    "quality": "epic",
+    "itemId": 50640,
+    "url": "https://wowhead.com/wotlk/item=50640"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Deathwhisper",
+    "itemName": "Cultist's Bloodsoaked Spaulders",
+    "quality": "epic",
+    "itemId": 50646,
+    "url": "https://wowhead.com/wotlk/item=50646"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Deathwhisper",
+    "itemName": "Deathwhisper Raiment",
+    "quality": "epic",
+    "itemId": 50649,
+    "url": "https://wowhead.com/wotlk/item=50649"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Deathwhisper",
+    "itemName": "Fallen Lord's Handguards",
+    "quality": "epic",
+    "itemId": 50650,
+    "url": "https://wowhead.com/wotlk/item=50650"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Deathwhisper",
+    "itemName": "Heartpierce",
+    "quality": "epic",
+    "itemId": 50641,
+    "url": "https://wowhead.com/wotlk/item=50641"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Deathwhisper",
+    "itemName": "Juggernaut Band",
+    "quality": "epic",
+    "itemId": 50642,
+    "url": "https://wowhead.com/wotlk/item=50642"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Deathwhisper",
+    "itemName": "Leggings of Northern Lights",
+    "quality": "epic",
+    "itemId": 50645,
+    "url": "https://wowhead.com/wotlk/item=50645"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Deathwhisper",
+    "itemName": "Necrophotic Greaves",
+    "quality": "epic",
+    "itemId": 50652,
+    "url": "https://wowhead.com/wotlk/item=50652"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Deathwhisper",
+    "itemName": "Nibelung",
+    "quality": "epic",
+    "itemId": 50648,
+    "url": "https://wowhead.com/wotlk/item=50648"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Deathwhisper",
+    "itemName": "Ring of Maddening Whispers",
+    "quality": "epic",
+    "itemId": 50644,
+    "url": "https://wowhead.com/wotlk/item=50644"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Deathwhisper",
+    "itemName": "Shoulders of Mercy Killing",
+    "quality": "epic",
+    "itemId": 50643,
+    "url": "https://wowhead.com/wotlk/item=50643"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Deathwhisper",
+    "itemName": "The Lady's Brittle Bracers",
+    "quality": "epic",
+    "itemId": 50651,
+    "url": "https://wowhead.com/wotlk/item=50651"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Deathwhisper",
+    "itemName": "Zod's Repeating Longbow",
+    "quality": "epic",
+    "itemId": 50638,
+    "url": "https://wowhead.com/wotlk/item=50638"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Gunship",
+    "itemName": "Althor's Abacus",
+    "quality": "epic",
+    "itemId": 50366,
+    "url": "https://wowhead.com/wotlk/item=50366"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Gunship",
+    "itemName": "Amulet of the Silent Eulogy",
+    "quality": "epic",
+    "itemId": 50658,
+    "url": "https://wowhead.com/wotlk/item=50658"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Gunship",
+    "itemName": "Boneguard Commander's Pauldrons",
+    "quality": "epic",
+    "itemId": 50660,
+    "url": "https://wowhead.com/wotlk/item=50660"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Gunship",
+    "itemName": "Boots of Unnatural Growth",
+    "quality": "epic",
+    "itemId": 50665,
+    "url": "https://wowhead.com/wotlk/item=50665"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Gunship",
+    "itemName": "Corp'rethar Ceremonial Crown",
+    "quality": "epic",
+    "itemId": 50661,
+    "url": "https://wowhead.com/wotlk/item=50661"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Gunship",
+    "itemName": "Corpse Tongue Coin",
+    "quality": "epic",
+    "itemId": 50349,
+    "url": "https://wowhead.com/wotlk/item=50349"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Gunship",
+    "itemName": "Ikfirus's Sack of Wonder",
+    "quality": "epic",
+    "itemId": 50656,
+    "url": "https://wowhead.com/wotlk/item=50656"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Gunship",
+    "itemName": "Ikfirus's Sack of Wonder",
+    "quality": "epic",
+    "itemId": 50656,
+    "url": "https://wowhead.com/wotlk/item=50656"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Gunship",
+    "itemName": "Polar Bear Claw Bracers",
+    "quality": "epic",
+    "itemId": 50659,
+    "url": "https://wowhead.com/wotlk/item=50659"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Gunship",
+    "itemName": "Ring of Rapid Ascent",
+    "quality": "epic",
+    "itemId": 50664,
+    "url": "https://wowhead.com/wotlk/item=50664"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Gunship",
+    "itemName": "Scourge Hunter's Vambraces",
+    "quality": "epic",
+    "itemId": 50655,
+    "url": "https://wowhead.com/wotlk/item=50655"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Gunship",
+    "itemName": "Scourgeborne Waraxe",
+    "quality": "epic",
+    "itemId": 50654,
+    "url": "https://wowhead.com/wotlk/item=50654"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Gunship",
+    "itemName": "Shadowvault Slayer's Cloak",
+    "quality": "epic",
+    "itemId": 50653,
+    "url": "https://wowhead.com/wotlk/item=50653"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Gunship",
+    "itemName": "Skeleton Lord's Circle",
+    "quality": "epic",
+    "itemId": 50657,
+    "url": "https://wowhead.com/wotlk/item=50657"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Gunship",
+    "itemName": "Waistband of Righteous Fury",
+    "quality": "epic",
+    "itemId": 50667,
+    "url": "https://wowhead.com/wotlk/item=50667"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Saurfang",
+    "itemName": "Belt of the Blood Nova",
+    "quality": "epic",
+    "itemId": 50671,
+    "url": "https://wowhead.com/wotlk/item=50671"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Saurfang",
+    "itemName": "Bloodvenom Blade",
+    "quality": "epic",
+    "itemId": 50672,
+    "url": "https://wowhead.com/wotlk/item=50672"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Saurfang",
+    "itemName": "Conqueror's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52030,
+    "url": "https://wowhead.com/wotlk/item=52030"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Saurfang",
+    "itemName": "Conqueror's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52027,
+    "url": "https://wowhead.com/wotlk/item=52027"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Saurfang",
+    "itemName": "Deathbringer's Will",
+    "quality": "epic",
+    "itemId": 50363,
+    "url": "https://wowhead.com/wotlk/item=50363"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Saurfang",
+    "itemName": "Greatcloak of the Turned Champion",
+    "quality": "epic",
+    "itemId": 50668,
+    "url": "https://wowhead.com/wotlk/item=50668"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Saurfang",
+    "itemName": "Protector's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52026,
+    "url": "https://wowhead.com/wotlk/item=52026"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Saurfang",
+    "itemName": "Protector's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52029,
+    "url": "https://wowhead.com/wotlk/item=52029"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Saurfang",
+    "itemName": "Toskk's Maximized Wristguards",
+    "quality": "epic",
+    "itemId": 50670,
+    "url": "https://wowhead.com/wotlk/item=50670"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Saurfang",
+    "itemName": "Vanquisher's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52025,
+    "url": "https://wowhead.com/wotlk/item=52025"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Saurfang",
+    "itemName": "Vanquisher's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52028,
+    "url": "https://wowhead.com/wotlk/item=52028"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Festergut",
+    "itemName": "Belt of Broken Bones",
+    "quality": "epic",
+    "itemId": 50691,
+    "url": "https://wowhead.com/wotlk/item=50691"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Festergut",
+    "itemName": "Black Bruise",
+    "quality": "epic",
+    "itemId": 50692,
+    "url": "https://wowhead.com/wotlk/item=50692"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Festergut",
+    "itemName": "Carapace of Forgotten Kings",
+    "quality": "epic",
+    "itemId": 50689,
+    "url": "https://wowhead.com/wotlk/item=50689"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Festergut",
+    "itemName": "Distant Land",
+    "quality": "epic",
+    "itemId": 50695,
+    "url": "https://wowhead.com/wotlk/item=50695"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Festergut",
+    "itemName": "Faceplate of the Forgotten",
+    "quality": "epic",
+    "itemId": 50701,
+    "url": "https://wowhead.com/wotlk/item=50701"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Festergut",
+    "itemName": "Festergut's Acidic Blood",
+    "quality": "epic",
+    "itemId": 50226,
+    "url": "https://wowhead.com/wotlk/item=50226"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Festergut",
+    "itemName": "Fleshrending Gauntlets",
+    "quality": "epic",
+    "itemId": 50690,
+    "url": "https://wowhead.com/wotlk/item=50690"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Festergut",
+    "itemName": "Gangrenous Leggings",
+    "quality": "epic",
+    "itemId": 50697,
+    "url": "https://wowhead.com/wotlk/item=50697"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Festergut",
+    "itemName": "Holiday's Grace",
+    "quality": "epic",
+    "itemId": 50700,
+    "url": "https://wowhead.com/wotlk/item=50700"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Festergut",
+    "itemName": "Horrific Flesh Epaulets",
+    "quality": "epic",
+    "itemId": 50698,
+    "url": "https://wowhead.com/wotlk/item=50698"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Festergut",
+    "itemName": "Leather of Stitched Scourge Parts",
+    "quality": "epic",
+    "itemId": 50696,
+    "url": "https://wowhead.com/wotlk/item=50696"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Festergut",
+    "itemName": "Lingering Illness",
+    "quality": "epic",
+    "itemId": 50702,
+    "url": "https://wowhead.com/wotlk/item=50702"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Festergut",
+    "itemName": "Might of Blight",
+    "quality": "epic",
+    "itemId": 50693,
+    "url": "https://wowhead.com/wotlk/item=50693"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Festergut",
+    "itemName": "Nerub'ar Stalker's Cord",
+    "quality": "epic",
+    "itemId": 50688,
+    "url": "https://wowhead.com/wotlk/item=50688"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Festergut",
+    "itemName": "Plague Scientist's Boots",
+    "quality": "epic",
+    "itemId": 50699,
+    "url": "https://wowhead.com/wotlk/item=50699"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Festergut",
+    "itemName": "Plaguebringer's Stained Pants",
+    "quality": "epic",
+    "itemId": 50694,
+    "url": "https://wowhead.com/wotlk/item=50694"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Festergut",
+    "itemName": "Unclean Surgical Gloves",
+    "quality": "epic",
+    "itemId": 50703,
+    "url": "https://wowhead.com/wotlk/item=50703"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Rotface",
+    "itemName": "Aldriana's Gloves of Secrecy",
+    "quality": "epic",
+    "itemId": 50675,
+    "url": "https://wowhead.com/wotlk/item=50675"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Rotface",
+    "itemName": "Bile-Encrusted Medallion",
+    "quality": "epic",
+    "itemId": 50682,
+    "url": "https://wowhead.com/wotlk/item=50682"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Rotface",
+    "itemName": "Blightborne Warplate",
+    "quality": "epic",
+    "itemId": 50681,
+    "url": "https://wowhead.com/wotlk/item=50681"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Rotface",
+    "itemName": "Bloodsunder's Bracers",
+    "quality": "epic",
+    "itemId": 50687,
+    "url": "https://wowhead.com/wotlk/item=50687"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Rotface",
+    "itemName": "Corpse-Impaling Spike",
+    "quality": "epic",
+    "itemId": 50684,
+    "url": "https://wowhead.com/wotlk/item=50684"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Rotface",
+    "itemName": "Death Surgeon's Sleeves",
+    "quality": "epic",
+    "itemId": 50686,
+    "url": "https://wowhead.com/wotlk/item=50686"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Rotface",
+    "itemName": "Dislodged Foreign Object",
+    "quality": "epic",
+    "itemId": 50348,
+    "url": "https://wowhead.com/wotlk/item=50348"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Rotface",
+    "itemName": "Dual-Bladed Pauldrons",
+    "quality": "epic",
+    "itemId": 50673,
+    "url": "https://wowhead.com/wotlk/item=50673"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Rotface",
+    "itemName": "Helm of the Elder Moon",
+    "quality": "epic",
+    "itemId": 50679,
+    "url": "https://wowhead.com/wotlk/item=50679"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Rotface",
+    "itemName": "Raging Behemoth's Shoulderplates",
+    "quality": "epic",
+    "itemId": 50674,
+    "url": "https://wowhead.com/wotlk/item=50674"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Rotface",
+    "itemName": "Rib Spreader",
+    "quality": "epic",
+    "itemId": 50676,
+    "url": "https://wowhead.com/wotlk/item=50676"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Rotface",
+    "itemName": "Rot-Resistant Breastplate",
+    "quality": "epic",
+    "itemId": 50680,
+    "url": "https://wowhead.com/wotlk/item=50680"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Rotface",
+    "itemName": "Rotface's Acidic Blood",
+    "quality": "epic",
+    "itemId": 50231,
+    "url": "https://wowhead.com/wotlk/item=50231"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Rotface",
+    "itemName": "Seal of Many Mouths",
+    "quality": "epic",
+    "itemId": 50678,
+    "url": "https://wowhead.com/wotlk/item=50678"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Rotface",
+    "itemName": "Trauma",
+    "quality": "epic",
+    "itemId": 50685,
+    "url": "https://wowhead.com/wotlk/item=50685"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Rotface",
+    "itemName": "Winding Sheet",
+    "quality": "epic",
+    "itemId": 50677,
+    "url": "https://wowhead.com/wotlk/item=50677"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Putricide",
+    "itemName": "Astrylian's Sutured Cinch",
+    "quality": "epic",
+    "itemId": 50707,
+    "url": "https://wowhead.com/wotlk/item=50707"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Putricide",
+    "itemName": "Conqueror's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52027,
+    "url": "https://wowhead.com/wotlk/item=52027"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Putricide",
+    "itemName": "Conqueror's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52030,
+    "url": "https://wowhead.com/wotlk/item=52030"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Putricide",
+    "itemName": "Last Word",
+    "quality": "epic",
+    "itemId": 50708,
+    "url": "https://wowhead.com/wotlk/item=50708"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Putricide",
+    "itemName": "Professor's Bloodied Smock",
+    "quality": "epic",
+    "itemId": 50705,
+    "url": "https://wowhead.com/wotlk/item=50705"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Putricide",
+    "itemName": "Protector's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52029,
+    "url": "https://wowhead.com/wotlk/item=52029"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Putricide",
+    "itemName": "Protector's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52026,
+    "url": "https://wowhead.com/wotlk/item=52026"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Putricide",
+    "itemName": "Rigormortis",
+    "quality": "epic",
+    "itemId": 50704,
+    "url": "https://wowhead.com/wotlk/item=50704"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Putricide",
+    "itemName": "Tiny Abomination in a Jar",
+    "quality": "epic",
+    "itemId": 50706,
+    "url": "https://wowhead.com/wotlk/item=50706"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Putricide",
+    "itemName": "Vanquisher's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52025,
+    "url": "https://wowhead.com/wotlk/item=52025"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Putricide",
+    "itemName": "Vanquisher's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52028,
+    "url": "https://wowhead.com/wotlk/item=52028"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Council",
+    "itemName": "Crypt Keeper's Bracers",
+    "quality": "epic",
+    "itemId": 50721,
+    "url": "https://wowhead.com/wotlk/item=50721"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Council",
+    "itemName": "Cryptmaker",
+    "quality": "epic",
+    "itemId": 50603,
+    "url": "https://wowhead.com/wotlk/item=50603"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Council",
+    "itemName": "Geistlord's Punishment Sack",
+    "quality": "epic",
+    "itemId": 50713,
+    "url": "https://wowhead.com/wotlk/item=50713"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Council",
+    "itemName": "Incarnadine Band of Mending",
+    "quality": "epic",
+    "itemId": 50720,
+    "url": "https://wowhead.com/wotlk/item=50720"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Council",
+    "itemName": "Keleseth's Seducer",
+    "quality": "epic",
+    "itemId": 50710,
+    "url": "https://wowhead.com/wotlk/item=50710"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Council",
+    "itemName": "Landsoul's Horned Greathelm",
+    "quality": "epic",
+    "itemId": 50712,
+    "url": "https://wowhead.com/wotlk/item=50712"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Council",
+    "itemName": "Mail of Crimson Coins",
+    "quality": "epic",
+    "itemId": 50723,
+    "url": "https://wowhead.com/wotlk/item=50723"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Council",
+    "itemName": "Royal Crimson Cloak",
+    "quality": "epic",
+    "itemId": 50718,
+    "url": "https://wowhead.com/wotlk/item=50718"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Council",
+    "itemName": "San'layn Ritualist Gloves",
+    "quality": "epic",
+    "itemId": 50722,
+    "url": "https://wowhead.com/wotlk/item=50722"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Council",
+    "itemName": "Sanguine Silk Robes",
+    "quality": "epic",
+    "itemId": 50717,
+    "url": "https://wowhead.com/wotlk/item=50717"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Council",
+    "itemName": "Shadow Silk Spindle",
+    "quality": "epic",
+    "itemId": 50719,
+    "url": "https://wowhead.com/wotlk/item=50719"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Council",
+    "itemName": "Shoulders of Frost-Tipped Thorns",
+    "quality": "epic",
+    "itemId": 50715,
+    "url": "https://wowhead.com/wotlk/item=50715"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Council",
+    "itemName": "Taldaram's Plated Fists",
+    "quality": "epic",
+    "itemId": 50716,
+    "url": "https://wowhead.com/wotlk/item=50716"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Council",
+    "itemName": "Treads of the Wasteland",
+    "quality": "epic",
+    "itemId": 50711,
+    "url": "https://wowhead.com/wotlk/item=50711"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Council",
+    "itemName": "Valanar's Other Signet Ring",
+    "quality": "epic",
+    "itemId": 50714,
+    "url": "https://wowhead.com/wotlk/item=50714"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Lana'thel",
+    "itemName": "Bauble of True Blood",
+    "quality": "epic",
+    "itemId": 50726,
+    "url": "https://wowhead.com/wotlk/item=50726"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Lana'thel",
+    "itemName": "Blood Queen's Crimson Choker",
+    "quality": "epic",
+    "itemId": 50724,
+    "url": "https://wowhead.com/wotlk/item=50724"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Lana'thel",
+    "itemName": "Bloodfall",
+    "quality": "epic",
+    "itemId": 50727,
+    "url": "https://wowhead.com/wotlk/item=50727"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Lana'thel",
+    "itemName": "Conqueror's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52030,
+    "url": "https://wowhead.com/wotlk/item=52030"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Lana'thel",
+    "itemName": "Conqueror's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52027,
+    "url": "https://wowhead.com/wotlk/item=52027"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Lana'thel",
+    "itemName": "Dying Light",
+    "quality": "epic",
+    "itemId": 50725,
+    "url": "https://wowhead.com/wotlk/item=50725"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Lana'thel",
+    "itemName": "Icecrown Glacial Wall",
+    "quality": "epic",
+    "itemId": 50729,
+    "url": "https://wowhead.com/wotlk/item=50729"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Lana'thel",
+    "itemName": "Lana'thel's Chain of Flagellation",
+    "quality": "epic",
+    "itemId": 50728,
+    "url": "https://wowhead.com/wotlk/item=50728"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Lana'thel",
+    "itemName": "Protector's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52029,
+    "url": "https://wowhead.com/wotlk/item=52029"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Lana'thel",
+    "itemName": "Protector's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52026,
+    "url": "https://wowhead.com/wotlk/item=52026"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Lana'thel",
+    "itemName": "Vanquisher's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52025,
+    "url": "https://wowhead.com/wotlk/item=52025"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Lana'thel",
+    "itemName": "Vanquisher's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52028,
+    "url": "https://wowhead.com/wotlk/item=52028"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Valithria",
+    "itemName": "Anub'ar Stalker's Gloves",
+    "quality": "epic",
+    "itemId": 50619,
+    "url": "https://wowhead.com/wotlk/item=50619"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Valithria",
+    "itemName": "Boots of the Funeral March",
+    "quality": "epic",
+    "itemId": 50632,
+    "url": "https://wowhead.com/wotlk/item=50632"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Valithria",
+    "itemName": "Bracers of Eternal Dreaming",
+    "quality": "epic",
+    "itemId": 50630,
+    "url": "https://wowhead.com/wotlk/item=50630"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Valithria",
+    "itemName": "Coldwraith Links",
+    "quality": "epic",
+    "itemId": 50620,
+    "url": "https://wowhead.com/wotlk/item=50620"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Valithria",
+    "itemName": "Devium's Eternally Cold Ring",
+    "quality": "epic",
+    "itemId": 50622,
+    "url": "https://wowhead.com/wotlk/item=50622"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Valithria",
+    "itemName": "Emblem of Frost",
+    "quality": "epic",
+    "itemId": 49426,
+    "url": "https://wowhead.com/wotlk/item=49426"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Valithria",
+    "itemName": "Frostbinder's Shredded Cape",
+    "quality": "epic",
+    "itemId": 50628,
+    "url": "https://wowhead.com/wotlk/item=50628"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Valithria",
+    "itemName": "Frostbrood Sapphire Ring",
+    "quality": "epic",
+    "itemId": 50618,
+    "url": "https://wowhead.com/wotlk/item=50618"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Valithria",
+    "itemName": "Grinning Skull Greatboots",
+    "quality": "epic",
+    "itemId": 50625,
+    "url": "https://wowhead.com/wotlk/item=50625"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Valithria",
+    "itemName": "Leggings of Dying Candles",
+    "quality": "epic",
+    "itemId": 50623,
+    "url": "https://wowhead.com/wotlk/item=50623"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Valithria",
+    "itemName": "Lungbreaker",
+    "quality": "epic",
+    "itemId": 50621,
+    "url": "https://wowhead.com/wotlk/item=50621"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Valithria",
+    "itemName": "Nightmare Ender",
+    "quality": "epic",
+    "itemId": 50631,
+    "url": "https://wowhead.com/wotlk/item=50631"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Valithria",
+    "itemName": "Noose of Malachite",
+    "quality": "epic",
+    "itemId": 50627,
+    "url": "https://wowhead.com/wotlk/item=50627"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Valithria",
+    "itemName": "Robe of the Waking Nightmare",
+    "quality": "epic",
+    "itemId": 50629,
+    "url": "https://wowhead.com/wotlk/item=50629"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Valithria",
+    "itemName": "Scourge Reaver's Legplates",
+    "quality": "epic",
+    "itemId": 50624,
+    "url": "https://wowhead.com/wotlk/item=50624"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Valithria",
+    "itemName": "Snowstorm Helm",
+    "quality": "epic",
+    "itemId": 50626,
+    "url": "https://wowhead.com/wotlk/item=50626"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Sindragosa",
+    "itemName": "Conqueror's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52030,
+    "url": "https://wowhead.com/wotlk/item=52030"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Sindragosa",
+    "itemName": "Conqueror's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52027,
+    "url": "https://wowhead.com/wotlk/item=52027"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Sindragosa",
+    "itemName": "Memory of Malygos",
+    "quality": "epic",
+    "itemId": 50636,
+    "url": "https://wowhead.com/wotlk/item=50636"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Sindragosa",
+    "itemName": "Phylactery of the Nameless Lich",
+    "quality": "epic",
+    "itemId": 50365,
+    "url": "https://wowhead.com/wotlk/item=50365"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Sindragosa",
+    "itemName": "Protector's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52029,
+    "url": "https://wowhead.com/wotlk/item=52029"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Sindragosa",
+    "itemName": "Protector's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52026,
+    "url": "https://wowhead.com/wotlk/item=52026"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Sindragosa",
+    "itemName": "Sindragosa's Cruel Claw",
+    "quality": "epic",
+    "itemId": 50633,
+    "url": "https://wowhead.com/wotlk/item=50633"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Sindragosa",
+    "itemName": "Sindragosa's Flawless Fang",
+    "quality": "epic",
+    "itemId": 50364,
+    "url": "https://wowhead.com/wotlk/item=50364"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Sindragosa",
+    "itemName": "Sundial of Eternal Dusk",
+    "quality": "epic",
+    "itemId": 50635,
+    "url": "https://wowhead.com/wotlk/item=50635"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Sindragosa",
+    "itemName": "Vanquisher's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52025,
+    "url": "https://wowhead.com/wotlk/item=52025"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Sindragosa",
+    "itemName": "Vanquisher's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52028,
+    "url": "https://wowhead.com/wotlk/item=52028"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Lich King",
+    "itemName": "Archus, Greatstaff of Antonidas",
+    "quality": "epic",
+    "itemId": 50731,
+    "url": "https://wowhead.com/wotlk/item=50731"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Lich King",
+    "itemName": "Bloodsurge, Kel'Thuzad's Blade of Agony",
+    "quality": "epic",
+    "itemId": 50732,
+    "url": "https://wowhead.com/wotlk/item=50732"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Lich King",
+    "itemName": "Conqueror's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52030,
+    "url": "https://wowhead.com/wotlk/item=52030"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Lich King",
+    "itemName": "Conqueror's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52027,
+    "url": "https://wowhead.com/wotlk/item=52027"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Lich King",
+    "itemName": "Emblem of Frost",
+    "quality": "epic",
+    "itemId": 49426,
+    "url": "https://wowhead.com/wotlk/item=49426"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Lich King",
+    "itemName": "Fal'inrush, Defender of Quel'thalas",
+    "quality": "epic",
+    "itemId": 50733,
+    "url": "https://wowhead.com/wotlk/item=50733"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Lich King",
+    "itemName": "Glorenzelg, High-Blade of the Silver Hand",
+    "quality": "epic",
+    "itemId": 50730,
+    "url": "https://wowhead.com/wotlk/item=50730"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Lich King",
+    "itemName": "Havoc's Call, Blade of Lordaeron Kings",
+    "quality": "epic",
+    "itemId": 50737,
+    "url": "https://wowhead.com/wotlk/item=50737"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Lich King",
+    "itemName": "Heaven's Fall, Kryss of a Thousand Lies",
+    "quality": "epic",
+    "itemId": 50736,
+    "url": "https://wowhead.com/wotlk/item=50736"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Lich King",
+    "itemName": "Invincible's Reins",
+    "quality": "epic",
+    "itemId": 50818,
+    "url": "https://wowhead.com/wotlk/item=50818"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Lich King",
+    "itemName": "Mithrios, Bronzebeard's Legacy",
+    "quality": "epic",
+    "itemId": 50738,
+    "url": "https://wowhead.com/wotlk/item=50738"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Lich King",
+    "itemName": "Oathbinder, Charge of the Ranger-General",
+    "quality": "epic",
+    "itemId": 50735,
+    "url": "https://wowhead.com/wotlk/item=50735"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Lich King",
+    "itemName": "Protector's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52029,
+    "url": "https://wowhead.com/wotlk/item=52029"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Lich King",
+    "itemName": "Protector's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52026,
+    "url": "https://wowhead.com/wotlk/item=52026"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Lich King",
+    "itemName": "Royal Scepter of Terenas II",
+    "quality": "epic",
+    "itemId": 50734,
+    "url": "https://wowhead.com/wotlk/item=50734"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Lich King",
+    "itemName": "Vanquisher's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52028,
+    "url": "https://wowhead.com/wotlk/item=52028"
+  },
+  {
+    "instanceName": "Icecrown Citadel H25",
+    "encounter": "Lich King",
+    "itemName": "Vanquisher's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52025,
+    "url": "https://wowhead.com/wotlk/item=52025"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Tokens",
+    "itemName": "Primordial Saronite",
+    "quality": "rare",
+    "itemId": 49908,
+    "url": "https://wowhead.com/wotlk/item=49908"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Marrowgar",
+    "itemName": "Ancient Skeletal Boots",
+    "quality": "epic",
+    "itemId": 51931,
+    "url": "https://wowhead.com/wotlk/item=51931"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Marrowgar",
+    "itemName": "Bone Warden's Splitter",
+    "quality": "epic",
+    "itemId": 51938,
+    "url": "https://wowhead.com/wotlk/item=51938"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Marrowgar",
+    "itemName": "Bonebreaker Scepter",
+    "quality": "epic",
+    "itemId": 51937,
+    "url": "https://wowhead.com/wotlk/item=51937"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Marrowgar",
+    "itemName": "Citadel Enforcer's Claymore",
+    "quality": "epic",
+    "itemId": 51936,
+    "url": "https://wowhead.com/wotlk/item=51936"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Marrowgar",
+    "itemName": "Coldwraith Bracers",
+    "quality": "epic",
+    "itemId": 51929,
+    "url": "https://wowhead.com/wotlk/item=51929"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Marrowgar",
+    "itemName": "Cord of the Patronizing Practitioner",
+    "quality": "epic",
+    "itemId": 51930,
+    "url": "https://wowhead.com/wotlk/item=51930"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Marrowgar",
+    "itemName": "Corrupted Silverplate Leggings",
+    "quality": "epic",
+    "itemId": 51928,
+    "url": "https://wowhead.com/wotlk/item=51928"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Marrowgar",
+    "itemName": "Frost Needle",
+    "quality": "epic",
+    "itemId": 51932,
+    "url": "https://wowhead.com/wotlk/item=51932"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Marrowgar",
+    "itemName": "Linked Scourge Vertebrae",
+    "quality": "epic",
+    "itemId": 51935,
+    "url": "https://wowhead.com/wotlk/item=51935"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Marrowgar",
+    "itemName": "Marrowgar's Scratching Choker",
+    "quality": "epic",
+    "itemId": 51934,
+    "url": "https://wowhead.com/wotlk/item=51934"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Marrowgar",
+    "itemName": "Shawl of Nerubian Silk",
+    "quality": "epic",
+    "itemId": 51933,
+    "url": "https://wowhead.com/wotlk/item=51933"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Marrowgar",
+    "itemName": "Sliver of Pure Ice",
+    "quality": "epic",
+    "itemId": 50346,
+    "url": "https://wowhead.com/wotlk/item=50346"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Deathwhisper",
+    "itemName": "Boots of the Frozen Seed",
+    "quality": "epic",
+    "itemId": 51920,
+    "url": "https://wowhead.com/wotlk/item=51920"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Deathwhisper",
+    "itemName": "Bracers of Dark Blessings",
+    "quality": "epic",
+    "itemId": 51918,
+    "url": "https://wowhead.com/wotlk/item=51918"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Deathwhisper",
+    "itemName": "Chestguard of the Frigid Noose",
+    "quality": "epic",
+    "itemId": 51923,
+    "url": "https://wowhead.com/wotlk/item=51923"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Deathwhisper",
+    "itemName": "Deathspeaker Disciple's Belt",
+    "quality": "epic",
+    "itemId": 51919,
+    "url": "https://wowhead.com/wotlk/item=51919"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Deathwhisper",
+    "itemName": "Deathspeaker Zealot's Helm",
+    "quality": "epic",
+    "itemId": 51924,
+    "url": "https://wowhead.com/wotlk/item=51924"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Deathwhisper",
+    "itemName": "Ghoul Commander's Cuirass",
+    "quality": "epic",
+    "itemId": 51917,
+    "url": "https://wowhead.com/wotlk/item=51917"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Deathwhisper",
+    "itemName": "Handgrips of Frost and Sleet",
+    "quality": "epic",
+    "itemId": 51926,
+    "url": "https://wowhead.com/wotlk/item=51926"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Deathwhisper",
+    "itemName": "Njorndar Bone Bow",
+    "quality": "epic",
+    "itemId": 51927,
+    "url": "https://wowhead.com/wotlk/item=51927"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Deathwhisper",
+    "itemName": "Scourgelord's Baton",
+    "quality": "epic",
+    "itemId": 51922,
+    "url": "https://wowhead.com/wotlk/item=51922"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Deathwhisper",
+    "itemName": "Sister's Handshrouds",
+    "quality": "epic",
+    "itemId": 51921,
+    "url": "https://wowhead.com/wotlk/item=51921"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Deathwhisper",
+    "itemName": "Soulthief's Braided Belt",
+    "quality": "epic",
+    "itemId": 51925,
+    "url": "https://wowhead.com/wotlk/item=51925"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Deathwhisper",
+    "itemName": "Whispering Fanged Skull",
+    "quality": "epic",
+    "itemId": 50343,
+    "url": "https://wowhead.com/wotlk/item=50343"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Gunship",
+    "itemName": "Abomination's Bloody Ring",
+    "quality": "epic",
+    "itemId": 51913,
+    "url": "https://wowhead.com/wotlk/item=51913"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Gunship",
+    "itemName": "Bone Drake's Enameled Boots",
+    "quality": "epic",
+    "itemId": 51915,
+    "url": "https://wowhead.com/wotlk/item=51915"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Gunship",
+    "itemName": "Bracers of Pale Illumination",
+    "quality": "epic",
+    "itemId": 51907,
+    "url": "https://wowhead.com/wotlk/item=51907"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Gunship",
+    "itemName": "Cord of Dark Suffering",
+    "quality": "epic",
+    "itemId": 51908,
+    "url": "https://wowhead.com/wotlk/item=51908"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Gunship",
+    "itemName": "Frost Giant's Cleaver",
+    "quality": "epic",
+    "itemId": 51916,
+    "url": "https://wowhead.com/wotlk/item=51916"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Gunship",
+    "itemName": "Ice-Reinforced Vrykul Helm",
+    "quality": "epic",
+    "itemId": 51906,
+    "url": "https://wowhead.com/wotlk/item=51906"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Gunship",
+    "itemName": "Icecrown Rampart Bracers",
+    "quality": "epic",
+    "itemId": 51914,
+    "url": "https://wowhead.com/wotlk/item=51914"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Gunship",
+    "itemName": "Midnight Sun",
+    "quality": "epic",
+    "itemId": 51910,
+    "url": "https://wowhead.com/wotlk/item=51910"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Gunship",
+    "itemName": "Muradin's Spyglass",
+    "quality": "epic",
+    "itemId": 50345,
+    "url": "https://wowhead.com/wotlk/item=50345"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Gunship",
+    "itemName": "Neverending Winter",
+    "quality": "epic",
+    "itemId": 51909,
+    "url": "https://wowhead.com/wotlk/item=51909"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Gunship",
+    "itemName": "Pauldrons of Lost Hope",
+    "quality": "epic",
+    "itemId": 51911,
+    "url": "https://wowhead.com/wotlk/item=51911"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Gunship",
+    "itemName": "Saronite Gargoyle Cloak",
+    "quality": "epic",
+    "itemId": 51912,
+    "url": "https://wowhead.com/wotlk/item=51912"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Saurfang",
+    "itemName": "Blade-Scored Carapace",
+    "quality": "epic",
+    "itemId": 51902,
+    "url": "https://wowhead.com/wotlk/item=51902"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Saurfang",
+    "itemName": "Conqueror's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52027,
+    "url": "https://wowhead.com/wotlk/item=52027"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Saurfang",
+    "itemName": "Deathforged Legplates",
+    "quality": "epic",
+    "itemId": 51895,
+    "url": "https://wowhead.com/wotlk/item=51895"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Saurfang",
+    "itemName": "Gargoyle Spit Bracers",
+    "quality": "epic",
+    "itemId": 51901,
+    "url": "https://wowhead.com/wotlk/item=51901"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Saurfang",
+    "itemName": "Hauberk of a Thousand Cuts",
+    "quality": "epic",
+    "itemId": 51903,
+    "url": "https://wowhead.com/wotlk/item=51903"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Saurfang",
+    "itemName": "Icecrown Spire Sandals",
+    "quality": "epic",
+    "itemId": 51899,
+    "url": "https://wowhead.com/wotlk/item=51899"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Saurfang",
+    "itemName": "Leggings of Unrelenting Blood",
+    "quality": "epic",
+    "itemId": 51897,
+    "url": "https://wowhead.com/wotlk/item=51897"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Saurfang",
+    "itemName": "Mag'hari Chieftain's Staff",
+    "quality": "epic",
+    "itemId": 51898,
+    "url": "https://wowhead.com/wotlk/item=51898"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Saurfang",
+    "itemName": "Protector's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52026,
+    "url": "https://wowhead.com/wotlk/item=52026"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Saurfang",
+    "itemName": "Ramaladni's Blade of Culling",
+    "quality": "epic",
+    "itemId": 51905,
+    "url": "https://wowhead.com/wotlk/item=51905"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Saurfang",
+    "itemName": "Saurfang's Cold-Forged Band",
+    "quality": "epic",
+    "itemId": 51900,
+    "url": "https://wowhead.com/wotlk/item=51900"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Saurfang",
+    "itemName": "Scourge Stranglers",
+    "quality": "epic",
+    "itemId": 51904,
+    "url": "https://wowhead.com/wotlk/item=51904"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Saurfang",
+    "itemName": "Soulcleave Pendant",
+    "quality": "epic",
+    "itemId": 51894,
+    "url": "https://wowhead.com/wotlk/item=51894"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Saurfang",
+    "itemName": "Thaumaturge's Crackling Cowl",
+    "quality": "epic",
+    "itemId": 51896,
+    "url": "https://wowhead.com/wotlk/item=51896"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Saurfang",
+    "itemName": "Vanquisher's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52025,
+    "url": "https://wowhead.com/wotlk/item=52025"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Festergut",
+    "itemName": "Abracadaver",
+    "quality": "epic",
+    "itemId": 51887,
+    "url": "https://wowhead.com/wotlk/item=51887"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Festergut",
+    "itemName": "Bloodstained Surgeon's Shoulderguards",
+    "quality": "epic",
+    "itemId": 51883,
+    "url": "https://wowhead.com/wotlk/item=51883"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Festergut",
+    "itemName": "Cloak of Many Skins",
+    "quality": "epic",
+    "itemId": 51888,
+    "url": "https://wowhead.com/wotlk/item=51888"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Festergut",
+    "itemName": "Festergut's Gaseous Gloves",
+    "quality": "epic",
+    "itemId": 51886,
+    "url": "https://wowhead.com/wotlk/item=51886"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Festergut",
+    "itemName": "Festering Fingerguards",
+    "quality": "epic",
+    "itemId": 51892,
+    "url": "https://wowhead.com/wotlk/item=51892"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Festergut",
+    "itemName": "Gutbuster",
+    "quality": "epic",
+    "itemId": 51893,
+    "url": "https://wowhead.com/wotlk/item=51893"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Festergut",
+    "itemName": "Kilt of Untreated Wounds",
+    "quality": "epic",
+    "itemId": 51882,
+    "url": "https://wowhead.com/wotlk/item=51882"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Festergut",
+    "itemName": "Plague-Soaked Leather Leggings",
+    "quality": "epic",
+    "itemId": 51889,
+    "url": "https://wowhead.com/wotlk/item=51889"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Festergut",
+    "itemName": "Precious's Putrid Collar",
+    "quality": "epic",
+    "itemId": 51890,
+    "url": "https://wowhead.com/wotlk/item=51890"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Festergut",
+    "itemName": "Signet of Putrefaction",
+    "quality": "epic",
+    "itemId": 51884,
+    "url": "https://wowhead.com/wotlk/item=51884"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Festergut",
+    "itemName": "Taldron's Long Neglected Boots",
+    "quality": "epic",
+    "itemId": 51891,
+    "url": "https://wowhead.com/wotlk/item=51891"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Festergut",
+    "itemName": "Wrists of Septic Shock",
+    "quality": "epic",
+    "itemId": 51885,
+    "url": "https://wowhead.com/wotlk/item=51885"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Rotface",
+    "itemName": "Abomination Knuckles",
+    "quality": "epic",
+    "itemId": 51876,
+    "url": "https://wowhead.com/wotlk/item=51876"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Rotface",
+    "itemName": "Chestguard of the Failed Experiment",
+    "quality": "epic",
+    "itemId": 51870,
+    "url": "https://wowhead.com/wotlk/item=51870"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Rotface",
+    "itemName": "Choker of Filthy Diamonds",
+    "quality": "epic",
+    "itemId": 51871,
+    "url": "https://wowhead.com/wotlk/item=51871"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Rotface",
+    "itemName": "Ether-Soaked Bracers",
+    "quality": "epic",
+    "itemId": 51872,
+    "url": "https://wowhead.com/wotlk/item=51872"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Rotface",
+    "itemName": "Flesh-Shaper's Gurney Strap",
+    "quality": "epic",
+    "itemId": 51879,
+    "url": "https://wowhead.com/wotlk/item=51879"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Rotface",
+    "itemName": "Gloves of Broken Fingers",
+    "quality": "epic",
+    "itemId": 51874,
+    "url": "https://wowhead.com/wotlk/item=51874"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Rotface",
+    "itemName": "Gluth's Fetching Knife",
+    "quality": "epic",
+    "itemId": 51880,
+    "url": "https://wowhead.com/wotlk/item=51880"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Rotface",
+    "itemName": "Lockjaw",
+    "quality": "epic",
+    "itemId": 51875,
+    "url": "https://wowhead.com/wotlk/item=51875"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Rotface",
+    "itemName": "Rotface's Rupturing Ring",
+    "quality": "epic",
+    "itemId": 51878,
+    "url": "https://wowhead.com/wotlk/item=51878"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Rotface",
+    "itemName": "Shaft of Glacial Ice",
+    "quality": "epic",
+    "itemId": 51881,
+    "url": "https://wowhead.com/wotlk/item=51881"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Rotface",
+    "itemName": "Shuffling Shoes",
+    "quality": "epic",
+    "itemId": 51873,
+    "url": "https://wowhead.com/wotlk/item=51873"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Rotface",
+    "itemName": "Taldron's Short-Sighted Helm",
+    "quality": "epic",
+    "itemId": 51877,
+    "url": "https://wowhead.com/wotlk/item=51877"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Putricide",
+    "itemName": "Cauterized Cord",
+    "quality": "epic",
+    "itemId": 51862,
+    "url": "https://wowhead.com/wotlk/item=51862"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Putricide",
+    "itemName": "Chestplate of Septic Stitches",
+    "quality": "epic",
+    "itemId": 51861,
+    "url": "https://wowhead.com/wotlk/item=51861"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Putricide",
+    "itemName": "Conqueror's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52027,
+    "url": "https://wowhead.com/wotlk/item=52027"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Putricide",
+    "itemName": "Discarded Bag of Entrails",
+    "quality": "epic",
+    "itemId": 51866,
+    "url": "https://wowhead.com/wotlk/item=51866"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Putricide",
+    "itemName": "Flesh-Carving Scalpel",
+    "quality": "epic",
+    "itemId": 51868,
+    "url": "https://wowhead.com/wotlk/item=51868"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Putricide",
+    "itemName": "Infected Choker",
+    "quality": "epic",
+    "itemId": 51867,
+    "url": "https://wowhead.com/wotlk/item=51867"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Putricide",
+    "itemName": "Pendant of Split Veins",
+    "quality": "epic",
+    "itemId": 51863,
+    "url": "https://wowhead.com/wotlk/item=51863"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Putricide",
+    "itemName": "Protector's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52026,
+    "url": "https://wowhead.com/wotlk/item=52026"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Putricide",
+    "itemName": "Rippling Flesh Kilt",
+    "quality": "epic",
+    "itemId": 51860,
+    "url": "https://wowhead.com/wotlk/item=51860"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Putricide",
+    "itemName": "Scalpel-Sharpening Shoulderguards",
+    "quality": "epic",
+    "itemId": 51865,
+    "url": "https://wowhead.com/wotlk/item=51865"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Putricide",
+    "itemName": "Shoulderpads of the Morbid Ritual",
+    "quality": "epic",
+    "itemId": 51864,
+    "url": "https://wowhead.com/wotlk/item=51864"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Putricide",
+    "itemName": "Shoulders of Ruinous Senility",
+    "quality": "epic",
+    "itemId": 51859,
+    "url": "https://wowhead.com/wotlk/item=51859"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Putricide",
+    "itemName": "The Facelifter",
+    "quality": "epic",
+    "itemId": 51869,
+    "url": "https://wowhead.com/wotlk/item=51869"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Putricide",
+    "itemName": "Unidentifiable Organ",
+    "quality": "epic",
+    "itemId": 50344,
+    "url": "https://wowhead.com/wotlk/item=50344"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Putricide",
+    "itemName": "Vanquisher's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52025,
+    "url": "https://wowhead.com/wotlk/item=52025"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Council",
+    "itemName": "Battle-Maiden's Legguards",
+    "quality": "epic",
+    "itemId": 51854,
+    "url": "https://wowhead.com/wotlk/item=51854"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Council",
+    "itemName": "Blood-Drinker's Girdle",
+    "quality": "epic",
+    "itemId": 51853,
+    "url": "https://wowhead.com/wotlk/item=51853"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Council",
+    "itemName": "Bloodsoul Raiment",
+    "quality": "epic",
+    "itemId": 51851,
+    "url": "https://wowhead.com/wotlk/item=51851"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Council",
+    "itemName": "Cerise Coiled Ring",
+    "quality": "epic",
+    "itemId": 51849,
+    "url": "https://wowhead.com/wotlk/item=51849"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Council",
+    "itemName": "Heartsick Mender's Cape",
+    "quality": "epic",
+    "itemId": 51848,
+    "url": "https://wowhead.com/wotlk/item=51848"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Council",
+    "itemName": "Hersir's Greatspear",
+    "quality": "epic",
+    "itemId": 51857,
+    "url": "https://wowhead.com/wotlk/item=51857"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Council",
+    "itemName": "Pale Corpse Boots",
+    "quality": "epic",
+    "itemId": 51850,
+    "url": "https://wowhead.com/wotlk/item=51850"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Council",
+    "itemName": "Soulbreaker",
+    "quality": "epic",
+    "itemId": 51858,
+    "url": "https://wowhead.com/wotlk/item=51858"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Council",
+    "itemName": "Spaulders of the Blood Princes",
+    "quality": "epic",
+    "itemId": 51847,
+    "url": "https://wowhead.com/wotlk/item=51847"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Council",
+    "itemName": "Taldaram's Soft Slippers",
+    "quality": "epic",
+    "itemId": 51856,
+    "url": "https://wowhead.com/wotlk/item=51856"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Council",
+    "itemName": "Thrice Fanged Signet",
+    "quality": "epic",
+    "itemId": 51855,
+    "url": "https://wowhead.com/wotlk/item=51855"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Council",
+    "itemName": "Wand of Ruby Claret",
+    "quality": "epic",
+    "itemId": 51852,
+    "url": "https://wowhead.com/wotlk/item=51852"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Lana'thel",
+    "itemName": "Bloodsipper",
+    "quality": "epic",
+    "itemId": 51846,
+    "url": "https://wowhead.com/wotlk/item=51846"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Lana'thel",
+    "itemName": "Chestguard of Siphoned Elements",
+    "quality": "epic",
+    "itemId": 51840,
+    "url": "https://wowhead.com/wotlk/item=51840"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Lana'thel",
+    "itemName": "Collar of Haughty Disdain",
+    "quality": "epic",
+    "itemId": 51842,
+    "url": "https://wowhead.com/wotlk/item=51842"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Lana'thel",
+    "itemName": "Conqueror's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52027,
+    "url": "https://wowhead.com/wotlk/item=52027"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Lana'thel",
+    "itemName": "Cowl of Malefic Repose",
+    "quality": "epic",
+    "itemId": 51837,
+    "url": "https://wowhead.com/wotlk/item=51837"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Lana'thel",
+    "itemName": "Ivory-Inlaid Leggings",
+    "quality": "epic",
+    "itemId": 51841,
+    "url": "https://wowhead.com/wotlk/item=51841"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Lana'thel",
+    "itemName": "Lana'thel's Bloody Nail",
+    "quality": "epic",
+    "itemId": 51838,
+    "url": "https://wowhead.com/wotlk/item=51838"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Lana'thel",
+    "itemName": "Protector's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52026,
+    "url": "https://wowhead.com/wotlk/item=52026"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Lana'thel",
+    "itemName": "Seal of the Twilight Queen",
+    "quality": "epic",
+    "itemId": 51843,
+    "url": "https://wowhead.com/wotlk/item=51843"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Lana'thel",
+    "itemName": "Shoulderpads of the Searing Kiss",
+    "quality": "epic",
+    "itemId": 51839,
+    "url": "https://wowhead.com/wotlk/item=51839"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Lana'thel",
+    "itemName": "Stakethrower",
+    "quality": "epic",
+    "itemId": 51845,
+    "url": "https://wowhead.com/wotlk/item=51845"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Lana'thel",
+    "itemName": "Throatrender Handguards",
+    "quality": "epic",
+    "itemId": 51844,
+    "url": "https://wowhead.com/wotlk/item=51844"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Lana'thel",
+    "itemName": "Tightening Waistband",
+    "quality": "epic",
+    "itemId": 51836,
+    "url": "https://wowhead.com/wotlk/item=51836"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Lana'thel",
+    "itemName": "Vanquisher's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52025,
+    "url": "https://wowhead.com/wotlk/item=52025"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Lana'thel",
+    "itemName": "Veincrusher Gauntlets",
+    "quality": "epic",
+    "itemId": 51835,
+    "url": "https://wowhead.com/wotlk/item=51835"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Valithria",
+    "itemName": "Dreamhunter's Carbine",
+    "quality": "epic",
+    "itemId": 51834,
+    "url": "https://wowhead.com/wotlk/item=51834"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Valithria",
+    "itemName": "Emerald Saint's Spaulders",
+    "quality": "epic",
+    "itemId": 51824,
+    "url": "https://wowhead.com/wotlk/item=51824"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Valithria",
+    "itemName": "Ironrope Belt of Ymirjar",
+    "quality": "epic",
+    "itemId": 51831,
+    "url": "https://wowhead.com/wotlk/item=51831"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Valithria",
+    "itemName": "Leggings of the Refracted Mind",
+    "quality": "epic",
+    "itemId": 51823,
+    "url": "https://wowhead.com/wotlk/item=51823"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Valithria",
+    "itemName": "Legguards of the Twisted Dream",
+    "quality": "epic",
+    "itemId": 51829,
+    "url": "https://wowhead.com/wotlk/item=51829"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Valithria",
+    "itemName": "Lich Wrappings",
+    "quality": "epic",
+    "itemId": 51826,
+    "url": "https://wowhead.com/wotlk/item=51826"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Valithria",
+    "itemName": "Oxheart",
+    "quality": "epic",
+    "itemId": 51833,
+    "url": "https://wowhead.com/wotlk/item=51833"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Valithria",
+    "itemName": "Sister Svalna's Aether Staff",
+    "quality": "epic",
+    "itemId": 51828,
+    "url": "https://wowhead.com/wotlk/item=51828"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Valithria",
+    "itemName": "Sister Svalna's Spangenhelm",
+    "quality": "epic",
+    "itemId": 51825,
+    "url": "https://wowhead.com/wotlk/item=51825"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Valithria",
+    "itemName": "Skinned Whelp Shoulders",
+    "quality": "epic",
+    "itemId": 51830,
+    "url": "https://wowhead.com/wotlk/item=51830"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Valithria",
+    "itemName": "Stormbringer Gloves",
+    "quality": "epic",
+    "itemId": 51827,
+    "url": "https://wowhead.com/wotlk/item=51827"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Valithria",
+    "itemName": "Taiga Bindings",
+    "quality": "epic",
+    "itemId": 51832,
+    "url": "https://wowhead.com/wotlk/item=51832"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Sindragosa",
+    "itemName": "Bleak Coldarra Carver",
+    "quality": "epic",
+    "itemId": 51815,
+    "url": "https://wowhead.com/wotlk/item=51815"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Sindragosa",
+    "itemName": "Conqueror's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52027,
+    "url": "https://wowhead.com/wotlk/item=52027"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Sindragosa",
+    "itemName": "Etched Dragonbone Girdle",
+    "quality": "epic",
+    "itemId": 51821,
+    "url": "https://wowhead.com/wotlk/item=51821"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Sindragosa",
+    "itemName": "Icicle Shapers",
+    "quality": "epic",
+    "itemId": 51814,
+    "url": "https://wowhead.com/wotlk/item=51814"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Sindragosa",
+    "itemName": "Legplates of Aetheric Strife",
+    "quality": "epic",
+    "itemId": 51817,
+    "url": "https://wowhead.com/wotlk/item=51817"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Sindragosa",
+    "itemName": "Lost Pavise of the Blue Flight",
+    "quality": "epic",
+    "itemId": 51812,
+    "url": "https://wowhead.com/wotlk/item=51812"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Sindragosa",
+    "itemName": "Protector's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52026,
+    "url": "https://wowhead.com/wotlk/item=52026"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Sindragosa",
+    "itemName": "Rimetooth Pendant",
+    "quality": "epic",
+    "itemId": 51822,
+    "url": "https://wowhead.com/wotlk/item=51822"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Sindragosa",
+    "itemName": "Robes of Azure Downfall",
+    "quality": "epic",
+    "itemId": 51813,
+    "url": "https://wowhead.com/wotlk/item=51813"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Sindragosa",
+    "itemName": "Scourge Fanged Stompers",
+    "quality": "epic",
+    "itemId": 51816,
+    "url": "https://wowhead.com/wotlk/item=51816"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Sindragosa",
+    "itemName": "Shoulderguards of Crystalline Bone",
+    "quality": "epic",
+    "itemId": 51811,
+    "url": "https://wowhead.com/wotlk/item=51811"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Sindragosa",
+    "itemName": "Splintershard",
+    "quality": "epic",
+    "itemId": 51819,
+    "url": "https://wowhead.com/wotlk/item=51819"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Sindragosa",
+    "itemName": "Vambraces of the Frost Wyrm Queen",
+    "quality": "epic",
+    "itemId": 51820,
+    "url": "https://wowhead.com/wotlk/item=51820"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Sindragosa",
+    "itemName": "Vanquisher's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52025,
+    "url": "https://wowhead.com/wotlk/item=52025"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Sindragosa",
+    "itemName": "Wyrmwing Treads",
+    "quality": "epic",
+    "itemId": 51818,
+    "url": "https://wowhead.com/wotlk/item=51818"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Lich King",
+    "itemName": "Conqueror's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52027,
+    "url": "https://wowhead.com/wotlk/item=52027"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Lich King",
+    "itemName": "Emblem of Frost",
+    "quality": "epic",
+    "itemId": 49426,
+    "url": "https://wowhead.com/wotlk/item=49426"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Lich King",
+    "itemName": "Halion, Staff of Forgotten Love",
+    "quality": "epic",
+    "itemId": 51943,
+    "url": "https://wowhead.com/wotlk/item=51943"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Lich King",
+    "itemName": "Protector's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52026,
+    "url": "https://wowhead.com/wotlk/item=52026"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Lich King",
+    "itemName": "Pugius, Fist of Defiance",
+    "quality": "epic",
+    "itemId": 51941,
+    "url": "https://wowhead.com/wotlk/item=51941"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Lich King",
+    "itemName": "Stormfury, Black Blade of the Betrayer",
+    "quality": "epic",
+    "itemId": 51942,
+    "url": "https://wowhead.com/wotlk/item=51942"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Lich King",
+    "itemName": "Tainted Twig of Nordrassil",
+    "quality": "epic",
+    "itemId": 51945,
+    "url": "https://wowhead.com/wotlk/item=51945"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Lich King",
+    "itemName": "Tel'thas, Dagger of the Blood King",
+    "quality": "epic",
+    "itemId": 51939,
+    "url": "https://wowhead.com/wotlk/item=51939"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Lich King",
+    "itemName": "Troggbane, Axe of the Frostborne King",
+    "quality": "epic",
+    "itemId": 51947,
+    "url": "https://wowhead.com/wotlk/item=51947"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Lich King",
+    "itemName": "Valius, Gavel of the Lightbringer",
+    "quality": "epic",
+    "itemId": 51944,
+    "url": "https://wowhead.com/wotlk/item=51944"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Lich King",
+    "itemName": "Vanquisher's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52025,
+    "url": "https://wowhead.com/wotlk/item=52025"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Lich King",
+    "itemName": "Warmace of Menethil",
+    "quality": "epic",
+    "itemId": 51946,
+    "url": "https://wowhead.com/wotlk/item=51946"
+  },
+  {
+    "instanceName": "Icecrown Citadel H10",
+    "encounter": "Lich King",
+    "itemName": "Windrunner's Heartseeker",
+    "quality": "epic",
+    "itemId": 51940,
+    "url": "https://wowhead.com/wotlk/item=51940"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Trash",
+    "itemName": "Belt of the Lonely Noble",
+    "quality": "epic",
+    "itemId": 50451,
+    "url": "https://wowhead.com/wotlk/item=50451"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Trash",
+    "itemName": "Harbinger's Bone Band",
+    "quality": "epic",
+    "itemId": 50447,
+    "url": "https://wowhead.com/wotlk/item=50447"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Trash",
+    "itemName": "Leggings of Dubious Charms",
+    "quality": "epic",
+    "itemId": 50450,
+    "url": "https://wowhead.com/wotlk/item=50450"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Trash",
+    "itemName": "Ring of Rotting Sinew",
+    "quality": "epic",
+    "itemId": 50453,
+    "url": "https://wowhead.com/wotlk/item=50453"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Trash",
+    "itemName": "Rowan's Rifle of Silver Bullets",
+    "quality": "epic",
+    "itemId": 50444,
+    "url": "https://wowhead.com/wotlk/item=50444"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Trash",
+    "itemName": "Stiffened Corpse Shoulderpads",
+    "quality": "epic",
+    "itemId": 50449,
+    "url": "https://wowhead.com/wotlk/item=50449"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Trash",
+    "itemName": "Wodin's Lucky Necklace",
+    "quality": "epic",
+    "itemId": 50452,
+    "url": "https://wowhead.com/wotlk/item=50452"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Tokens",
+    "itemName": "Primordial Saronite",
+    "quality": "rare",
+    "itemId": 49908,
+    "url": "https://wowhead.com/wotlk/item=49908"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Tokens",
+    "itemName": "Shadowfrost Shard",
+    "quality": "legendary",
+    "itemId": 50274,
+    "url": "https://wowhead.com/wotlk/item=50274"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Marrowgar",
+    "itemName": "Band of the Bone Colossus",
+    "quality": "epic",
+    "itemId": 49949,
+    "url": "https://wowhead.com/wotlk/item=49949"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Marrowgar",
+    "itemName": "Bone Sentinel's Amulet",
+    "quality": "epic",
+    "itemId": 49975,
+    "url": "https://wowhead.com/wotlk/item=49975"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Marrowgar",
+    "itemName": "Bracers of Dark Reckoning",
+    "quality": "epic",
+    "itemId": 49960,
+    "url": "https://wowhead.com/wotlk/item=49960"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Marrowgar",
+    "itemName": "Bryntroll, the Bone Arbiter",
+    "quality": "epic",
+    "itemId": 50415,
+    "url": "https://wowhead.com/wotlk/item=50415"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Marrowgar",
+    "itemName": "Bulwark of Smouldering Steel",
+    "quality": "epic",
+    "itemId": 49976,
+    "url": "https://wowhead.com/wotlk/item=49976"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Marrowgar",
+    "itemName": "Crushing Coldwraith Belt",
+    "quality": "epic",
+    "itemId": 49978,
+    "url": "https://wowhead.com/wotlk/item=49978"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Marrowgar",
+    "itemName": "Frostbitten Fur Boots",
+    "quality": "epic",
+    "itemId": 49950,
+    "url": "https://wowhead.com/wotlk/item=49950"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Marrowgar",
+    "itemName": "Frozen Bonespike",
+    "quality": "epic",
+    "itemId": 49968,
+    "url": "https://wowhead.com/wotlk/item=49968"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Marrowgar",
+    "itemName": "Gendarme's Cuirass",
+    "quality": "epic",
+    "itemId": 49951,
+    "url": "https://wowhead.com/wotlk/item=49951"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Marrowgar",
+    "itemName": "Handguards of Winter's Respite",
+    "quality": "epic",
+    "itemId": 49979,
+    "url": "https://wowhead.com/wotlk/item=49979"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Marrowgar",
+    "itemName": "Legguards of Lost Hope",
+    "quality": "epic",
+    "itemId": 49964,
+    "url": "https://wowhead.com/wotlk/item=49964"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Marrowgar",
+    "itemName": "Loop of the Endless Labyrinth",
+    "quality": "epic",
+    "itemId": 49977,
+    "url": "https://wowhead.com/wotlk/item=49977"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Marrowgar",
+    "itemName": "Marrowgar's Frigid Eye",
+    "quality": "epic",
+    "itemId": 49967,
+    "url": "https://wowhead.com/wotlk/item=49967"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Marrowgar",
+    "itemName": "Rusted Bonespike Pauldrons",
+    "quality": "epic",
+    "itemId": 49980,
+    "url": "https://wowhead.com/wotlk/item=49980"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Marrowgar",
+    "itemName": "Snowserpent Mail Helm",
+    "quality": "epic",
+    "itemId": 49952,
+    "url": "https://wowhead.com/wotlk/item=49952"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Deathwhisper",
+    "itemName": "Ahn'kahar Onyx Neckguard",
+    "quality": "epic",
+    "itemId": 49989,
+    "url": "https://wowhead.com/wotlk/item=49989"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Deathwhisper",
+    "itemName": "Blood-Soaked Saronite Stompers",
+    "quality": "epic",
+    "itemId": 49983,
+    "url": "https://wowhead.com/wotlk/item=49983"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Deathwhisper",
+    "itemName": "Broken Ram Skull Helm",
+    "quality": "epic",
+    "itemId": 49986,
+    "url": "https://wowhead.com/wotlk/item=49986"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Deathwhisper",
+    "itemName": "Cultist's Bloodsoaked Spaulders",
+    "quality": "epic",
+    "itemId": 49987,
+    "url": "https://wowhead.com/wotlk/item=49987"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Deathwhisper",
+    "itemName": "Deathwhisper Raiment",
+    "quality": "epic",
+    "itemId": 49996,
+    "url": "https://wowhead.com/wotlk/item=49996"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Deathwhisper",
+    "itemName": "Fallen Lord's Handguards",
+    "quality": "epic",
+    "itemId": 49995,
+    "url": "https://wowhead.com/wotlk/item=49995"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Deathwhisper",
+    "itemName": "Heartpierce",
+    "quality": "epic",
+    "itemId": 49982,
+    "url": "https://wowhead.com/wotlk/item=49982"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Deathwhisper",
+    "itemName": "Juggernaut Band",
+    "quality": "epic",
+    "itemId": 49985,
+    "url": "https://wowhead.com/wotlk/item=49985"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Deathwhisper",
+    "itemName": "Leggings of Northern Lights",
+    "quality": "epic",
+    "itemId": 49988,
+    "url": "https://wowhead.com/wotlk/item=49988"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Deathwhisper",
+    "itemName": "Necrophotic Greaves",
+    "quality": "epic",
+    "itemId": 49993,
+    "url": "https://wowhead.com/wotlk/item=49993"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Deathwhisper",
+    "itemName": "Nibelung",
+    "quality": "epic",
+    "itemId": 49992,
+    "url": "https://wowhead.com/wotlk/item=49992"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Deathwhisper",
+    "itemName": "Ring of Maddening Whispers",
+    "quality": "epic",
+    "itemId": 49990,
+    "url": "https://wowhead.com/wotlk/item=49990"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Deathwhisper",
+    "itemName": "Shoulders of Mercy Killing",
+    "quality": "epic",
+    "itemId": 49991,
+    "url": "https://wowhead.com/wotlk/item=49991"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Deathwhisper",
+    "itemName": "The Lady's Brittle Bracers",
+    "quality": "epic",
+    "itemId": 49994,
+    "url": "https://wowhead.com/wotlk/item=49994"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Deathwhisper",
+    "itemName": "Zod's Repeating Longbow",
+    "quality": "epic",
+    "itemId": 50034,
+    "url": "https://wowhead.com/wotlk/item=50034"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Gunship",
+    "itemName": "Althor's Abacus",
+    "quality": "epic",
+    "itemId": 50359,
+    "url": "https://wowhead.com/wotlk/item=50359"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Gunship",
+    "itemName": "Amulet of the Silent Eulogy",
+    "quality": "epic",
+    "itemId": 50005,
+    "url": "https://wowhead.com/wotlk/item=50005"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Gunship",
+    "itemName": "Boneguard Commander's Pauldrons",
+    "quality": "epic",
+    "itemId": 50003,
+    "url": "https://wowhead.com/wotlk/item=50003"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Gunship",
+    "itemName": "Boots of Unnatural Growth",
+    "quality": "epic",
+    "itemId": 50009,
+    "url": "https://wowhead.com/wotlk/item=50009"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Gunship",
+    "itemName": "Corp'rethar Ceremonial Crown",
+    "quality": "epic",
+    "itemId": 50006,
+    "url": "https://wowhead.com/wotlk/item=50006"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Gunship",
+    "itemName": "Corpse Tongue Coin",
+    "quality": "epic",
+    "itemId": 50352,
+    "url": "https://wowhead.com/wotlk/item=50352"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Gunship",
+    "itemName": "Gunship Captain's Mittens",
+    "quality": "epic",
+    "itemId": 50011,
+    "url": "https://wowhead.com/wotlk/item=50011"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Gunship",
+    "itemName": "Ikfirus's Sack of Wonder",
+    "quality": "epic",
+    "itemId": 50001,
+    "url": "https://wowhead.com/wotlk/item=50001"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Gunship",
+    "itemName": "Polar Bear Claw Bracers",
+    "quality": "epic",
+    "itemId": 50002,
+    "url": "https://wowhead.com/wotlk/item=50002"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Gunship",
+    "itemName": "Ring of Rapid Ascent",
+    "quality": "epic",
+    "itemId": 50008,
+    "url": "https://wowhead.com/wotlk/item=50008"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Gunship",
+    "itemName": "Scourge Hunter's Vambraces",
+    "quality": "epic",
+    "itemId": 50000,
+    "url": "https://wowhead.com/wotlk/item=50000"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Gunship",
+    "itemName": "Scourgeborne Waraxe",
+    "quality": "epic",
+    "itemId": 50411,
+    "url": "https://wowhead.com/wotlk/item=50411"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Gunship",
+    "itemName": "Shadowvault Slayer's Cloak",
+    "quality": "epic",
+    "itemId": 49998,
+    "url": "https://wowhead.com/wotlk/item=49998"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Gunship",
+    "itemName": "Skeleton Lord's Circle",
+    "quality": "epic",
+    "itemId": 49999,
+    "url": "https://wowhead.com/wotlk/item=49999"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Gunship",
+    "itemName": "Waistband of Righteous Fury",
+    "quality": "epic",
+    "itemId": 50010,
+    "url": "https://wowhead.com/wotlk/item=50010"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Saurfang",
+    "itemName": "Belt of the Blood Nova",
+    "quality": "epic",
+    "itemId": 50015,
+    "url": "https://wowhead.com/wotlk/item=50015"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Saurfang",
+    "itemName": "Bloodvenom Blade",
+    "quality": "epic",
+    "itemId": 50412,
+    "url": "https://wowhead.com/wotlk/item=50412"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Saurfang",
+    "itemName": "Conqueror's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52027,
+    "url": "https://wowhead.com/wotlk/item=52027"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Saurfang",
+    "itemName": "Deathbringer's Will",
+    "quality": "epic",
+    "itemId": 50362,
+    "url": "https://wowhead.com/wotlk/item=50362"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Saurfang",
+    "itemName": "Greatcloak of the Turned Champion",
+    "quality": "epic",
+    "itemId": 50014,
+    "url": "https://wowhead.com/wotlk/item=50014"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Saurfang",
+    "itemName": "Protector's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52026,
+    "url": "https://wowhead.com/wotlk/item=52026"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Saurfang",
+    "itemName": "Toskk's Maximized Wristguards",
+    "quality": "epic",
+    "itemId": 50333,
+    "url": "https://wowhead.com/wotlk/item=50333"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Saurfang",
+    "itemName": "Vanquisher's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52025,
+    "url": "https://wowhead.com/wotlk/item=52025"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Festergut",
+    "itemName": "Belt of Broken Bones",
+    "quality": "epic",
+    "itemId": 50036,
+    "url": "https://wowhead.com/wotlk/item=50036"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Festergut",
+    "itemName": "Black Bruise",
+    "quality": "epic",
+    "itemId": 50035,
+    "url": "https://wowhead.com/wotlk/item=50035"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Festergut",
+    "itemName": "Carapace of Forgotten Kings",
+    "quality": "epic",
+    "itemId": 50038,
+    "url": "https://wowhead.com/wotlk/item=50038"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Festergut",
+    "itemName": "Distant Land",
+    "quality": "epic",
+    "itemId": 50040,
+    "url": "https://wowhead.com/wotlk/item=50040"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Festergut",
+    "itemName": "Faceplate of the Forgotten",
+    "quality": "epic",
+    "itemId": 50060,
+    "url": "https://wowhead.com/wotlk/item=50060"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Festergut",
+    "itemName": "Festergut's Acidic Blood",
+    "quality": "epic",
+    "itemId": 50226,
+    "url": "https://wowhead.com/wotlk/item=50226"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Festergut",
+    "itemName": "Fleshrending Gauntlets",
+    "quality": "epic",
+    "itemId": 50037,
+    "url": "https://wowhead.com/wotlk/item=50037"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Festergut",
+    "itemName": "Gangrenous Leggings",
+    "quality": "epic",
+    "itemId": 50042,
+    "url": "https://wowhead.com/wotlk/item=50042"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Festergut",
+    "itemName": "Holiday's Grace",
+    "quality": "epic",
+    "itemId": 50061,
+    "url": "https://wowhead.com/wotlk/item=50061"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Festergut",
+    "itemName": "Horrific Flesh Epaulets",
+    "quality": "epic",
+    "itemId": 50059,
+    "url": "https://wowhead.com/wotlk/item=50059"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Festergut",
+    "itemName": "Leather of Stitched Scourge Parts",
+    "quality": "epic",
+    "itemId": 50041,
+    "url": "https://wowhead.com/wotlk/item=50041"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Festergut",
+    "itemName": "Lingering Illness",
+    "quality": "epic",
+    "itemId": 50063,
+    "url": "https://wowhead.com/wotlk/item=50063"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Festergut",
+    "itemName": "Might of Blight",
+    "quality": "epic",
+    "itemId": 50414,
+    "url": "https://wowhead.com/wotlk/item=50414"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Festergut",
+    "itemName": "Nerub'ar Stalker's Cord",
+    "quality": "epic",
+    "itemId": 50413,
+    "url": "https://wowhead.com/wotlk/item=50413"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Festergut",
+    "itemName": "Plague Scientist's Boots",
+    "quality": "epic",
+    "itemId": 50062,
+    "url": "https://wowhead.com/wotlk/item=50062"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Festergut",
+    "itemName": "Plaguebringer's Stained Pants",
+    "quality": "epic",
+    "itemId": 50056,
+    "url": "https://wowhead.com/wotlk/item=50056"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Festergut",
+    "itemName": "Unclean Surgical Gloves",
+    "quality": "epic",
+    "itemId": 50064,
+    "url": "https://wowhead.com/wotlk/item=50064"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Rotface",
+    "itemName": "Aldriana's Gloves of Secrecy",
+    "quality": "epic",
+    "itemId": 50021,
+    "url": "https://wowhead.com/wotlk/item=50021"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Rotface",
+    "itemName": "Bile-Encrusted Medallion",
+    "quality": "epic",
+    "itemId": 50023,
+    "url": "https://wowhead.com/wotlk/item=50023"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Rotface",
+    "itemName": "Blightborne Warplate",
+    "quality": "epic",
+    "itemId": 50024,
+    "url": "https://wowhead.com/wotlk/item=50024"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Rotface",
+    "itemName": "Bloodsunder's Bracers",
+    "quality": "epic",
+    "itemId": 50030,
+    "url": "https://wowhead.com/wotlk/item=50030"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Rotface",
+    "itemName": "Corpse-Impaling Spike",
+    "quality": "epic",
+    "itemId": 50033,
+    "url": "https://wowhead.com/wotlk/item=50033"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Rotface",
+    "itemName": "Death Surgeon's Sleeves",
+    "quality": "epic",
+    "itemId": 50032,
+    "url": "https://wowhead.com/wotlk/item=50032"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Rotface",
+    "itemName": "Dislodged Foreign Object",
+    "quality": "epic",
+    "itemId": 50353,
+    "url": "https://wowhead.com/wotlk/item=50353"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Rotface",
+    "itemName": "Dual-Bladed Pauldrons",
+    "quality": "epic",
+    "itemId": 50022,
+    "url": "https://wowhead.com/wotlk/item=50022"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Rotface",
+    "itemName": "Helm of the Elder Moon",
+    "quality": "epic",
+    "itemId": 50026,
+    "url": "https://wowhead.com/wotlk/item=50026"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Rotface",
+    "itemName": "Raging Behemoth's Shoulderplates",
+    "quality": "epic",
+    "itemId": 50020,
+    "url": "https://wowhead.com/wotlk/item=50020"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Rotface",
+    "itemName": "Rib Spreader",
+    "quality": "epic",
+    "itemId": 50016,
+    "url": "https://wowhead.com/wotlk/item=50016"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Rotface",
+    "itemName": "Rot-Resistant Breastplate",
+    "quality": "epic",
+    "itemId": 50027,
+    "url": "https://wowhead.com/wotlk/item=50027"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Rotface",
+    "itemName": "Rotface's Acidic Blood",
+    "quality": "epic",
+    "itemId": 50231,
+    "url": "https://wowhead.com/wotlk/item=50231"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Rotface",
+    "itemName": "Seal of Many Mouths",
+    "quality": "epic",
+    "itemId": 50025,
+    "url": "https://wowhead.com/wotlk/item=50025"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Rotface",
+    "itemName": "Trauma",
+    "quality": "epic",
+    "itemId": 50028,
+    "url": "https://wowhead.com/wotlk/item=50028"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Rotface",
+    "itemName": "Winding Sheet",
+    "quality": "epic",
+    "itemId": 50019,
+    "url": "https://wowhead.com/wotlk/item=50019"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Putricide",
+    "itemName": "Astrylian's Sutured Cinch",
+    "quality": "epic",
+    "itemId": 50067,
+    "url": "https://wowhead.com/wotlk/item=50067"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Putricide",
+    "itemName": "Conqueror's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52027,
+    "url": "https://wowhead.com/wotlk/item=52027"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Putricide",
+    "itemName": "Last Word",
+    "quality": "epic",
+    "itemId": 50179,
+    "url": "https://wowhead.com/wotlk/item=50179"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Putricide",
+    "itemName": "Professor's Bloodied Smock",
+    "quality": "epic",
+    "itemId": 50069,
+    "url": "https://wowhead.com/wotlk/item=50069"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Putricide",
+    "itemName": "Protector's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52026,
+    "url": "https://wowhead.com/wotlk/item=52026"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Putricide",
+    "itemName": "Rigormortis",
+    "quality": "epic",
+    "itemId": 50068,
+    "url": "https://wowhead.com/wotlk/item=50068"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Putricide",
+    "itemName": "Tiny Abomination in a Jar",
+    "quality": "epic",
+    "itemId": 50351,
+    "url": "https://wowhead.com/wotlk/item=50351"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Putricide",
+    "itemName": "Vanquisher's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52025,
+    "url": "https://wowhead.com/wotlk/item=52025"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Council",
+    "itemName": "Crypt Keeper's Bracers",
+    "quality": "epic",
+    "itemId": 50175,
+    "url": "https://wowhead.com/wotlk/item=50175"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Council",
+    "itemName": "Cryptmaker",
+    "quality": "epic",
+    "itemId": 49919,
+    "url": "https://wowhead.com/wotlk/item=49919"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Council",
+    "itemName": "Geistlord's Punishment Sack",
+    "quality": "epic",
+    "itemId": 50073,
+    "url": "https://wowhead.com/wotlk/item=50073"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Council",
+    "itemName": "Incarnadine Band of Mending",
+    "quality": "epic",
+    "itemId": 50174,
+    "url": "https://wowhead.com/wotlk/item=50174"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Council",
+    "itemName": "Keleseth's Seducer",
+    "quality": "epic",
+    "itemId": 50184,
+    "url": "https://wowhead.com/wotlk/item=50184"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Council",
+    "itemName": "Landsoul's Horned Greathelm",
+    "quality": "epic",
+    "itemId": 50072,
+    "url": "https://wowhead.com/wotlk/item=50072"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Council",
+    "itemName": "Mail of Crimson Coins",
+    "quality": "epic",
+    "itemId": 50177,
+    "url": "https://wowhead.com/wotlk/item=50177"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Council",
+    "itemName": "Royal Crimson Cloak",
+    "quality": "epic",
+    "itemId": 50074,
+    "url": "https://wowhead.com/wotlk/item=50074"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Council",
+    "itemName": "San'layn Ritualist Gloves",
+    "quality": "epic",
+    "itemId": 50176,
+    "url": "https://wowhead.com/wotlk/item=50176"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Council",
+    "itemName": "Sanguine Silk Robes",
+    "quality": "epic",
+    "itemId": 50172,
+    "url": "https://wowhead.com/wotlk/item=50172"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Council",
+    "itemName": "Shadow Silk Spindle",
+    "quality": "epic",
+    "itemId": 50173,
+    "url": "https://wowhead.com/wotlk/item=50173"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Council",
+    "itemName": "Shoulders of Frost-Tipped Thorns",
+    "quality": "epic",
+    "itemId": 50171,
+    "url": "https://wowhead.com/wotlk/item=50171"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Council",
+    "itemName": "Taldaram's Plated Fists",
+    "quality": "epic",
+    "itemId": 50075,
+    "url": "https://wowhead.com/wotlk/item=50075"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Council",
+    "itemName": "Treads of the Wasteland",
+    "quality": "epic",
+    "itemId": 50071,
+    "url": "https://wowhead.com/wotlk/item=50071"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Council",
+    "itemName": "Valanar's Other Signet Ring",
+    "quality": "epic",
+    "itemId": 50170,
+    "url": "https://wowhead.com/wotlk/item=50170"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Lana'thel",
+    "itemName": "Bauble of True Blood",
+    "quality": "epic",
+    "itemId": 50354,
+    "url": "https://wowhead.com/wotlk/item=50354"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Lana'thel",
+    "itemName": "Blood Queen's Crimson Choker",
+    "quality": "epic",
+    "itemId": 50182,
+    "url": "https://wowhead.com/wotlk/item=50182"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Lana'thel",
+    "itemName": "Bloodfall",
+    "quality": "epic",
+    "itemId": 50178,
+    "url": "https://wowhead.com/wotlk/item=50178"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Lana'thel",
+    "itemName": "Conqueror's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52027,
+    "url": "https://wowhead.com/wotlk/item=52027"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Lana'thel",
+    "itemName": "Dying Light",
+    "quality": "epic",
+    "itemId": 50181,
+    "url": "https://wowhead.com/wotlk/item=50181"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Lana'thel",
+    "itemName": "Icecrown Glacial Wall",
+    "quality": "epic",
+    "itemId": 50065,
+    "url": "https://wowhead.com/wotlk/item=50065"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Lana'thel",
+    "itemName": "Lana'thel's Chain of Flagellation",
+    "quality": "epic",
+    "itemId": 50180,
+    "url": "https://wowhead.com/wotlk/item=50180"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Lana'thel",
+    "itemName": "Protector's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52026,
+    "url": "https://wowhead.com/wotlk/item=52026"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Lana'thel",
+    "itemName": "Vanquisher's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52025,
+    "url": "https://wowhead.com/wotlk/item=52025"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Valithria",
+    "itemName": "Anub'ar Stalker's Gloves",
+    "quality": "epic",
+    "itemId": 50188,
+    "url": "https://wowhead.com/wotlk/item=50188"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Valithria",
+    "itemName": "Boots of the Funeral March",
+    "quality": "epic",
+    "itemId": 50416,
+    "url": "https://wowhead.com/wotlk/item=50416"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Valithria",
+    "itemName": "Bracers of Eternal Dreaming",
+    "quality": "epic",
+    "itemId": 50417,
+    "url": "https://wowhead.com/wotlk/item=50417"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Valithria",
+    "itemName": "Coldwraith Links",
+    "quality": "epic",
+    "itemId": 50187,
+    "url": "https://wowhead.com/wotlk/item=50187"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Valithria",
+    "itemName": "Devium's Eternally Cold Ring",
+    "quality": "epic",
+    "itemId": 50185,
+    "url": "https://wowhead.com/wotlk/item=50185"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Valithria",
+    "itemName": "Frostbinder's Shredded Cape",
+    "quality": "epic",
+    "itemId": 50205,
+    "url": "https://wowhead.com/wotlk/item=50205"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Valithria",
+    "itemName": "Frostbrood Sapphire Ring",
+    "quality": "epic",
+    "itemId": 50186,
+    "url": "https://wowhead.com/wotlk/item=50186"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Valithria",
+    "itemName": "Grinning Skull Greatboots",
+    "quality": "epic",
+    "itemId": 50190,
+    "url": "https://wowhead.com/wotlk/item=50190"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Valithria",
+    "itemName": "Leggings of Dying Candles",
+    "quality": "epic",
+    "itemId": 50199,
+    "url": "https://wowhead.com/wotlk/item=50199"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Valithria",
+    "itemName": "Lungbreaker",
+    "quality": "epic",
+    "itemId": 50183,
+    "url": "https://wowhead.com/wotlk/item=50183"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Valithria",
+    "itemName": "Nightmare Ender",
+    "quality": "epic",
+    "itemId": 50472,
+    "url": "https://wowhead.com/wotlk/item=50472"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Valithria",
+    "itemName": "Noose of Malachite",
+    "quality": "epic",
+    "itemId": 50195,
+    "url": "https://wowhead.com/wotlk/item=50195"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Valithria",
+    "itemName": "Robe of the Waking Nightmare",
+    "quality": "epic",
+    "itemId": 50418,
+    "url": "https://wowhead.com/wotlk/item=50418"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Valithria",
+    "itemName": "Scourge Reaver's Legplates",
+    "quality": "epic",
+    "itemId": 50192,
+    "url": "https://wowhead.com/wotlk/item=50192"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Valithria",
+    "itemName": "Snowstorm Helm",
+    "quality": "epic",
+    "itemId": 50202,
+    "url": "https://wowhead.com/wotlk/item=50202"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Sindragosa",
+    "itemName": "Conqueror's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52027,
+    "url": "https://wowhead.com/wotlk/item=52027"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Sindragosa",
+    "itemName": "Memory of Malygos",
+    "quality": "epic",
+    "itemId": 50424,
+    "url": "https://wowhead.com/wotlk/item=50424"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Sindragosa",
+    "itemName": "Phylactery of the Nameless Lich",
+    "quality": "epic",
+    "itemId": 50360,
+    "url": "https://wowhead.com/wotlk/item=50360"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Sindragosa",
+    "itemName": "Protector's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52026,
+    "url": "https://wowhead.com/wotlk/item=52026"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Sindragosa",
+    "itemName": "Sindragosa's Cruel Claw",
+    "quality": "epic",
+    "itemId": 50421,
+    "url": "https://wowhead.com/wotlk/item=50421"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Sindragosa",
+    "itemName": "Sindragosa's Flawless Fang",
+    "quality": "epic",
+    "itemId": 50361,
+    "url": "https://wowhead.com/wotlk/item=50361"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Sindragosa",
+    "itemName": "Sundial of Eternal Dusk",
+    "quality": "epic",
+    "itemId": 50423,
+    "url": "https://wowhead.com/wotlk/item=50423"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Sindragosa",
+    "itemName": "Vanquisher's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52025,
+    "url": "https://wowhead.com/wotlk/item=52025"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Lich King",
+    "itemName": "Archus, Greatstaff of Antonidas",
+    "quality": "epic",
+    "itemId": 50429,
+    "url": "https://wowhead.com/wotlk/item=50429"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Lich King",
+    "itemName": "Bloodsurge, Kel'Thuzad's Blade of Agony",
+    "quality": "epic",
+    "itemId": 50427,
+    "url": "https://wowhead.com/wotlk/item=50427"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Lich King",
+    "itemName": "Conqueror's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52027,
+    "url": "https://wowhead.com/wotlk/item=52027"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Lich King",
+    "itemName": "Emblem of Frost",
+    "quality": "epic",
+    "itemId": 49426,
+    "url": "https://wowhead.com/wotlk/item=49426"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Lich King",
+    "itemName": "Fal'inrush, Defender of Quel'thalas",
+    "quality": "epic",
+    "itemId": 49981,
+    "url": "https://wowhead.com/wotlk/item=49981"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Lich King",
+    "itemName": "Glorenzelg, High-Blade of the Silver Hand",
+    "quality": "epic",
+    "itemId": 50070,
+    "url": "https://wowhead.com/wotlk/item=50070"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Lich King",
+    "itemName": "Havoc's Call, Blade of Lordaeron Kings",
+    "quality": "epic",
+    "itemId": 50012,
+    "url": "https://wowhead.com/wotlk/item=50012"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Lich King",
+    "itemName": "Heaven's Fall, Kryss of a Thousand Lies",
+    "quality": "epic",
+    "itemId": 50426,
+    "url": "https://wowhead.com/wotlk/item=50426"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Lich King",
+    "itemName": "Invincible's Reins",
+    "quality": "epic",
+    "itemId": 50818,
+    "url": "https://wowhead.com/wotlk/item=50818"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Lich King",
+    "itemName": "Mithrios, Bronzebeard's Legacy",
+    "quality": "epic",
+    "itemId": 49997,
+    "url": "https://wowhead.com/wotlk/item=49997"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Lich King",
+    "itemName": "Oathbinder, Charge of the Ranger-General",
+    "quality": "epic",
+    "itemId": 50425,
+    "url": "https://wowhead.com/wotlk/item=50425"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Lich King",
+    "itemName": "Protector's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52026,
+    "url": "https://wowhead.com/wotlk/item=52026"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Lich King",
+    "itemName": "Royal Scepter of Terenas II",
+    "quality": "epic",
+    "itemId": 50428,
+    "url": "https://wowhead.com/wotlk/item=50428"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Lich King",
+    "itemName": "Sealed Chest",
+    "quality": "epic",
+    "itemId": 51315,
+    "url": "https://wowhead.com/wotlk/item=51315"
+  },
+  {
+    "instanceName": "Icecrown Citadel N25",
+    "encounter": "Lich King",
+    "itemName": "Vanquisher's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52025,
+    "url": "https://wowhead.com/wotlk/item=52025"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Tokens",
+    "itemName": "Primordial Saronite",
+    "quality": "rare",
+    "itemId": 49908,
+    "url": "https://wowhead.com/wotlk/item=49908"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Marrowgar",
+    "itemName": "Ancient Skeletal Boots",
+    "quality": "epic",
+    "itemId": 50772,
+    "url": "https://wowhead.com/wotlk/item=50772"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Marrowgar",
+    "itemName": "Bone Warden's Splitter",
+    "quality": "epic",
+    "itemId": 50759,
+    "url": "https://wowhead.com/wotlk/item=50759"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Marrowgar",
+    "itemName": "Bonebreaker Scepter",
+    "quality": "epic",
+    "itemId": 50760,
+    "url": "https://wowhead.com/wotlk/item=50760"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Marrowgar",
+    "itemName": "Citadel Enforcer's Claymore",
+    "quality": "epic",
+    "itemId": 50761,
+    "url": "https://wowhead.com/wotlk/item=50761"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Marrowgar",
+    "itemName": "Coldwraith Bracers",
+    "quality": "epic",
+    "itemId": 50774,
+    "url": "https://wowhead.com/wotlk/item=50774"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Marrowgar",
+    "itemName": "Cord of the Patronizing Practitioner",
+    "quality": "epic",
+    "itemId": 50773,
+    "url": "https://wowhead.com/wotlk/item=50773"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Marrowgar",
+    "itemName": "Corrupted Silverplate Leggings",
+    "quality": "epic",
+    "itemId": 50775,
+    "url": "https://wowhead.com/wotlk/item=50775"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Marrowgar",
+    "itemName": "Frost Needle",
+    "quality": "epic",
+    "itemId": 50771,
+    "url": "https://wowhead.com/wotlk/item=50771"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Marrowgar",
+    "itemName": "Linked Scourge Vertebrae",
+    "quality": "epic",
+    "itemId": 50762,
+    "url": "https://wowhead.com/wotlk/item=50762"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Marrowgar",
+    "itemName": "Marrowgar's Scratching Choker",
+    "quality": "epic",
+    "itemId": 50763,
+    "url": "https://wowhead.com/wotlk/item=50763"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Marrowgar",
+    "itemName": "Shawl of Nerubian Silk",
+    "quality": "epic",
+    "itemId": 50764,
+    "url": "https://wowhead.com/wotlk/item=50764"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Marrowgar",
+    "itemName": "Sliver of Pure Ice",
+    "quality": "epic",
+    "itemId": 50339,
+    "url": "https://wowhead.com/wotlk/item=50339"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Deathwhisper",
+    "itemName": "Boots of the Frozen Seed",
+    "quality": "epic",
+    "itemId": 50783,
+    "url": "https://wowhead.com/wotlk/item=50783"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Deathwhisper",
+    "itemName": "Bracers of Dark Blessings",
+    "quality": "epic",
+    "itemId": 50785,
+    "url": "https://wowhead.com/wotlk/item=50785"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Deathwhisper",
+    "itemName": "Chestguard of the Frigid Noose",
+    "quality": "epic",
+    "itemId": 50780,
+    "url": "https://wowhead.com/wotlk/item=50780"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Deathwhisper",
+    "itemName": "Deathspeaker Disciple's Belt",
+    "quality": "epic",
+    "itemId": 50784,
+    "url": "https://wowhead.com/wotlk/item=50784"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Deathwhisper",
+    "itemName": "Deathspeaker Zealot's Helm",
+    "quality": "epic",
+    "itemId": 50779,
+    "url": "https://wowhead.com/wotlk/item=50779"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Deathwhisper",
+    "itemName": "Ghoul Commander's Cuirass",
+    "quality": "epic",
+    "itemId": 50786,
+    "url": "https://wowhead.com/wotlk/item=50786"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Deathwhisper",
+    "itemName": "Handgrips of Frost and Sleet",
+    "quality": "epic",
+    "itemId": 50777,
+    "url": "https://wowhead.com/wotlk/item=50777"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Deathwhisper",
+    "itemName": "Njorndar Bone Bow",
+    "quality": "epic",
+    "itemId": 50776,
+    "url": "https://wowhead.com/wotlk/item=50776"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Deathwhisper",
+    "itemName": "Scourgelord's Baton",
+    "quality": "epic",
+    "itemId": 50781,
+    "url": "https://wowhead.com/wotlk/item=50781"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Deathwhisper",
+    "itemName": "Sister's Handshrouds",
+    "quality": "epic",
+    "itemId": 50782,
+    "url": "https://wowhead.com/wotlk/item=50782"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Deathwhisper",
+    "itemName": "Soulthief's Braided Belt",
+    "quality": "epic",
+    "itemId": 50778,
+    "url": "https://wowhead.com/wotlk/item=50778"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Deathwhisper",
+    "itemName": "Whispering Fanged Skull",
+    "quality": "epic",
+    "itemId": 50342,
+    "url": "https://wowhead.com/wotlk/item=50342"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Gunship",
+    "itemName": "Abomination's Bloody Ring",
+    "quality": "epic",
+    "itemId": 50790,
+    "url": "https://wowhead.com/wotlk/item=50790"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Gunship",
+    "itemName": "Bone Drake's Enameled Boots",
+    "quality": "epic",
+    "itemId": 50788,
+    "url": "https://wowhead.com/wotlk/item=50788"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Gunship",
+    "itemName": "Bracers of Pale Illumination",
+    "quality": "epic",
+    "itemId": 50796,
+    "url": "https://wowhead.com/wotlk/item=50796"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Gunship",
+    "itemName": "Cord of Dark Suffering",
+    "quality": "epic",
+    "itemId": 50795,
+    "url": "https://wowhead.com/wotlk/item=50795"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Gunship",
+    "itemName": "Frost Giant's Cleaver",
+    "quality": "epic",
+    "itemId": 50787,
+    "url": "https://wowhead.com/wotlk/item=50787"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Gunship",
+    "itemName": "Ice-Reinforced Vrykul Helm",
+    "quality": "epic",
+    "itemId": 50797,
+    "url": "https://wowhead.com/wotlk/item=50797"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Gunship",
+    "itemName": "Icecrown Rampart Bracers",
+    "quality": "epic",
+    "itemId": 50789,
+    "url": "https://wowhead.com/wotlk/item=50789"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Gunship",
+    "itemName": "Midnight Sun",
+    "quality": "epic",
+    "itemId": 50793,
+    "url": "https://wowhead.com/wotlk/item=50793"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Gunship",
+    "itemName": "Muradin's Spyglass",
+    "quality": "epic",
+    "itemId": 50340,
+    "url": "https://wowhead.com/wotlk/item=50340"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Gunship",
+    "itemName": "Neverending Winter",
+    "quality": "epic",
+    "itemId": 50794,
+    "url": "https://wowhead.com/wotlk/item=50794"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Gunship",
+    "itemName": "Pauldrons of Lost Hope",
+    "quality": "epic",
+    "itemId": 50792,
+    "url": "https://wowhead.com/wotlk/item=50792"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Gunship",
+    "itemName": "Saronite Gargoyle Cloak",
+    "quality": "epic",
+    "itemId": 50791,
+    "url": "https://wowhead.com/wotlk/item=50791"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Saurfang",
+    "itemName": "Blade-Scored Carapace",
+    "quality": "epic",
+    "itemId": 50801,
+    "url": "https://wowhead.com/wotlk/item=50801"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Saurfang",
+    "itemName": "Deathforged Legplates",
+    "quality": "epic",
+    "itemId": 50808,
+    "url": "https://wowhead.com/wotlk/item=50808"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Saurfang",
+    "itemName": "Gargoyle Spit Bracers",
+    "quality": "epic",
+    "itemId": 50802,
+    "url": "https://wowhead.com/wotlk/item=50802"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Saurfang",
+    "itemName": "Hauberk of a Thousand Cuts",
+    "quality": "epic",
+    "itemId": 50800,
+    "url": "https://wowhead.com/wotlk/item=50800"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Saurfang",
+    "itemName": "Icecrown Spire Sandals",
+    "quality": "epic",
+    "itemId": 50804,
+    "url": "https://wowhead.com/wotlk/item=50804"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Saurfang",
+    "itemName": "Leggings of Unrelenting Blood",
+    "quality": "epic",
+    "itemId": 50806,
+    "url": "https://wowhead.com/wotlk/item=50806"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Saurfang",
+    "itemName": "Mag'hari Chieftain's Staff",
+    "quality": "epic",
+    "itemId": 50805,
+    "url": "https://wowhead.com/wotlk/item=50805"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Saurfang",
+    "itemName": "Ramaladni's Blade of Culling",
+    "quality": "epic",
+    "itemId": 50798,
+    "url": "https://wowhead.com/wotlk/item=50798"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Saurfang",
+    "itemName": "Saurfang's Cold-Forged Band",
+    "quality": "epic",
+    "itemId": 50803,
+    "url": "https://wowhead.com/wotlk/item=50803"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Saurfang",
+    "itemName": "Scourge Stranglers",
+    "quality": "epic",
+    "itemId": 50799,
+    "url": "https://wowhead.com/wotlk/item=50799"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Saurfang",
+    "itemName": "Soulcleave Pendant",
+    "quality": "epic",
+    "itemId": 50809,
+    "url": "https://wowhead.com/wotlk/item=50809"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Saurfang",
+    "itemName": "Thaumaturge's Crackling Cowl",
+    "quality": "epic",
+    "itemId": 50807,
+    "url": "https://wowhead.com/wotlk/item=50807"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Festergut",
+    "itemName": "Abracadaver",
+    "quality": "epic",
+    "itemId": 50966,
+    "url": "https://wowhead.com/wotlk/item=50966"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Festergut",
+    "itemName": "Bloodstained Surgeon's Shoulderguards",
+    "quality": "epic",
+    "itemId": 50988,
+    "url": "https://wowhead.com/wotlk/item=50988"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Festergut",
+    "itemName": "Cloak of Many Skins",
+    "quality": "epic",
+    "itemId": 50859,
+    "url": "https://wowhead.com/wotlk/item=50859"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Festergut",
+    "itemName": "Festergut's Gaseous Gloves",
+    "quality": "epic",
+    "itemId": 50967,
+    "url": "https://wowhead.com/wotlk/item=50967"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Festergut",
+    "itemName": "Festering Fingerguards",
+    "quality": "epic",
+    "itemId": 50811,
+    "url": "https://wowhead.com/wotlk/item=50811"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Festergut",
+    "itemName": "Gutbuster",
+    "quality": "epic",
+    "itemId": 50810,
+    "url": "https://wowhead.com/wotlk/item=50810"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Festergut",
+    "itemName": "Kilt of Untreated Wounds",
+    "quality": "epic",
+    "itemId": 50990,
+    "url": "https://wowhead.com/wotlk/item=50990"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Festergut",
+    "itemName": "Plague-Soaked Leather Leggings",
+    "quality": "epic",
+    "itemId": 50858,
+    "url": "https://wowhead.com/wotlk/item=50858"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Festergut",
+    "itemName": "Precious's Putrid Collar",
+    "quality": "epic",
+    "itemId": 50852,
+    "url": "https://wowhead.com/wotlk/item=50852"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Festergut",
+    "itemName": "Signet of Putrefaction",
+    "quality": "epic",
+    "itemId": 50986,
+    "url": "https://wowhead.com/wotlk/item=50986"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Festergut",
+    "itemName": "Taldron's Long Neglected Boots",
+    "quality": "epic",
+    "itemId": 50812,
+    "url": "https://wowhead.com/wotlk/item=50812"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Festergut",
+    "itemName": "Wrists of Septic Shock",
+    "quality": "epic",
+    "itemId": 50985,
+    "url": "https://wowhead.com/wotlk/item=50985"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Rotface",
+    "itemName": "Abomination Knuckles",
+    "quality": "epic",
+    "itemId": 51003,
+    "url": "https://wowhead.com/wotlk/item=51003"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Rotface",
+    "itemName": "Chestguard of the Failed Experiment",
+    "quality": "epic",
+    "itemId": 51009,
+    "url": "https://wowhead.com/wotlk/item=51009"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Rotface",
+    "itemName": "Choker of Filthy Diamonds",
+    "quality": "epic",
+    "itemId": 51008,
+    "url": "https://wowhead.com/wotlk/item=51008"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Rotface",
+    "itemName": "Ether-Soaked Bracers",
+    "quality": "epic",
+    "itemId": 51007,
+    "url": "https://wowhead.com/wotlk/item=51007"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Rotface",
+    "itemName": "Flesh-Shaper's Gurney Strap",
+    "quality": "epic",
+    "itemId": 51000,
+    "url": "https://wowhead.com/wotlk/item=51000"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Rotface",
+    "itemName": "Gloves of Broken Fingers",
+    "quality": "epic",
+    "itemId": 51005,
+    "url": "https://wowhead.com/wotlk/item=51005"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Rotface",
+    "itemName": "Gluth's Fetching Knife",
+    "quality": "epic",
+    "itemId": 50999,
+    "url": "https://wowhead.com/wotlk/item=50999"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Rotface",
+    "itemName": "Lockjaw",
+    "quality": "epic",
+    "itemId": 51004,
+    "url": "https://wowhead.com/wotlk/item=51004"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Rotface",
+    "itemName": "Rotface's Rupturing Ring",
+    "quality": "epic",
+    "itemId": 51001,
+    "url": "https://wowhead.com/wotlk/item=51001"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Rotface",
+    "itemName": "Shaft of Glacial Ice",
+    "quality": "epic",
+    "itemId": 50998,
+    "url": "https://wowhead.com/wotlk/item=50998"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Rotface",
+    "itemName": "Shuffling Shoes",
+    "quality": "epic",
+    "itemId": 51006,
+    "url": "https://wowhead.com/wotlk/item=51006"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Rotface",
+    "itemName": "Taldron's Short-Sighted Helm",
+    "quality": "epic",
+    "itemId": 51002,
+    "url": "https://wowhead.com/wotlk/item=51002"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Putricide",
+    "itemName": "Cauterized Cord",
+    "quality": "epic",
+    "itemId": 51017,
+    "url": "https://wowhead.com/wotlk/item=51017"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Putricide",
+    "itemName": "Chestplate of Septic Stitches",
+    "quality": "epic",
+    "itemId": 51018,
+    "url": "https://wowhead.com/wotlk/item=51018"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Putricide",
+    "itemName": "Discarded Bag of Entrails",
+    "quality": "epic",
+    "itemId": 51013,
+    "url": "https://wowhead.com/wotlk/item=51013"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Putricide",
+    "itemName": "Flesh-Carving Scalpel",
+    "quality": "epic",
+    "itemId": 51011,
+    "url": "https://wowhead.com/wotlk/item=51011"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Putricide",
+    "itemName": "Infected Choker",
+    "quality": "epic",
+    "itemId": 51012,
+    "url": "https://wowhead.com/wotlk/item=51012"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Putricide",
+    "itemName": "Pendant of Split Veins",
+    "quality": "epic",
+    "itemId": 51016,
+    "url": "https://wowhead.com/wotlk/item=51016"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Putricide",
+    "itemName": "Rippling Flesh Kilt",
+    "quality": "epic",
+    "itemId": 51019,
+    "url": "https://wowhead.com/wotlk/item=51019"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Putricide",
+    "itemName": "Scalpel-Sharpening Shoulderguards",
+    "quality": "epic",
+    "itemId": 51014,
+    "url": "https://wowhead.com/wotlk/item=51014"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Putricide",
+    "itemName": "Shoulderpads of the Morbid Ritual",
+    "quality": "epic",
+    "itemId": 51015,
+    "url": "https://wowhead.com/wotlk/item=51015"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Putricide",
+    "itemName": "Shoulders of Ruinous Senility",
+    "quality": "epic",
+    "itemId": 51020,
+    "url": "https://wowhead.com/wotlk/item=51020"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Putricide",
+    "itemName": "The Facelifter",
+    "quality": "epic",
+    "itemId": 51010,
+    "url": "https://wowhead.com/wotlk/item=51010"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Putricide",
+    "itemName": "Unidentifiable Organ",
+    "quality": "epic",
+    "itemId": 50341,
+    "url": "https://wowhead.com/wotlk/item=50341"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Council",
+    "itemName": "Battle-Maiden's Legguards",
+    "quality": "epic",
+    "itemId": 51025,
+    "url": "https://wowhead.com/wotlk/item=51025"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Council",
+    "itemName": "Blood-Drinker's Girdle",
+    "quality": "epic",
+    "itemId": 51325,
+    "url": "https://wowhead.com/wotlk/item=51325"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Council",
+    "itemName": "Bloodsoul Raiment",
+    "quality": "epic",
+    "itemId": 51379,
+    "url": "https://wowhead.com/wotlk/item=51379"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Council",
+    "itemName": "Cerise Coiled Ring",
+    "quality": "epic",
+    "itemId": 51381,
+    "url": "https://wowhead.com/wotlk/item=51381"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Council",
+    "itemName": "Heartsick Mender's Cape",
+    "quality": "epic",
+    "itemId": 51382,
+    "url": "https://wowhead.com/wotlk/item=51382"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Council",
+    "itemName": "Hersir's Greatspear",
+    "quality": "epic",
+    "itemId": 51022,
+    "url": "https://wowhead.com/wotlk/item=51022"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Council",
+    "itemName": "Pale Corpse Boots",
+    "quality": "epic",
+    "itemId": 51380,
+    "url": "https://wowhead.com/wotlk/item=51380"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Council",
+    "itemName": "Soulbreaker",
+    "quality": "epic",
+    "itemId": 51021,
+    "url": "https://wowhead.com/wotlk/item=51021"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Council",
+    "itemName": "Spaulders of the Blood Princes",
+    "quality": "epic",
+    "itemId": 51383,
+    "url": "https://wowhead.com/wotlk/item=51383"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Council",
+    "itemName": "Taldaram's Soft Slippers",
+    "quality": "epic",
+    "itemId": 51023,
+    "url": "https://wowhead.com/wotlk/item=51023"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Council",
+    "itemName": "Thrice Fanged Signet",
+    "quality": "epic",
+    "itemId": 51024,
+    "url": "https://wowhead.com/wotlk/item=51024"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Council",
+    "itemName": "Wand of Ruby Claret",
+    "quality": "epic",
+    "itemId": 51326,
+    "url": "https://wowhead.com/wotlk/item=51326"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Lana'thel",
+    "itemName": "Bloodsipper",
+    "quality": "epic",
+    "itemId": 51384,
+    "url": "https://wowhead.com/wotlk/item=51384"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Lana'thel",
+    "itemName": "Chestguard of Siphoned Elements",
+    "quality": "epic",
+    "itemId": 51551,
+    "url": "https://wowhead.com/wotlk/item=51551"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Lana'thel",
+    "itemName": "Collar of Haughty Disdain",
+    "quality": "epic",
+    "itemId": 51548,
+    "url": "https://wowhead.com/wotlk/item=51548"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Lana'thel",
+    "itemName": "Conqueror's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52027,
+    "url": "https://wowhead.com/wotlk/item=52027"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Lana'thel",
+    "itemName": "Cowl of Malefic Repose",
+    "quality": "epic",
+    "itemId": 51554,
+    "url": "https://wowhead.com/wotlk/item=51554"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Lana'thel",
+    "itemName": "Ivory-Inlaid Leggings",
+    "quality": "epic",
+    "itemId": 51550,
+    "url": "https://wowhead.com/wotlk/item=51550"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Lana'thel",
+    "itemName": "Lana'thel's Bloody Nail",
+    "quality": "epic",
+    "itemId": 51553,
+    "url": "https://wowhead.com/wotlk/item=51553"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Lana'thel",
+    "itemName": "Protector's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52026,
+    "url": "https://wowhead.com/wotlk/item=52026"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Lana'thel",
+    "itemName": "Seal of the Twilight Queen",
+    "quality": "epic",
+    "itemId": 51387,
+    "url": "https://wowhead.com/wotlk/item=51387"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Lana'thel",
+    "itemName": "Shoulderpads of the Searing Kiss",
+    "quality": "epic",
+    "itemId": 51552,
+    "url": "https://wowhead.com/wotlk/item=51552"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Lana'thel",
+    "itemName": "Stakethrower",
+    "quality": "epic",
+    "itemId": 51385,
+    "url": "https://wowhead.com/wotlk/item=51385"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Lana'thel",
+    "itemName": "Throatrender Handguards",
+    "quality": "epic",
+    "itemId": 51386,
+    "url": "https://wowhead.com/wotlk/item=51386"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Lana'thel",
+    "itemName": "Tightening Waistband",
+    "quality": "epic",
+    "itemId": 51555,
+    "url": "https://wowhead.com/wotlk/item=51555"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Lana'thel",
+    "itemName": "Vanquisher's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52025,
+    "url": "https://wowhead.com/wotlk/item=52025"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Lana'thel",
+    "itemName": "Veincrusher Gauntlets",
+    "quality": "epic",
+    "itemId": 51556,
+    "url": "https://wowhead.com/wotlk/item=51556"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Valithria",
+    "itemName": "Dreamhunter's Carbine",
+    "quality": "epic",
+    "itemId": 51561,
+    "url": "https://wowhead.com/wotlk/item=51561"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Valithria",
+    "itemName": "Emerald Saint's Spaulders",
+    "quality": "epic",
+    "itemId": 51586,
+    "url": "https://wowhead.com/wotlk/item=51586"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Valithria",
+    "itemName": "Ironrope Belt of Ymirjar",
+    "quality": "epic",
+    "itemId": 51564,
+    "url": "https://wowhead.com/wotlk/item=51564"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Valithria",
+    "itemName": "Leggings of the Refracted Mind",
+    "quality": "epic",
+    "itemId": 51777,
+    "url": "https://wowhead.com/wotlk/item=51777"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Valithria",
+    "itemName": "Legguards of the Twisted Dream",
+    "quality": "epic",
+    "itemId": 51566,
+    "url": "https://wowhead.com/wotlk/item=51566"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Valithria",
+    "itemName": "Lich Wrappings",
+    "quality": "epic",
+    "itemId": 51584,
+    "url": "https://wowhead.com/wotlk/item=51584"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Valithria",
+    "itemName": "Oxheart",
+    "quality": "epic",
+    "itemId": 51562,
+    "url": "https://wowhead.com/wotlk/item=51562"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Valithria",
+    "itemName": "Sister Svalna's Aether Staff",
+    "quality": "epic",
+    "itemId": 51582,
+    "url": "https://wowhead.com/wotlk/item=51582"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Valithria",
+    "itemName": "Sister Svalna's Spangenhelm",
+    "quality": "epic",
+    "itemId": 51585,
+    "url": "https://wowhead.com/wotlk/item=51585"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Valithria",
+    "itemName": "Skinned Whelp Shoulders",
+    "quality": "epic",
+    "itemId": 51565,
+    "url": "https://wowhead.com/wotlk/item=51565"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Valithria",
+    "itemName": "Stormbringer Gloves",
+    "quality": "epic",
+    "itemId": 51583,
+    "url": "https://wowhead.com/wotlk/item=51583"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Valithria",
+    "itemName": "Taiga Bindings",
+    "quality": "epic",
+    "itemId": 51563,
+    "url": "https://wowhead.com/wotlk/item=51563"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Sindragosa",
+    "itemName": "Bleak Coldarra Carver",
+    "quality": "epic",
+    "itemId": 51788,
+    "url": "https://wowhead.com/wotlk/item=51788"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Sindragosa",
+    "itemName": "Conqueror's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52027,
+    "url": "https://wowhead.com/wotlk/item=52027"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Sindragosa",
+    "itemName": "Crystalline Essence of Sindragosa",
+    "quality": "poor",
+    "itemId": 51026,
+    "url": "https://wowhead.com/wotlk/item=51026"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Sindragosa",
+    "itemName": "Etched Dragonbone Girdle",
+    "quality": "epic",
+    "itemId": 51782,
+    "url": "https://wowhead.com/wotlk/item=51782"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Sindragosa",
+    "itemName": "Icicle Shapers",
+    "quality": "epic",
+    "itemId": 51789,
+    "url": "https://wowhead.com/wotlk/item=51789"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Sindragosa",
+    "itemName": "Legplates of Aetheric Strife",
+    "quality": "epic",
+    "itemId": 51786,
+    "url": "https://wowhead.com/wotlk/item=51786"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Sindragosa",
+    "itemName": "Lost Pavise of the Blue Flight",
+    "quality": "epic",
+    "itemId": 51791,
+    "url": "https://wowhead.com/wotlk/item=51791"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Sindragosa",
+    "itemName": "Protector's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52026,
+    "url": "https://wowhead.com/wotlk/item=52026"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Sindragosa",
+    "itemName": "Rimetooth Pendant",
+    "quality": "epic",
+    "itemId": 51779,
+    "url": "https://wowhead.com/wotlk/item=51779"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Sindragosa",
+    "itemName": "Robes of Azure Downfall",
+    "quality": "epic",
+    "itemId": 51790,
+    "url": "https://wowhead.com/wotlk/item=51790"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Sindragosa",
+    "itemName": "Scourge Fanged Stompers",
+    "quality": "epic",
+    "itemId": 51787,
+    "url": "https://wowhead.com/wotlk/item=51787"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Sindragosa",
+    "itemName": "Shoulderguards of Crystalline Bone",
+    "quality": "epic",
+    "itemId": 51792,
+    "url": "https://wowhead.com/wotlk/item=51792"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Sindragosa",
+    "itemName": "Splintershard",
+    "quality": "epic",
+    "itemId": 51784,
+    "url": "https://wowhead.com/wotlk/item=51784"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Sindragosa",
+    "itemName": "Vambraces of the Frost Wyrm Queen",
+    "quality": "epic",
+    "itemId": 51783,
+    "url": "https://wowhead.com/wotlk/item=51783"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Sindragosa",
+    "itemName": "Vanquisher's Mark of Sanctification",
+    "quality": "epic",
+    "itemId": 52025,
+    "url": "https://wowhead.com/wotlk/item=52025"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Sindragosa",
+    "itemName": "Wyrmwing Treads",
+    "quality": "epic",
+    "itemId": 51785,
+    "url": "https://wowhead.com/wotlk/item=51785"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Lich King",
+    "itemName": "Emblem of Frost",
+    "quality": "epic",
+    "itemId": 49426,
+    "url": "https://wowhead.com/wotlk/item=49426"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Lich King",
+    "itemName": "Halion, Staff of Forgotten Love",
+    "quality": "epic",
+    "itemId": 51799,
+    "url": "https://wowhead.com/wotlk/item=51799"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Lich King",
+    "itemName": "Pugius, Fist of Defiance",
+    "quality": "epic",
+    "itemId": 51801,
+    "url": "https://wowhead.com/wotlk/item=51801"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Lich King",
+    "itemName": "Stormfury, Black Blade of the Betrayer",
+    "quality": "epic",
+    "itemId": 51800,
+    "url": "https://wowhead.com/wotlk/item=51800"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Lich King",
+    "itemName": "Tainted Twig of Nordrassil",
+    "quality": "epic",
+    "itemId": 51797,
+    "url": "https://wowhead.com/wotlk/item=51797"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Lich King",
+    "itemName": "Tel'thas, Dagger of the Blood King",
+    "quality": "epic",
+    "itemId": 51803,
+    "url": "https://wowhead.com/wotlk/item=51803"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Lich King",
+    "itemName": "Troggbane, Axe of the Frostborne King",
+    "quality": "epic",
+    "itemId": 51795,
+    "url": "https://wowhead.com/wotlk/item=51795"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Lich King",
+    "itemName": "Valius, Gavel of the Lightbringer",
+    "quality": "epic",
+    "itemId": 51798,
+    "url": "https://wowhead.com/wotlk/item=51798"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Lich King",
+    "itemName": "Warmace of Menethil",
+    "quality": "epic",
+    "itemId": 51796,
+    "url": "https://wowhead.com/wotlk/item=51796"
+  },
+  {
+    "instanceName": "Icecrown Citadel N10",
+    "encounter": "Lich King",
+    "itemName": "Windrunner's Heartseeker",
+    "quality": "epic",
+    "itemId": 51802,
+    "url": "https://wowhead.com/wotlk/item=51802"
+  }
+]

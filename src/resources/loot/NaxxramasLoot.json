@@ -1,0 +1,4442 @@
+[
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Trash",
+    "itemName": "Boots of the Escaped Captive",
+    "quality": "epic",
+    "itemId": 40409,
+    "url": "https://wowhead.com/wotlk/item=40409"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Trash",
+    "itemName": "Haunting Call",
+    "quality": "epic",
+    "itemId": 40408,
+    "url": "https://wowhead.com/wotlk/item=40408"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Trash",
+    "itemName": "Inevitable Defeat",
+    "quality": "epic",
+    "itemId": 40406,
+    "url": "https://wowhead.com/wotlk/item=40406"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Trash",
+    "itemName": "Ousted Bead Necklace",
+    "quality": "epic",
+    "itemId": 40412,
+    "url": "https://wowhead.com/wotlk/item=40412"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Trash",
+    "itemName": "Shadow of the Ghoul",
+    "quality": "epic",
+    "itemId": 40410,
+    "url": "https://wowhead.com/wotlk/item=40410"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Trash",
+    "itemName": "Shoulderguards of the Undaunted",
+    "quality": "epic",
+    "itemId": 40414,
+    "url": "https://wowhead.com/wotlk/item=40414"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Trash",
+    "itemName": "Silent Crusader",
+    "quality": "epic",
+    "itemId": 40407,
+    "url": "https://wowhead.com/wotlk/item=40407"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Anub'Rekhan",
+    "itemName": "Arachnoid Gold Band",
+    "quality": "epic",
+    "itemId": 39702,
+    "url": "https://wowhead.com/wotlk/item=39702"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Anub'Rekhan",
+    "itemName": "Chains of Adoration",
+    "quality": "epic",
+    "itemId": 40071,
+    "url": "https://wowhead.com/wotlk/item=40071"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Anub'Rekhan",
+    "itemName": "Corpse Scarab Handguards",
+    "quality": "epic",
+    "itemId": 39718,
+    "url": "https://wowhead.com/wotlk/item=39718"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Anub'Rekhan",
+    "itemName": "Dawnwalkers",
+    "quality": "epic",
+    "itemId": 39701,
+    "url": "https://wowhead.com/wotlk/item=39701"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Anub'Rekhan",
+    "itemName": "Fool's Trial",
+    "quality": "epic",
+    "itemId": 40065,
+    "url": "https://wowhead.com/wotlk/item=40065"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Anub'Rekhan",
+    "itemName": "Gemmed Wand of the Nerubians",
+    "quality": "epic",
+    "itemId": 39712,
+    "url": "https://wowhead.com/wotlk/item=39712"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Anub'Rekhan",
+    "itemName": "Heritage",
+    "quality": "epic",
+    "itemId": 40069,
+    "url": "https://wowhead.com/wotlk/item=40069"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Anub'Rekhan",
+    "itemName": "Inexorable Sabatons",
+    "quality": "epic",
+    "itemId": 39717,
+    "url": "https://wowhead.com/wotlk/item=39717"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Anub'Rekhan",
+    "itemName": "Leggings of Atrophy",
+    "quality": "epic",
+    "itemId": 39720,
+    "url": "https://wowhead.com/wotlk/item=39720"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Anub'Rekhan",
+    "itemName": "Lost Jewel",
+    "quality": "epic",
+    "itemId": 40080,
+    "url": "https://wowhead.com/wotlk/item=40080"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Anub'Rekhan",
+    "itemName": "Mantle of the Locusts",
+    "quality": "epic",
+    "itemId": 39719,
+    "url": "https://wowhead.com/wotlk/item=39719"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Anub'Rekhan",
+    "itemName": "Pauldrons of Unnatural Death",
+    "quality": "epic",
+    "itemId": 39704,
+    "url": "https://wowhead.com/wotlk/item=39704"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Anub'Rekhan",
+    "itemName": "Rescinding Grips",
+    "quality": "epic",
+    "itemId": 39703,
+    "url": "https://wowhead.com/wotlk/item=39703"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Anub'Rekhan",
+    "itemName": "Ruthlessness",
+    "quality": "epic",
+    "itemId": 40075,
+    "url": "https://wowhead.com/wotlk/item=40075"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Anub'Rekhan",
+    "itemName": "Sabatons of Sudden Reprisal",
+    "quality": "epic",
+    "itemId": 39706,
+    "url": "https://wowhead.com/wotlk/item=39706"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Anub'Rekhan",
+    "itemName": "Sand-Worn Band",
+    "quality": "epic",
+    "itemId": 40107,
+    "url": "https://wowhead.com/wotlk/item=40107"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Anub'Rekhan",
+    "itemName": "Sash of the Parlor",
+    "quality": "epic",
+    "itemId": 39721,
+    "url": "https://wowhead.com/wotlk/item=39721"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Anub'Rekhan",
+    "itemName": "Seized Beauty",
+    "quality": "epic",
+    "itemId": 40108,
+    "url": "https://wowhead.com/wotlk/item=40108"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Anub'Rekhan",
+    "itemName": "Shield of Assimilation",
+    "quality": "epic",
+    "itemId": 39716,
+    "url": "https://wowhead.com/wotlk/item=39716"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Anub'Rekhan",
+    "itemName": "Strong-Handed Ring",
+    "quality": "epic",
+    "itemId": 40074,
+    "url": "https://wowhead.com/wotlk/item=40074"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Anub'Rekhan",
+    "itemName": "Swarm Bindings",
+    "quality": "epic",
+    "itemId": 39722,
+    "url": "https://wowhead.com/wotlk/item=39722"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Anub'Rekhan",
+    "itemName": "Thunderstorm Amulet",
+    "quality": "epic",
+    "itemId": 40064,
+    "url": "https://wowhead.com/wotlk/item=40064"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Anub'Rekhan",
+    "itemName": "Webbed Death",
+    "quality": "epic",
+    "itemId": 39714,
+    "url": "https://wowhead.com/wotlk/item=39714"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Faerlina",
+    "itemName": "Atonement Greaves",
+    "quality": "epic",
+    "itemId": 39734,
+    "url": "https://wowhead.com/wotlk/item=39734"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Faerlina",
+    "itemName": "Belt of False Dignity",
+    "quality": "epic",
+    "itemId": 39735,
+    "url": "https://wowhead.com/wotlk/item=39735"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Faerlina",
+    "itemName": "Bracers of the Tyrant",
+    "quality": "epic",
+    "itemId": 39729,
+    "url": "https://wowhead.com/wotlk/item=39729"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Faerlina",
+    "itemName": "Callous-Hearted Gauntlets",
+    "quality": "epic",
+    "itemId": 39726,
+    "url": "https://wowhead.com/wotlk/item=39726"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Faerlina",
+    "itemName": "Chains of Adoration",
+    "quality": "epic",
+    "itemId": 40071,
+    "url": "https://wowhead.com/wotlk/item=40071"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Faerlina",
+    "itemName": "Cult's Chestguard",
+    "quality": "epic",
+    "itemId": 39724,
+    "url": "https://wowhead.com/wotlk/item=39724"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Faerlina",
+    "itemName": "Dislocating Handguards",
+    "quality": "epic",
+    "itemId": 39727,
+    "url": "https://wowhead.com/wotlk/item=39727"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Faerlina",
+    "itemName": "Epaulets of the Grieving Servant",
+    "quality": "epic",
+    "itemId": 39725,
+    "url": "https://wowhead.com/wotlk/item=39725"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Faerlina",
+    "itemName": "Faerlina's Madness",
+    "quality": "epic",
+    "itemId": 39732,
+    "url": "https://wowhead.com/wotlk/item=39732"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Faerlina",
+    "itemName": "Fire-Scorched Greathelm",
+    "quality": "epic",
+    "itemId": 39723,
+    "url": "https://wowhead.com/wotlk/item=39723"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Faerlina",
+    "itemName": "Fool's Trial",
+    "quality": "epic",
+    "itemId": 40065,
+    "url": "https://wowhead.com/wotlk/item=40065"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Faerlina",
+    "itemName": "Gloves of Token Respect",
+    "quality": "epic",
+    "itemId": 39733,
+    "url": "https://wowhead.com/wotlk/item=39733"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Faerlina",
+    "itemName": "Heritage",
+    "quality": "epic",
+    "itemId": 40069,
+    "url": "https://wowhead.com/wotlk/item=40069"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Faerlina",
+    "itemName": "Idol of Worship",
+    "quality": "epic",
+    "itemId": 39757,
+    "url": "https://wowhead.com/wotlk/item=39757"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Faerlina",
+    "itemName": "Lost Jewel",
+    "quality": "epic",
+    "itemId": 40080,
+    "url": "https://wowhead.com/wotlk/item=40080"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Faerlina",
+    "itemName": "Punctilious Bindings",
+    "quality": "epic",
+    "itemId": 39731,
+    "url": "https://wowhead.com/wotlk/item=39731"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Faerlina",
+    "itemName": "Ruthlessness",
+    "quality": "epic",
+    "itemId": 40075,
+    "url": "https://wowhead.com/wotlk/item=40075"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Faerlina",
+    "itemName": "Sand-Worn Band",
+    "quality": "epic",
+    "itemId": 40107,
+    "url": "https://wowhead.com/wotlk/item=40107"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Faerlina",
+    "itemName": "Seized Beauty",
+    "quality": "epic",
+    "itemId": 40108,
+    "url": "https://wowhead.com/wotlk/item=40108"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Faerlina",
+    "itemName": "Strong-Handed Ring",
+    "quality": "epic",
+    "itemId": 40074,
+    "url": "https://wowhead.com/wotlk/item=40074"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Faerlina",
+    "itemName": "Thunderstorm Amulet",
+    "quality": "epic",
+    "itemId": 40064,
+    "url": "https://wowhead.com/wotlk/item=40064"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Faerlina",
+    "itemName": "Totem of Misery",
+    "quality": "epic",
+    "itemId": 39728,
+    "url": "https://wowhead.com/wotlk/item=39728"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Faerlina",
+    "itemName": "Tunic of Prejudice",
+    "quality": "epic",
+    "itemId": 39756,
+    "url": "https://wowhead.com/wotlk/item=39756"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Faerlina",
+    "itemName": "Widow's Fury",
+    "quality": "epic",
+    "itemId": 39730,
+    "url": "https://wowhead.com/wotlk/item=39730"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Maexxna",
+    "itemName": "Ablative Chitin Girdle",
+    "quality": "epic",
+    "itemId": 39759,
+    "url": "https://wowhead.com/wotlk/item=39759"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Maexxna",
+    "itemName": "Aged Winter Cloak",
+    "quality": "epic",
+    "itemId": 40250,
+    "url": "https://wowhead.com/wotlk/item=40250"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Maexxna",
+    "itemName": "Bindings of the Hapless Prey",
+    "quality": "epic",
+    "itemId": 39764,
+    "url": "https://wowhead.com/wotlk/item=39764"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Maexxna",
+    "itemName": "Cloak of Averted Crisis",
+    "quality": "epic",
+    "itemId": 40254,
+    "url": "https://wowhead.com/wotlk/item=40254"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Maexxna",
+    "itemName": "Cloak of the Shadowed Sun",
+    "quality": "epic",
+    "itemId": 40252,
+    "url": "https://wowhead.com/wotlk/item=40252"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Maexxna",
+    "itemName": "Cowl of the Perished",
+    "quality": "epic",
+    "itemId": 39768,
+    "url": "https://wowhead.com/wotlk/item=39768"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Maexxna",
+    "itemName": "Defender's Code",
+    "quality": "epic",
+    "itemId": 40257,
+    "url": "https://wowhead.com/wotlk/item=40257"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Maexxna",
+    "itemName": "Digested Silken Robes",
+    "quality": "epic",
+    "itemId": 40062,
+    "url": "https://wowhead.com/wotlk/item=40062"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Maexxna",
+    "itemName": "Distorted Limbs",
+    "quality": "epic",
+    "itemId": 40060,
+    "url": "https://wowhead.com/wotlk/item=40060"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Maexxna",
+    "itemName": "Dying Curse",
+    "quality": "epic",
+    "itemId": 40255,
+    "url": "https://wowhead.com/wotlk/item=40255"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Maexxna",
+    "itemName": "Forethought Talisman",
+    "quality": "epic",
+    "itemId": 40258,
+    "url": "https://wowhead.com/wotlk/item=40258"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Maexxna",
+    "itemName": "Grim Toll",
+    "quality": "epic",
+    "itemId": 40256,
+    "url": "https://wowhead.com/wotlk/item=40256"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Maexxna",
+    "itemName": "Helm of Diminished Pride",
+    "quality": "epic",
+    "itemId": 39760,
+    "url": "https://wowhead.com/wotlk/item=39760"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Maexxna",
+    "itemName": "Infectious Skitterer Leggings",
+    "quality": "epic",
+    "itemId": 39761,
+    "url": "https://wowhead.com/wotlk/item=39761"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Maexxna",
+    "itemName": "Mantle of Shattered Kinship",
+    "quality": "epic",
+    "itemId": 40063,
+    "url": "https://wowhead.com/wotlk/item=40063"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Maexxna",
+    "itemName": "Matriarch's Spawn",
+    "quality": "epic",
+    "itemId": 39766,
+    "url": "https://wowhead.com/wotlk/item=39766"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Maexxna",
+    "itemName": "Quivering Tunic",
+    "quality": "epic",
+    "itemId": 40061,
+    "url": "https://wowhead.com/wotlk/item=40061"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Maexxna",
+    "itemName": "Shawl of the Old Maid",
+    "quality": "epic",
+    "itemId": 40253,
+    "url": "https://wowhead.com/wotlk/item=40253"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Maexxna",
+    "itemName": "Shroud of Luminosity",
+    "quality": "epic",
+    "itemId": 40251,
+    "url": "https://wowhead.com/wotlk/item=40251"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Maexxna",
+    "itemName": "Sinner's Bindings",
+    "quality": "epic",
+    "itemId": 39765,
+    "url": "https://wowhead.com/wotlk/item=39765"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Maexxna",
+    "itemName": "The Jawbone",
+    "quality": "epic",
+    "itemId": 39758,
+    "url": "https://wowhead.com/wotlk/item=39758"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Maexxna",
+    "itemName": "Torn Web Wrapping",
+    "quality": "epic",
+    "itemId": 39762,
+    "url": "https://wowhead.com/wotlk/item=39762"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Maexxna",
+    "itemName": "Undiminished Battleplate",
+    "quality": "epic",
+    "itemId": 39767,
+    "url": "https://wowhead.com/wotlk/item=39767"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Maexxna",
+    "itemName": "Wraith Strike",
+    "quality": "epic",
+    "itemId": 39763,
+    "url": "https://wowhead.com/wotlk/item=39763"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Noth",
+    "itemName": "Accursed Spine",
+    "quality": "epic",
+    "itemId": 40192,
+    "url": "https://wowhead.com/wotlk/item=40192"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Noth",
+    "itemName": "Angry Dread",
+    "quality": "epic",
+    "itemId": 40189,
+    "url": "https://wowhead.com/wotlk/item=40189"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Noth",
+    "itemName": "Bands of Impurity",
+    "quality": "epic",
+    "itemId": 40198,
+    "url": "https://wowhead.com/wotlk/item=40198"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Noth",
+    "itemName": "Belt of Potent Chanting",
+    "quality": "epic",
+    "itemId": 40200,
+    "url": "https://wowhead.com/wotlk/item=40200"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Noth",
+    "itemName": "Chains of Adoration",
+    "quality": "epic",
+    "itemId": 40071,
+    "url": "https://wowhead.com/wotlk/item=40071"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Noth",
+    "itemName": "Crippled Treads",
+    "quality": "epic",
+    "itemId": 40184,
+    "url": "https://wowhead.com/wotlk/item=40184"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Noth",
+    "itemName": "Fool's Trial",
+    "quality": "epic",
+    "itemId": 40065,
+    "url": "https://wowhead.com/wotlk/item=40065"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Noth",
+    "itemName": "Gauntlets of the Disobedient",
+    "quality": "epic",
+    "itemId": 40188,
+    "url": "https://wowhead.com/wotlk/item=40188"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Noth",
+    "itemName": "Gloves of the Fallen Wizard",
+    "quality": "epic",
+    "itemId": 40197,
+    "url": "https://wowhead.com/wotlk/item=40197"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Noth",
+    "itemName": "Heritage",
+    "quality": "epic",
+    "itemId": 40069,
+    "url": "https://wowhead.com/wotlk/item=40069"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Noth",
+    "itemName": "Legguards of the Undisturbed",
+    "quality": "epic",
+    "itemId": 40196,
+    "url": "https://wowhead.com/wotlk/item=40196"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Noth",
+    "itemName": "Libram of Radiance",
+    "quality": "epic",
+    "itemId": 40191,
+    "url": "https://wowhead.com/wotlk/item=40191"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Noth",
+    "itemName": "Lost Jewel",
+    "quality": "epic",
+    "itemId": 40080,
+    "url": "https://wowhead.com/wotlk/item=40080"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Noth",
+    "itemName": "Poignant Sabatons",
+    "quality": "epic",
+    "itemId": 40187,
+    "url": "https://wowhead.com/wotlk/item=40187"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Noth",
+    "itemName": "Robes of Mutation",
+    "quality": "epic",
+    "itemId": 40602,
+    "url": "https://wowhead.com/wotlk/item=40602"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Noth",
+    "itemName": "Ruthlessness",
+    "quality": "epic",
+    "itemId": 40075,
+    "url": "https://wowhead.com/wotlk/item=40075"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Noth",
+    "itemName": "Sand-Worn Band",
+    "quality": "epic",
+    "itemId": 40107,
+    "url": "https://wowhead.com/wotlk/item=40107"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Noth",
+    "itemName": "Seized Beauty",
+    "quality": "epic",
+    "itemId": 40108,
+    "url": "https://wowhead.com/wotlk/item=40108"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Noth",
+    "itemName": "Shoulderguards of Opportunity",
+    "quality": "epic",
+    "itemId": 40185,
+    "url": "https://wowhead.com/wotlk/item=40185"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Noth",
+    "itemName": "Spinning Fate",
+    "quality": "epic",
+    "itemId": 40190,
+    "url": "https://wowhead.com/wotlk/item=40190"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Noth",
+    "itemName": "Strong-Handed Ring",
+    "quality": "epic",
+    "itemId": 40074,
+    "url": "https://wowhead.com/wotlk/item=40074"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Noth",
+    "itemName": "Thrusting Bands",
+    "quality": "epic",
+    "itemId": 40186,
+    "url": "https://wowhead.com/wotlk/item=40186"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Noth",
+    "itemName": "Thunderstorm Amulet",
+    "quality": "epic",
+    "itemId": 40064,
+    "url": "https://wowhead.com/wotlk/item=40064"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Noth",
+    "itemName": "Tunic of Masked Suffering",
+    "quality": "epic",
+    "itemId": 40193,
+    "url": "https://wowhead.com/wotlk/item=40193"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Heigan",
+    "itemName": "Aged Winter Cloak",
+    "quality": "epic",
+    "itemId": 40250,
+    "url": "https://wowhead.com/wotlk/item=40250"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Heigan",
+    "itemName": "Bindings of the Decrepit",
+    "quality": "epic",
+    "itemId": 40209,
+    "url": "https://wowhead.com/wotlk/item=40209"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Heigan",
+    "itemName": "Breastplate of Tormented Rage",
+    "quality": "epic",
+    "itemId": 40203,
+    "url": "https://wowhead.com/wotlk/item=40203"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Heigan",
+    "itemName": "Chestguard of Bitter Charms",
+    "quality": "epic",
+    "itemId": 40210,
+    "url": "https://wowhead.com/wotlk/item=40210"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Heigan",
+    "itemName": "Cloak of Averted Crisis",
+    "quality": "epic",
+    "itemId": 40254,
+    "url": "https://wowhead.com/wotlk/item=40254"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Heigan",
+    "itemName": "Cloak of the Shadowed Sun",
+    "quality": "epic",
+    "itemId": 40252,
+    "url": "https://wowhead.com/wotlk/item=40252"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Heigan",
+    "itemName": "Cryptfiend's Bite",
+    "quality": "epic",
+    "itemId": 40208,
+    "url": "https://wowhead.com/wotlk/item=40208"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Heigan",
+    "itemName": "Defender's Code",
+    "quality": "epic",
+    "itemId": 40257,
+    "url": "https://wowhead.com/wotlk/item=40257"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Heigan",
+    "itemName": "Dying Curse",
+    "quality": "epic",
+    "itemId": 40255,
+    "url": "https://wowhead.com/wotlk/item=40255"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Heigan",
+    "itemName": "Eruption-Scarred Boots",
+    "quality": "epic",
+    "itemId": 40237,
+    "url": "https://wowhead.com/wotlk/item=40237"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Heigan",
+    "itemName": "Forethought Talisman",
+    "quality": "epic",
+    "itemId": 40258,
+    "url": "https://wowhead.com/wotlk/item=40258"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Heigan",
+    "itemName": "Gloves of the Dancing Bear",
+    "quality": "epic",
+    "itemId": 40238,
+    "url": "https://wowhead.com/wotlk/item=40238"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Heigan",
+    "itemName": "Grim Toll",
+    "quality": "epic",
+    "itemId": 40256,
+    "url": "https://wowhead.com/wotlk/item=40256"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Heigan",
+    "itemName": "Heigan's Putrid Vestments",
+    "quality": "epic",
+    "itemId": 40234,
+    "url": "https://wowhead.com/wotlk/item=40234"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Heigan",
+    "itemName": "Helm of Pilgrimage",
+    "quality": "epic",
+    "itemId": 40235,
+    "url": "https://wowhead.com/wotlk/item=40235"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Heigan",
+    "itemName": "Iron-Spring Jumpers",
+    "quality": "epic",
+    "itemId": 40206,
+    "url": "https://wowhead.com/wotlk/item=40206"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Heigan",
+    "itemName": "Leggings of Colossal Strides",
+    "quality": "epic",
+    "itemId": 40201,
+    "url": "https://wowhead.com/wotlk/item=40201"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Heigan",
+    "itemName": "Legguards of the Apostle",
+    "quality": "epic",
+    "itemId": 40204,
+    "url": "https://wowhead.com/wotlk/item=40204"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Heigan",
+    "itemName": "Serene Echoes",
+    "quality": "epic",
+    "itemId": 40236,
+    "url": "https://wowhead.com/wotlk/item=40236"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Heigan",
+    "itemName": "Shawl of the Old Maid",
+    "quality": "epic",
+    "itemId": 40253,
+    "url": "https://wowhead.com/wotlk/item=40253"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Heigan",
+    "itemName": "Shroud of Luminosity",
+    "quality": "epic",
+    "itemId": 40251,
+    "url": "https://wowhead.com/wotlk/item=40251"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Heigan",
+    "itemName": "Sigil of Awareness",
+    "quality": "epic",
+    "itemId": 40207,
+    "url": "https://wowhead.com/wotlk/item=40207"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Heigan",
+    "itemName": "Stalk-Skin Belt",
+    "quality": "epic",
+    "itemId": 40205,
+    "url": "https://wowhead.com/wotlk/item=40205"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Heigan",
+    "itemName": "The Undeath Carrier",
+    "quality": "epic",
+    "itemId": 40233,
+    "url": "https://wowhead.com/wotlk/item=40233"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Loatheb",
+    "itemName": "Boots of Impetuous Ideals",
+    "quality": "epic",
+    "itemId": 40246,
+    "url": "https://wowhead.com/wotlk/item=40246"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Loatheb",
+    "itemName": "Cowl of Innocent Delight",
+    "quality": "epic",
+    "itemId": 40247,
+    "url": "https://wowhead.com/wotlk/item=40247"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Loatheb",
+    "itemName": "Fading Glow",
+    "quality": "epic",
+    "itemId": 40245,
+    "url": "https://wowhead.com/wotlk/item=40245"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Loatheb",
+    "itemName": "Footwraps of Vile Deceit",
+    "quality": "epic",
+    "itemId": 40243,
+    "url": "https://wowhead.com/wotlk/item=40243"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Loatheb",
+    "itemName": "Girdle of Unity",
+    "quality": "epic",
+    "itemId": 40241,
+    "url": "https://wowhead.com/wotlk/item=40241"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Loatheb",
+    "itemName": "Greaves of Turbulence",
+    "quality": "epic",
+    "itemId": 40240,
+    "url": "https://wowhead.com/wotlk/item=40240"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Loatheb",
+    "itemName": "Grotesque Handgrips",
+    "quality": "epic",
+    "itemId": 40242,
+    "url": "https://wowhead.com/wotlk/item=40242"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Loatheb",
+    "itemName": "Mantle of the Lost Conqueror",
+    "quality": "epic",
+    "itemId": 40637,
+    "url": "https://wowhead.com/wotlk/item=40637"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Loatheb",
+    "itemName": "Mantle of the Lost Protector",
+    "quality": "epic",
+    "itemId": 40638,
+    "url": "https://wowhead.com/wotlk/item=40638"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Loatheb",
+    "itemName": "Mantle of the Lost Vanquisher",
+    "quality": "epic",
+    "itemId": 40639,
+    "url": "https://wowhead.com/wotlk/item=40639"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Loatheb",
+    "itemName": "The Hand of Nerub",
+    "quality": "epic",
+    "itemId": 40239,
+    "url": "https://wowhead.com/wotlk/item=40239"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Loatheb",
+    "itemName": "The Impossible Dream",
+    "quality": "epic",
+    "itemId": 40244,
+    "url": "https://wowhead.com/wotlk/item=40244"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Loatheb",
+    "itemName": "Vest of Vitality",
+    "quality": "epic",
+    "itemId": 40249,
+    "url": "https://wowhead.com/wotlk/item=40249"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Razuvious",
+    "itemName": "Bands of Mutual Respect",
+    "quality": "epic",
+    "itemId": 40324,
+    "url": "https://wowhead.com/wotlk/item=40324"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Razuvious",
+    "itemName": "Bindings of the Expansive Mind",
+    "quality": "epic",
+    "itemId": 40325,
+    "url": "https://wowhead.com/wotlk/item=40325"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Razuvious",
+    "itemName": "Boots of Forlorn Wishes",
+    "quality": "epic",
+    "itemId": 40326,
+    "url": "https://wowhead.com/wotlk/item=40326"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Razuvious",
+    "itemName": "Bracers of the Unholy Knight",
+    "quality": "epic",
+    "itemId": 40306,
+    "url": "https://wowhead.com/wotlk/item=40306"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Razuvious",
+    "itemName": "Chains of Adoration",
+    "quality": "epic",
+    "itemId": 40071,
+    "url": "https://wowhead.com/wotlk/item=40071"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Razuvious",
+    "itemName": "Chestpiece of Suspicion",
+    "quality": "epic",
+    "itemId": 40319,
+    "url": "https://wowhead.com/wotlk/item=40319"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Razuvious",
+    "itemName": "Esteemed Bindings",
+    "quality": "epic",
+    "itemId": 40323,
+    "url": "https://wowhead.com/wotlk/item=40323"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Razuvious",
+    "itemName": "Faithful Steel Sabatons",
+    "quality": "epic",
+    "itemId": 40320,
+    "url": "https://wowhead.com/wotlk/item=40320"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Razuvious",
+    "itemName": "Fool's Trial",
+    "quality": "epic",
+    "itemId": 40065,
+    "url": "https://wowhead.com/wotlk/item=40065"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Razuvious",
+    "itemName": "Gauntlets of Guiding Touch",
+    "quality": "epic",
+    "itemId": 40316,
+    "url": "https://wowhead.com/wotlk/item=40316"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Razuvious",
+    "itemName": "Girdle of Razuvious",
+    "quality": "epic",
+    "itemId": 40317,
+    "url": "https://wowhead.com/wotlk/item=40317"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Razuvious",
+    "itemName": "Girdle of Recuperation",
+    "quality": "epic",
+    "itemId": 40327,
+    "url": "https://wowhead.com/wotlk/item=40327"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Razuvious",
+    "itemName": "Heritage",
+    "quality": "epic",
+    "itemId": 40069,
+    "url": "https://wowhead.com/wotlk/item=40069"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Razuvious",
+    "itemName": "Idol of the Shooting Star",
+    "quality": "epic",
+    "itemId": 40321,
+    "url": "https://wowhead.com/wotlk/item=40321"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Razuvious",
+    "itemName": "Legplates of Double Strikes",
+    "quality": "epic",
+    "itemId": 40318,
+    "url": "https://wowhead.com/wotlk/item=40318"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Razuvious",
+    "itemName": "Lost Jewel",
+    "quality": "epic",
+    "itemId": 40080,
+    "url": "https://wowhead.com/wotlk/item=40080"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Razuvious",
+    "itemName": "Ruthlessness",
+    "quality": "epic",
+    "itemId": 40075,
+    "url": "https://wowhead.com/wotlk/item=40075"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Razuvious",
+    "itemName": "Sand-Worn Band",
+    "quality": "epic",
+    "itemId": 40107,
+    "url": "https://wowhead.com/wotlk/item=40107"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Razuvious",
+    "itemName": "Seized Beauty",
+    "quality": "epic",
+    "itemId": 40108,
+    "url": "https://wowhead.com/wotlk/item=40108"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Razuvious",
+    "itemName": "Shoulderpads of Secret Arts",
+    "quality": "epic",
+    "itemId": 40315,
+    "url": "https://wowhead.com/wotlk/item=40315"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Razuvious",
+    "itemName": "Spaulders of Egotism",
+    "quality": "epic",
+    "itemId": 40305,
+    "url": "https://wowhead.com/wotlk/item=40305"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Razuvious",
+    "itemName": "Strong-Handed Ring",
+    "quality": "epic",
+    "itemId": 40074,
+    "url": "https://wowhead.com/wotlk/item=40074"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Razuvious",
+    "itemName": "Thunderstorm Amulet",
+    "quality": "epic",
+    "itemId": 40064,
+    "url": "https://wowhead.com/wotlk/item=40064"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Razuvious",
+    "itemName": "Totem of Dueling",
+    "quality": "epic",
+    "itemId": 40322,
+    "url": "https://wowhead.com/wotlk/item=40322"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gothik",
+    "itemName": "Abetment Bracers",
+    "quality": "epic",
+    "itemId": 40332,
+    "url": "https://wowhead.com/wotlk/item=40332"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gothik",
+    "itemName": "Aged Winter Cloak",
+    "quality": "epic",
+    "itemId": 40250,
+    "url": "https://wowhead.com/wotlk/item=40250"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gothik",
+    "itemName": "Bindings of Yearning",
+    "quality": "epic",
+    "itemId": 40338,
+    "url": "https://wowhead.com/wotlk/item=40338"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gothik",
+    "itemName": "Bracers of Unrelenting Attack",
+    "quality": "epic",
+    "itemId": 40330,
+    "url": "https://wowhead.com/wotlk/item=40330"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gothik",
+    "itemName": "Burdened Shoulderplates",
+    "quality": "epic",
+    "itemId": 40334,
+    "url": "https://wowhead.com/wotlk/item=40334"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gothik",
+    "itemName": "Cloak of Averted Crisis",
+    "quality": "epic",
+    "itemId": 40254,
+    "url": "https://wowhead.com/wotlk/item=40254"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gothik",
+    "itemName": "Cloak of the Shadowed Sun",
+    "quality": "epic",
+    "itemId": 40252,
+    "url": "https://wowhead.com/wotlk/item=40252"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gothik",
+    "itemName": "Defender's Code",
+    "quality": "epic",
+    "itemId": 40257,
+    "url": "https://wowhead.com/wotlk/item=40257"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gothik",
+    "itemName": "Dying Curse",
+    "quality": "epic",
+    "itemId": 40255,
+    "url": "https://wowhead.com/wotlk/item=40255"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gothik",
+    "itemName": "Forethought Talisman",
+    "quality": "epic",
+    "itemId": 40258,
+    "url": "https://wowhead.com/wotlk/item=40258"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gothik",
+    "itemName": "Gothik's Cowl",
+    "quality": "epic",
+    "itemId": 40339,
+    "url": "https://wowhead.com/wotlk/item=40339"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gothik",
+    "itemName": "Grim Toll",
+    "quality": "epic",
+    "itemId": 40256,
+    "url": "https://wowhead.com/wotlk/item=40256"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gothik",
+    "itemName": "Helm of Unleashed Energy",
+    "quality": "epic",
+    "itemId": 40340,
+    "url": "https://wowhead.com/wotlk/item=40340"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gothik",
+    "itemName": "Helm of Vital Protection",
+    "quality": "epic",
+    "itemId": 40328,
+    "url": "https://wowhead.com/wotlk/item=40328"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gothik",
+    "itemName": "Hood of the Exodus",
+    "quality": "epic",
+    "itemId": 40329,
+    "url": "https://wowhead.com/wotlk/item=40329"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gothik",
+    "itemName": "Idol of Awakening",
+    "quality": "epic",
+    "itemId": 40342,
+    "url": "https://wowhead.com/wotlk/item=40342"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gothik",
+    "itemName": "Leggings of Failed Escape",
+    "quality": "epic",
+    "itemId": 40331,
+    "url": "https://wowhead.com/wotlk/item=40331"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gothik",
+    "itemName": "Leggings of Fleeting Moments",
+    "quality": "epic",
+    "itemId": 40333,
+    "url": "https://wowhead.com/wotlk/item=40333"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gothik",
+    "itemName": "Libram of Resurgence",
+    "quality": "epic",
+    "itemId": 40337,
+    "url": "https://wowhead.com/wotlk/item=40337"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gothik",
+    "itemName": "Life and Death",
+    "quality": "epic",
+    "itemId": 40336,
+    "url": "https://wowhead.com/wotlk/item=40336"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gothik",
+    "itemName": "Shackled Cinch",
+    "quality": "epic",
+    "itemId": 40341,
+    "url": "https://wowhead.com/wotlk/item=40341"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gothik",
+    "itemName": "Shawl of the Old Maid",
+    "quality": "epic",
+    "itemId": 40253,
+    "url": "https://wowhead.com/wotlk/item=40253"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gothik",
+    "itemName": "Shroud of Luminosity",
+    "quality": "epic",
+    "itemId": 40251,
+    "url": "https://wowhead.com/wotlk/item=40251"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gothik",
+    "itemName": "Touch of Horror",
+    "quality": "epic",
+    "itemId": 40335,
+    "url": "https://wowhead.com/wotlk/item=40335"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Horsemen",
+    "itemName": "Armageddon",
+    "quality": "epic",
+    "itemId": 40343,
+    "url": "https://wowhead.com/wotlk/item=40343"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Horsemen",
+    "itemName": "Breastplate of the Lost Conqueror",
+    "quality": "epic",
+    "itemId": 40625,
+    "url": "https://wowhead.com/wotlk/item=40625"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Horsemen",
+    "itemName": "Breastplate of the Lost Protector",
+    "quality": "epic",
+    "itemId": 40626,
+    "url": "https://wowhead.com/wotlk/item=40626"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Horsemen",
+    "itemName": "Breastplate of the Lost Vanquisher",
+    "quality": "epic",
+    "itemId": 40627,
+    "url": "https://wowhead.com/wotlk/item=40627"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Horsemen",
+    "itemName": "Broken Promise",
+    "quality": "epic",
+    "itemId": 40345,
+    "url": "https://wowhead.com/wotlk/item=40345"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Horsemen",
+    "itemName": "Damnation",
+    "quality": "epic",
+    "itemId": 40348,
+    "url": "https://wowhead.com/wotlk/item=40348"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Horsemen",
+    "itemName": "Final Voyage",
+    "quality": "epic",
+    "itemId": 40346,
+    "url": "https://wowhead.com/wotlk/item=40346"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Horsemen",
+    "itemName": "Gloves of Peaceful Death",
+    "quality": "epic",
+    "itemId": 40349,
+    "url": "https://wowhead.com/wotlk/item=40349"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Horsemen",
+    "itemName": "Helm of the Grave",
+    "quality": "epic",
+    "itemId": 40344,
+    "url": "https://wowhead.com/wotlk/item=40344"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Horsemen",
+    "itemName": "Leggings of Voracious Shadows",
+    "quality": "epic",
+    "itemId": 40352,
+    "url": "https://wowhead.com/wotlk/item=40352"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Horsemen",
+    "itemName": "Mantle of the Corrupted",
+    "quality": "epic",
+    "itemId": 40286,
+    "url": "https://wowhead.com/wotlk/item=40286"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Horsemen",
+    "itemName": "Urn of Lost Memories",
+    "quality": "epic",
+    "itemId": 40350,
+    "url": "https://wowhead.com/wotlk/item=40350"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Horsemen",
+    "itemName": "Zeliek's Gauntlets",
+    "quality": "epic",
+    "itemId": 40347,
+    "url": "https://wowhead.com/wotlk/item=40347"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Patchwerk",
+    "itemName": "Arrowsong",
+    "quality": "epic",
+    "itemId": 40265,
+    "url": "https://wowhead.com/wotlk/item=40265"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Patchwerk",
+    "itemName": "Belt of the Tortured",
+    "quality": "epic",
+    "itemId": 40260,
+    "url": "https://wowhead.com/wotlk/item=40260"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Patchwerk",
+    "itemName": "Boots of Persuasion",
+    "quality": "epic",
+    "itemId": 40269,
+    "url": "https://wowhead.com/wotlk/item=40269"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Patchwerk",
+    "itemName": "Boots of Septic Wounds",
+    "quality": "epic",
+    "itemId": 40270,
+    "url": "https://wowhead.com/wotlk/item=40270"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Patchwerk",
+    "itemName": "Chains of Adoration",
+    "quality": "epic",
+    "itemId": 40071,
+    "url": "https://wowhead.com/wotlk/item=40071"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Patchwerk",
+    "itemName": "Crude Discolored Battlegrips",
+    "quality": "epic",
+    "itemId": 40261,
+    "url": "https://wowhead.com/wotlk/item=40261"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Patchwerk",
+    "itemName": "Fleshless Girdle",
+    "quality": "epic",
+    "itemId": 40263,
+    "url": "https://wowhead.com/wotlk/item=40263"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Patchwerk",
+    "itemName": "Fool's Trial",
+    "quality": "epic",
+    "itemId": 40065,
+    "url": "https://wowhead.com/wotlk/item=40065"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Patchwerk",
+    "itemName": "Girdle of the Gambit",
+    "quality": "epic",
+    "itemId": 40272,
+    "url": "https://wowhead.com/wotlk/item=40272"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Patchwerk",
+    "itemName": "Gloves of Calculated Risk",
+    "quality": "epic",
+    "itemId": 40262,
+    "url": "https://wowhead.com/wotlk/item=40262"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Patchwerk",
+    "itemName": "Heritage",
+    "quality": "epic",
+    "itemId": 40069,
+    "url": "https://wowhead.com/wotlk/item=40069"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Patchwerk",
+    "itemName": "Hero's Surrender",
+    "quality": "epic",
+    "itemId": 40266,
+    "url": "https://wowhead.com/wotlk/item=40266"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Patchwerk",
+    "itemName": "Libram of Tolerance",
+    "quality": "epic",
+    "itemId": 40268,
+    "url": "https://wowhead.com/wotlk/item=40268"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Patchwerk",
+    "itemName": "Lost Jewel",
+    "quality": "epic",
+    "itemId": 40080,
+    "url": "https://wowhead.com/wotlk/item=40080"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Patchwerk",
+    "itemName": "Ruthlessness",
+    "quality": "epic",
+    "itemId": 40075,
+    "url": "https://wowhead.com/wotlk/item=40075"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Patchwerk",
+    "itemName": "Sand-Worn Band",
+    "quality": "epic",
+    "itemId": 40107,
+    "url": "https://wowhead.com/wotlk/item=40107"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Patchwerk",
+    "itemName": "Sash of Solitude",
+    "quality": "epic",
+    "itemId": 40271,
+    "url": "https://wowhead.com/wotlk/item=40271"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Patchwerk",
+    "itemName": "Seized Beauty",
+    "quality": "epic",
+    "itemId": 40108,
+    "url": "https://wowhead.com/wotlk/item=40108"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Patchwerk",
+    "itemName": "Split Greathammer",
+    "quality": "epic",
+    "itemId": 40264,
+    "url": "https://wowhead.com/wotlk/item=40264"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Patchwerk",
+    "itemName": "Strong-Handed Ring",
+    "quality": "epic",
+    "itemId": 40074,
+    "url": "https://wowhead.com/wotlk/item=40074"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Patchwerk",
+    "itemName": "Surplus Limb",
+    "quality": "epic",
+    "itemId": 40273,
+    "url": "https://wowhead.com/wotlk/item=40273"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Patchwerk",
+    "itemName": "Thunderstorm Amulet",
+    "quality": "epic",
+    "itemId": 40064,
+    "url": "https://wowhead.com/wotlk/item=40064"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Patchwerk",
+    "itemName": "Totem of Hex",
+    "quality": "epic",
+    "itemId": 40267,
+    "url": "https://wowhead.com/wotlk/item=40267"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Patchwerk",
+    "itemName": "Waistguard of Divine Grace",
+    "quality": "epic",
+    "itemId": 40259,
+    "url": "https://wowhead.com/wotlk/item=40259"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Grobbulus",
+    "itemName": "Aged Winter Cloak",
+    "quality": "epic",
+    "itemId": 40250,
+    "url": "https://wowhead.com/wotlk/item=40250"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Grobbulus",
+    "itemName": "Bracers of Liberation",
+    "quality": "epic",
+    "itemId": 40274,
+    "url": "https://wowhead.com/wotlk/item=40274"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Grobbulus",
+    "itemName": "Chestguard of the Exhausted",
+    "quality": "epic",
+    "itemId": 40279,
+    "url": "https://wowhead.com/wotlk/item=40279"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Grobbulus",
+    "itemName": "Cloak of Averted Crisis",
+    "quality": "epic",
+    "itemId": 40254,
+    "url": "https://wowhead.com/wotlk/item=40254"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Grobbulus",
+    "itemName": "Cloak of the Shadowed Sun",
+    "quality": "epic",
+    "itemId": 40252,
+    "url": "https://wowhead.com/wotlk/item=40252"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Grobbulus",
+    "itemName": "Cowl of Vanity",
+    "quality": "epic",
+    "itemId": 40287,
+    "url": "https://wowhead.com/wotlk/item=40287"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Grobbulus",
+    "itemName": "Defender's Code",
+    "quality": "epic",
+    "itemId": 40257,
+    "url": "https://wowhead.com/wotlk/item=40257"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Grobbulus",
+    "itemName": "Depraved Linked Belt",
+    "quality": "epic",
+    "itemId": 40275,
+    "url": "https://wowhead.com/wotlk/item=40275"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Grobbulus",
+    "itemName": "Desecrated Past",
+    "quality": "epic",
+    "itemId": 40285,
+    "url": "https://wowhead.com/wotlk/item=40285"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Grobbulus",
+    "itemName": "Dying Curse",
+    "quality": "epic",
+    "itemId": 40255,
+    "url": "https://wowhead.com/wotlk/item=40255"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Grobbulus",
+    "itemName": "Fallout Impervious Tunic",
+    "quality": "epic",
+    "itemId": 40283,
+    "url": "https://wowhead.com/wotlk/item=40283"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Grobbulus",
+    "itemName": "Forethought Talisman",
+    "quality": "epic",
+    "itemId": 40258,
+    "url": "https://wowhead.com/wotlk/item=40258"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Grobbulus",
+    "itemName": "Girdle of Chivalry",
+    "quality": "epic",
+    "itemId": 40278,
+    "url": "https://wowhead.com/wotlk/item=40278"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Grobbulus",
+    "itemName": "Grim Toll",
+    "quality": "epic",
+    "itemId": 40256,
+    "url": "https://wowhead.com/wotlk/item=40256"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Grobbulus",
+    "itemName": "Mantle of the Fatigued Sage",
+    "quality": "epic",
+    "itemId": 40351,
+    "url": "https://wowhead.com/wotlk/item=40351"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Grobbulus",
+    "itemName": "Origin of Nightmares",
+    "quality": "epic",
+    "itemId": 40280,
+    "url": "https://wowhead.com/wotlk/item=40280"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Grobbulus",
+    "itemName": "Plague Igniter",
+    "quality": "epic",
+    "itemId": 40284,
+    "url": "https://wowhead.com/wotlk/item=40284"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Grobbulus",
+    "itemName": "Shawl of the Old Maid",
+    "quality": "epic",
+    "itemId": 40253,
+    "url": "https://wowhead.com/wotlk/item=40253"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Grobbulus",
+    "itemName": "Shroud of Luminosity",
+    "quality": "epic",
+    "itemId": 40251,
+    "url": "https://wowhead.com/wotlk/item=40251"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Grobbulus",
+    "itemName": "Slime Stream Bands",
+    "quality": "epic",
+    "itemId": 40282,
+    "url": "https://wowhead.com/wotlk/item=40282"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Grobbulus",
+    "itemName": "Spaulders of Incoherence",
+    "quality": "epic",
+    "itemId": 40288,
+    "url": "https://wowhead.com/wotlk/item=40288"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Grobbulus",
+    "itemName": "Sympathetic Amice",
+    "quality": "epic",
+    "itemId": 40289,
+    "url": "https://wowhead.com/wotlk/item=40289"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Grobbulus",
+    "itemName": "Tunic of Indulgence",
+    "quality": "epic",
+    "itemId": 40277,
+    "url": "https://wowhead.com/wotlk/item=40277"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Grobbulus",
+    "itemName": "Twilight Mist",
+    "quality": "epic",
+    "itemId": 40281,
+    "url": "https://wowhead.com/wotlk/item=40281"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "Ablative Chitin Girdle",
+    "quality": "epic",
+    "itemId": 39759,
+    "url": "https://wowhead.com/wotlk/item=39759"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "Angry Dread",
+    "quality": "epic",
+    "itemId": 40189,
+    "url": "https://wowhead.com/wotlk/item=40189"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "Arrowsong",
+    "quality": "epic",
+    "itemId": 40265,
+    "url": "https://wowhead.com/wotlk/item=40265"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "Atonement Greaves",
+    "quality": "epic",
+    "itemId": 39734,
+    "url": "https://wowhead.com/wotlk/item=39734"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "Bands of Impurity",
+    "quality": "epic",
+    "itemId": 40198,
+    "url": "https://wowhead.com/wotlk/item=40198"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "Bindings of the Decrepit",
+    "quality": "epic",
+    "itemId": 40209,
+    "url": "https://wowhead.com/wotlk/item=40209"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "Bindings of the Hapless Prey",
+    "quality": "epic",
+    "itemId": 39764,
+    "url": "https://wowhead.com/wotlk/item=39764"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "Boots of Persuasion",
+    "quality": "epic",
+    "itemId": 40269,
+    "url": "https://wowhead.com/wotlk/item=40269"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "Bracers of Unrelenting Attack",
+    "quality": "epic",
+    "itemId": 40330,
+    "url": "https://wowhead.com/wotlk/item=40330"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "Breastplate of the Lost Conqueror",
+    "quality": "epic",
+    "itemId": 40625,
+    "url": "https://wowhead.com/wotlk/item=40625"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "Breastplate of the Lost Protector",
+    "quality": "epic",
+    "itemId": 40626,
+    "url": "https://wowhead.com/wotlk/item=40626"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "Breastplate of the Lost Vanquisher",
+    "quality": "epic",
+    "itemId": 40627,
+    "url": "https://wowhead.com/wotlk/item=40627"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "Broken Promise",
+    "quality": "epic",
+    "itemId": 40345,
+    "url": "https://wowhead.com/wotlk/item=40345"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "Callous-Hearted Gauntlets",
+    "quality": "epic",
+    "itemId": 39726,
+    "url": "https://wowhead.com/wotlk/item=39726"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "Chestguard of Bitter Charms",
+    "quality": "epic",
+    "itemId": 40210,
+    "url": "https://wowhead.com/wotlk/item=40210"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "Cincture of Polarity",
+    "quality": "epic",
+    "itemId": 40301,
+    "url": "https://wowhead.com/wotlk/item=40301"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "Cowl of Innocent Delight",
+    "quality": "epic",
+    "itemId": 40247,
+    "url": "https://wowhead.com/wotlk/item=40247"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "Crude Discolored Battlegrips",
+    "quality": "epic",
+    "itemId": 40261,
+    "url": "https://wowhead.com/wotlk/item=40261"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "Cryptfiend's Bite",
+    "quality": "epic",
+    "itemId": 40208,
+    "url": "https://wowhead.com/wotlk/item=40208"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "Epaulets of the Grieving Servant",
+    "quality": "epic",
+    "itemId": 39725,
+    "url": "https://wowhead.com/wotlk/item=39725"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "Faerlina's Madness",
+    "quality": "epic",
+    "itemId": 39732,
+    "url": "https://wowhead.com/wotlk/item=39732"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "Faithful Steel Sabatons",
+    "quality": "epic",
+    "itemId": 40320,
+    "url": "https://wowhead.com/wotlk/item=40320"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "Final Voyage",
+    "quality": "epic",
+    "itemId": 40346,
+    "url": "https://wowhead.com/wotlk/item=40346"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "Fleshless Girdle",
+    "quality": "epic",
+    "itemId": 40263,
+    "url": "https://wowhead.com/wotlk/item=40263"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "Gauntlets of Guiding Touch",
+    "quality": "epic",
+    "itemId": 40316,
+    "url": "https://wowhead.com/wotlk/item=40316"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "Girdle of Recuperation",
+    "quality": "epic",
+    "itemId": 40327,
+    "url": "https://wowhead.com/wotlk/item=40327"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "Girdle of the Gambit",
+    "quality": "epic",
+    "itemId": 40272,
+    "url": "https://wowhead.com/wotlk/item=40272"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "Girdle of Unity",
+    "quality": "epic",
+    "itemId": 40241,
+    "url": "https://wowhead.com/wotlk/item=40241"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "Gloves of the Dancing Bear",
+    "quality": "epic",
+    "itemId": 40238,
+    "url": "https://wowhead.com/wotlk/item=40238"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "Gothik's Cowl",
+    "quality": "epic",
+    "itemId": 40339,
+    "url": "https://wowhead.com/wotlk/item=40339"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "Heigan's Putrid Vestments",
+    "quality": "epic",
+    "itemId": 40234,
+    "url": "https://wowhead.com/wotlk/item=40234"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "Helm of Pilgrimage",
+    "quality": "epic",
+    "itemId": 40235,
+    "url": "https://wowhead.com/wotlk/item=40235"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "Helm of the Grave",
+    "quality": "epic",
+    "itemId": 40344,
+    "url": "https://wowhead.com/wotlk/item=40344"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "Helm of Vital Protection",
+    "quality": "epic",
+    "itemId": 40328,
+    "url": "https://wowhead.com/wotlk/item=40328"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "Idol of Awakening",
+    "quality": "epic",
+    "itemId": 40342,
+    "url": "https://wowhead.com/wotlk/item=40342"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "Idol of the Shooting Star",
+    "quality": "epic",
+    "itemId": 40321,
+    "url": "https://wowhead.com/wotlk/item=40321"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "Idol of Worship",
+    "quality": "epic",
+    "itemId": 39757,
+    "url": "https://wowhead.com/wotlk/item=39757"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "Inexorable Sabatons",
+    "quality": "epic",
+    "itemId": 39717,
+    "url": "https://wowhead.com/wotlk/item=39717"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "Leggings of Colossal Strides",
+    "quality": "epic",
+    "itemId": 40201,
+    "url": "https://wowhead.com/wotlk/item=40201"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "Leggings of Voracious Shadows",
+    "quality": "epic",
+    "itemId": 40352,
+    "url": "https://wowhead.com/wotlk/item=40352"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "Legplates of the Lost Conqueror",
+    "quality": "epic",
+    "itemId": 40634,
+    "url": "https://wowhead.com/wotlk/item=40634"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "Legplates of the Lost Protector",
+    "quality": "epic",
+    "itemId": 40635,
+    "url": "https://wowhead.com/wotlk/item=40635"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "Legplates of the Lost Vanquisher",
+    "quality": "epic",
+    "itemId": 40636,
+    "url": "https://wowhead.com/wotlk/item=40636"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "Libram of Radiance",
+    "quality": "epic",
+    "itemId": 40191,
+    "url": "https://wowhead.com/wotlk/item=40191"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "Libram of Resurgence",
+    "quality": "epic",
+    "itemId": 40337,
+    "url": "https://wowhead.com/wotlk/item=40337"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "Mantle of the Locusts",
+    "quality": "epic",
+    "itemId": 39719,
+    "url": "https://wowhead.com/wotlk/item=39719"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "Mantle of the Lost Conqueror",
+    "quality": "epic",
+    "itemId": 40637,
+    "url": "https://wowhead.com/wotlk/item=40637"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "Mantle of the Lost Protector",
+    "quality": "epic",
+    "itemId": 40638,
+    "url": "https://wowhead.com/wotlk/item=40638"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "Mantle of the Lost Vanquisher",
+    "quality": "epic",
+    "itemId": 40639,
+    "url": "https://wowhead.com/wotlk/item=40639"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "Matriarch's Spawn",
+    "quality": "epic",
+    "itemId": 39766,
+    "url": "https://wowhead.com/wotlk/item=39766"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "Poignant Sabatons",
+    "quality": "epic",
+    "itemId": 40187,
+    "url": "https://wowhead.com/wotlk/item=40187"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "Punctilious Bindings",
+    "quality": "epic",
+    "itemId": 39731,
+    "url": "https://wowhead.com/wotlk/item=39731"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "Quivering Tunic",
+    "quality": "epic",
+    "itemId": 40061,
+    "url": "https://wowhead.com/wotlk/item=40061"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "Riveted Abomination Leggings",
+    "quality": "epic",
+    "itemId": 40294,
+    "url": "https://wowhead.com/wotlk/item=40294"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "Sash of Solitude",
+    "quality": "epic",
+    "itemId": 40271,
+    "url": "https://wowhead.com/wotlk/item=40271"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "Sash of the Parlor",
+    "quality": "epic",
+    "itemId": 39721,
+    "url": "https://wowhead.com/wotlk/item=39721"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "Spaulders of Incoherence",
+    "quality": "epic",
+    "itemId": 40288,
+    "url": "https://wowhead.com/wotlk/item=40288"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "Split Greathammer",
+    "quality": "epic",
+    "itemId": 40264,
+    "url": "https://wowhead.com/wotlk/item=40264"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "The Jawbone",
+    "quality": "epic",
+    "itemId": 39758,
+    "url": "https://wowhead.com/wotlk/item=39758"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "The Undeath Carrier",
+    "quality": "epic",
+    "itemId": 40233,
+    "url": "https://wowhead.com/wotlk/item=40233"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "Torn Web Wrapping",
+    "quality": "epic",
+    "itemId": 39762,
+    "url": "https://wowhead.com/wotlk/item=39762"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "Touch of Horror",
+    "quality": "epic",
+    "itemId": 40335,
+    "url": "https://wowhead.com/wotlk/item=40335"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "Urn of Lost Memories",
+    "quality": "epic",
+    "itemId": 40350,
+    "url": "https://wowhead.com/wotlk/item=40350"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Gluth",
+    "itemName": "Vest of Vitality",
+    "quality": "epic",
+    "itemId": 40249,
+    "url": "https://wowhead.com/wotlk/item=40249"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Thaddius",
+    "itemName": "Benefactor's Gauntlets",
+    "quality": "epic",
+    "itemId": 40302,
+    "url": "https://wowhead.com/wotlk/item=40302"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Thaddius",
+    "itemName": "Cincture of Polarity",
+    "quality": "epic",
+    "itemId": 40301,
+    "url": "https://wowhead.com/wotlk/item=40301"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Thaddius",
+    "itemName": "Cover of Silence",
+    "quality": "epic",
+    "itemId": 40296,
+    "url": "https://wowhead.com/wotlk/item=40296"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Thaddius",
+    "itemName": "Faceguard of the Succumbed",
+    "quality": "epic",
+    "itemId": 40298,
+    "url": "https://wowhead.com/wotlk/item=40298"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Thaddius",
+    "itemName": "Headpiece of Fungal Bloom",
+    "quality": "epic",
+    "itemId": 40304,
+    "url": "https://wowhead.com/wotlk/item=40304"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Thaddius",
+    "itemName": "Legplates of the Lost Conqueror",
+    "quality": "epic",
+    "itemId": 40634,
+    "url": "https://wowhead.com/wotlk/item=40634"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Thaddius",
+    "itemName": "Legplates of the Lost Protector",
+    "quality": "epic",
+    "itemId": 40635,
+    "url": "https://wowhead.com/wotlk/item=40635"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Thaddius",
+    "itemName": "Legplates of the Lost Vanquisher",
+    "quality": "epic",
+    "itemId": 40636,
+    "url": "https://wowhead.com/wotlk/item=40636"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Thaddius",
+    "itemName": "Pauldrons of the Abandoned",
+    "quality": "epic",
+    "itemId": 40299,
+    "url": "https://wowhead.com/wotlk/item=40299"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Thaddius",
+    "itemName": "Riveted Abomination Leggings",
+    "quality": "epic",
+    "itemId": 40294,
+    "url": "https://wowhead.com/wotlk/item=40294"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Thaddius",
+    "itemName": "Sabatons of Endurance",
+    "quality": "epic",
+    "itemId": 40297,
+    "url": "https://wowhead.com/wotlk/item=40297"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Thaddius",
+    "itemName": "Spire of Sunset",
+    "quality": "epic",
+    "itemId": 40300,
+    "url": "https://wowhead.com/wotlk/item=40300"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Thaddius",
+    "itemName": "Wraps of the Persecuted",
+    "quality": "epic",
+    "itemId": 40303,
+    "url": "https://wowhead.com/wotlk/item=40303"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Sapphiron",
+    "itemName": "Bandit's Insignia",
+    "quality": "epic",
+    "itemId": 40371,
+    "url": "https://wowhead.com/wotlk/item=40371"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Sapphiron",
+    "itemName": "Bone-Inlaid Legguards",
+    "quality": "epic",
+    "itemId": 40363,
+    "url": "https://wowhead.com/wotlk/item=40363"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Sapphiron",
+    "itemName": "Boots of the Great Construct",
+    "quality": "epic",
+    "itemId": 40367,
+    "url": "https://wowhead.com/wotlk/item=40367"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Sapphiron",
+    "itemName": "Breastplate of Frozen Pain",
+    "quality": "epic",
+    "itemId": 40365,
+    "url": "https://wowhead.com/wotlk/item=40365"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Sapphiron",
+    "itemName": "Ceaseless Pity",
+    "quality": "epic",
+    "itemId": 40378,
+    "url": "https://wowhead.com/wotlk/item=40378"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Sapphiron",
+    "itemName": "Cosmic Lights",
+    "quality": "epic",
+    "itemId": 40374,
+    "url": "https://wowhead.com/wotlk/item=40374"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Sapphiron",
+    "itemName": "Extract of Necromantic Power",
+    "quality": "epic",
+    "itemId": 40373,
+    "url": "https://wowhead.com/wotlk/item=40373"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Sapphiron",
+    "itemName": "Gatekeeper",
+    "quality": "epic",
+    "itemId": 40370,
+    "url": "https://wowhead.com/wotlk/item=40370"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Sapphiron",
+    "itemName": "Gloves of Fast Reactions",
+    "quality": "epic",
+    "itemId": 40362,
+    "url": "https://wowhead.com/wotlk/item=40362"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Sapphiron",
+    "itemName": "Gloves of Grandeur",
+    "quality": "epic",
+    "itemId": 40380,
+    "url": "https://wowhead.com/wotlk/item=40380"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Sapphiron",
+    "itemName": "Heroic Key to the Focusing Iris",
+    "quality": "epic",
+    "itemId": 44577,
+    "url": "https://wowhead.com/wotlk/item=44577"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Sapphiron",
+    "itemName": "Icy Blast Amulet",
+    "quality": "epic",
+    "itemId": 40369,
+    "url": "https://wowhead.com/wotlk/item=40369"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Sapphiron",
+    "itemName": "Legguards of the Boneyard",
+    "quality": "epic",
+    "itemId": 40379,
+    "url": "https://wowhead.com/wotlk/item=40379"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Sapphiron",
+    "itemName": "Legwraps of the Defeated Dragon",
+    "quality": "epic",
+    "itemId": 40376,
+    "url": "https://wowhead.com/wotlk/item=40376"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Sapphiron",
+    "itemName": "Murder",
+    "quality": "epic",
+    "itemId": 40368,
+    "url": "https://wowhead.com/wotlk/item=40368"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Sapphiron",
+    "itemName": "Noble Birthright Pauldrons",
+    "quality": "epic",
+    "itemId": 40377,
+    "url": "https://wowhead.com/wotlk/item=40377"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Sapphiron",
+    "itemName": "Platehelm of the Great Wyrm",
+    "quality": "epic",
+    "itemId": 40366,
+    "url": "https://wowhead.com/wotlk/item=40366"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Sapphiron",
+    "itemName": "Ring of Decaying Beauty",
+    "quality": "epic",
+    "itemId": 40375,
+    "url": "https://wowhead.com/wotlk/item=40375"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Sapphiron",
+    "itemName": "Rune of Repulsion",
+    "quality": "epic",
+    "itemId": 40372,
+    "url": "https://wowhead.com/wotlk/item=40372"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Sapphiron",
+    "itemName": "Soul of the Dead",
+    "quality": "epic",
+    "itemId": 40382,
+    "url": "https://wowhead.com/wotlk/item=40382"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Sapphiron",
+    "itemName": "Sympathy",
+    "quality": "epic",
+    "itemId": 40381,
+    "url": "https://wowhead.com/wotlk/item=40381"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Kel'Thuzad",
+    "itemName": "Betrayer of Humanity",
+    "quality": "epic",
+    "itemId": 40384,
+    "url": "https://wowhead.com/wotlk/item=40384"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Kel'Thuzad",
+    "itemName": "Boundless Ambition",
+    "quality": "epic",
+    "itemId": 40387,
+    "url": "https://wowhead.com/wotlk/item=40387"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Kel'Thuzad",
+    "itemName": "Calamity's Grasp",
+    "quality": "epic",
+    "itemId": 40383,
+    "url": "https://wowhead.com/wotlk/item=40383"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Kel'Thuzad",
+    "itemName": "Cape of the Unworthy Wizard",
+    "quality": "epic",
+    "itemId": 40405,
+    "url": "https://wowhead.com/wotlk/item=40405"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Kel'Thuzad",
+    "itemName": "Crown of the Lost Conqueror",
+    "quality": "epic",
+    "itemId": 40631,
+    "url": "https://wowhead.com/wotlk/item=40631"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Kel'Thuzad",
+    "itemName": "Crown of the Lost Protector",
+    "quality": "epic",
+    "itemId": 40632,
+    "url": "https://wowhead.com/wotlk/item=40632"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Kel'Thuzad",
+    "itemName": "Crown of the Lost Vanquisher",
+    "quality": "epic",
+    "itemId": 40633,
+    "url": "https://wowhead.com/wotlk/item=40633"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Kel'Thuzad",
+    "itemName": "Drape of the Deadly Foe",
+    "quality": "epic",
+    "itemId": 40403,
+    "url": "https://wowhead.com/wotlk/item=40403"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Kel'Thuzad",
+    "itemName": "Envoy of Mortality",
+    "quality": "epic",
+    "itemId": 40385,
+    "url": "https://wowhead.com/wotlk/item=40385"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Kel'Thuzad",
+    "itemName": "Journey's End",
+    "quality": "epic",
+    "itemId": 40388,
+    "url": "https://wowhead.com/wotlk/item=40388"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Kel'Thuzad",
+    "itemName": "Last Laugh",
+    "quality": "epic",
+    "itemId": 40402,
+    "url": "https://wowhead.com/wotlk/item=40402"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Kel'Thuzad",
+    "itemName": "Leggings of Mortal Arrogance",
+    "quality": "epic",
+    "itemId": 40398,
+    "url": "https://wowhead.com/wotlk/item=40398"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Kel'Thuzad",
+    "itemName": "Signet of Manifested Pain",
+    "quality": "epic",
+    "itemId": 40399,
+    "url": "https://wowhead.com/wotlk/item=40399"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Kel'Thuzad",
+    "itemName": "Sinister Revenge",
+    "quality": "epic",
+    "itemId": 40386,
+    "url": "https://wowhead.com/wotlk/item=40386"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Kel'Thuzad",
+    "itemName": "The Turning Tide",
+    "quality": "epic",
+    "itemId": 40396,
+    "url": "https://wowhead.com/wotlk/item=40396"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Kel'Thuzad",
+    "itemName": "Torch of Holy Fire",
+    "quality": "epic",
+    "itemId": 40395,
+    "url": "https://wowhead.com/wotlk/item=40395"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Kel'Thuzad",
+    "itemName": "Voice of Reason",
+    "quality": "epic",
+    "itemId": 40401,
+    "url": "https://wowhead.com/wotlk/item=40401"
+  },
+  {
+    "instanceName": "Naxxramas N25",
+    "encounter": "Kel'Thuzad",
+    "itemName": "Wall of Terror",
+    "quality": "epic",
+    "itemId": 40400,
+    "url": "https://wowhead.com/wotlk/item=40400"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Trash",
+    "itemName": "Chain of Latent Energies",
+    "quality": "epic",
+    "itemId": 39472,
+    "url": "https://wowhead.com/wotlk/item=39472"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Trash",
+    "itemName": "Contortion",
+    "quality": "epic",
+    "itemId": 39473,
+    "url": "https://wowhead.com/wotlk/item=39473"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Trash",
+    "itemName": "Medallion of the Disgraced",
+    "quality": "epic",
+    "itemId": 39470,
+    "url": "https://wowhead.com/wotlk/item=39470"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Trash",
+    "itemName": "Minion Bracers",
+    "quality": "epic",
+    "itemId": 39467,
+    "url": "https://wowhead.com/wotlk/item=39467"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Trash",
+    "itemName": "Omen of Ruin",
+    "quality": "epic",
+    "itemId": 39427,
+    "url": "https://wowhead.com/wotlk/item=39427"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Trash",
+    "itemName": "The Stray",
+    "quality": "epic",
+    "itemId": 39468,
+    "url": "https://wowhead.com/wotlk/item=39468"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Anub'Rekhan",
+    "itemName": "Agonal Sash",
+    "quality": "epic",
+    "itemId": 39190,
+    "url": "https://wowhead.com/wotlk/item=39190"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Anub'Rekhan",
+    "itemName": "Band of Neglected Pleas",
+    "quality": "epic",
+    "itemId": 39193,
+    "url": "https://wowhead.com/wotlk/item=39193"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Anub'Rekhan",
+    "itemName": "Boots of Persistence",
+    "quality": "epic",
+    "itemId": 39189,
+    "url": "https://wowhead.com/wotlk/item=39189"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Anub'Rekhan",
+    "itemName": "Chivalric Chestguard",
+    "quality": "epic",
+    "itemId": 39188,
+    "url": "https://wowhead.com/wotlk/item=39188"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Anub'Rekhan",
+    "itemName": "Collar of Dissolution",
+    "quality": "epic",
+    "itemId": 39146,
+    "url": "https://wowhead.com/wotlk/item=39146"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Anub'Rekhan",
+    "itemName": "Deflection Band",
+    "quality": "epic",
+    "itemId": 39141,
+    "url": "https://wowhead.com/wotlk/item=39141"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Anub'Rekhan",
+    "itemName": "Gloves of Dark Gestures",
+    "quality": "epic",
+    "itemId": 39192,
+    "url": "https://wowhead.com/wotlk/item=39192"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Anub'Rekhan",
+    "itemName": "Knife of Incision",
+    "quality": "epic",
+    "itemId": 39140,
+    "url": "https://wowhead.com/wotlk/item=39140"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Anub'Rekhan",
+    "itemName": "Ravaging Sabatons",
+    "quality": "epic",
+    "itemId": 39139,
+    "url": "https://wowhead.com/wotlk/item=39139"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Anub'Rekhan",
+    "itemName": "Splint-Bound Leggings",
+    "quality": "epic",
+    "itemId": 39191,
+    "url": "https://wowhead.com/wotlk/item=39191"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Faerlina",
+    "itemName": "Avenging Combat Leggings",
+    "quality": "epic",
+    "itemId": 39217,
+    "url": "https://wowhead.com/wotlk/item=39217"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Faerlina",
+    "itemName": "Boots of the Follower",
+    "quality": "epic",
+    "itemId": 39215,
+    "url": "https://wowhead.com/wotlk/item=39215"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Faerlina",
+    "itemName": "Boots of the Worshiper",
+    "quality": "epic",
+    "itemId": 39196,
+    "url": "https://wowhead.com/wotlk/item=39196"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Faerlina",
+    "itemName": "Bracers of Lost Sentiments",
+    "quality": "epic",
+    "itemId": 39195,
+    "url": "https://wowhead.com/wotlk/item=39195"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Faerlina",
+    "itemName": "Frostblight Pauldrons",
+    "quality": "epic",
+    "itemId": 39198,
+    "url": "https://wowhead.com/wotlk/item=39198"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Faerlina",
+    "itemName": "Gauntlets of the Master",
+    "quality": "epic",
+    "itemId": 39197,
+    "url": "https://wowhead.com/wotlk/item=39197"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Faerlina",
+    "itemName": "Grieving Spellblade",
+    "quality": "epic",
+    "itemId": 39200,
+    "url": "https://wowhead.com/wotlk/item=39200"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Faerlina",
+    "itemName": "Rusted-Link Spiked Gauntlets",
+    "quality": "epic",
+    "itemId": 39194,
+    "url": "https://wowhead.com/wotlk/item=39194"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Faerlina",
+    "itemName": "Sash of Mortal Desire",
+    "quality": "epic",
+    "itemId": 39216,
+    "url": "https://wowhead.com/wotlk/item=39216"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Faerlina",
+    "itemName": "Watchful Eye",
+    "quality": "epic",
+    "itemId": 39199,
+    "url": "https://wowhead.com/wotlk/item=39199"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Maexxna",
+    "itemName": "Aegis of Damnation",
+    "quality": "epic",
+    "itemId": 39233,
+    "url": "https://wowhead.com/wotlk/item=39233"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Maexxna",
+    "itemName": "Cloak of Armed Strife",
+    "quality": "epic",
+    "itemId": 39225,
+    "url": "https://wowhead.com/wotlk/item=39225"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Maexxna",
+    "itemName": "Embrace of the Spider",
+    "quality": "epic",
+    "itemId": 39229,
+    "url": "https://wowhead.com/wotlk/item=39229"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Maexxna",
+    "itemName": "Leggings of Discord",
+    "quality": "epic",
+    "itemId": 39224,
+    "url": "https://wowhead.com/wotlk/item=39224"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Maexxna",
+    "itemName": "Maexxna's Femur",
+    "quality": "epic",
+    "itemId": 39226,
+    "url": "https://wowhead.com/wotlk/item=39226"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Maexxna",
+    "itemName": "Pendant of Lost Vocations",
+    "quality": "epic",
+    "itemId": 39232,
+    "url": "https://wowhead.com/wotlk/item=39232"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Maexxna",
+    "itemName": "Spaulders of the Monstrosity",
+    "quality": "epic",
+    "itemId": 39230,
+    "url": "https://wowhead.com/wotlk/item=39230"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Maexxna",
+    "itemName": "Timeworn Silken Band",
+    "quality": "epic",
+    "itemId": 39231,
+    "url": "https://wowhead.com/wotlk/item=39231"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Maexxna",
+    "itemName": "Web Cocoon Grips",
+    "quality": "epic",
+    "itemId": 39228,
+    "url": "https://wowhead.com/wotlk/item=39228"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Maexxna",
+    "itemName": "Wraith Spear",
+    "quality": "epic",
+    "itemId": 39221,
+    "url": "https://wowhead.com/wotlk/item=39221"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Noth",
+    "itemName": "Bone-Framed Bracers",
+    "quality": "epic",
+    "itemId": 39235,
+    "url": "https://wowhead.com/wotlk/item=39235"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Noth",
+    "itemName": "Chestplate of the Risen Soldier",
+    "quality": "epic",
+    "itemId": 39239,
+    "url": "https://wowhead.com/wotlk/item=39239"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Noth",
+    "itemName": "Dark Shroud of the Scourge",
+    "quality": "epic",
+    "itemId": 39241,
+    "url": "https://wowhead.com/wotlk/item=39241"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Noth",
+    "itemName": "Handgrips of the Foredoomed",
+    "quality": "epic",
+    "itemId": 39243,
+    "url": "https://wowhead.com/wotlk/item=39243"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Noth",
+    "itemName": "Noth's Curse",
+    "quality": "epic",
+    "itemId": 39240,
+    "url": "https://wowhead.com/wotlk/item=39240"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Noth",
+    "itemName": "Plague-Impervious Boots",
+    "quality": "epic",
+    "itemId": 39234,
+    "url": "https://wowhead.com/wotlk/item=39234"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Noth",
+    "itemName": "Ring of the Fated",
+    "quality": "epic",
+    "itemId": 39244,
+    "url": "https://wowhead.com/wotlk/item=39244"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Noth",
+    "itemName": "Robes of Hoarse Breaths",
+    "quality": "epic",
+    "itemId": 39242,
+    "url": "https://wowhead.com/wotlk/item=39242"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Noth",
+    "itemName": "Spaulders of Resumed Battle",
+    "quality": "epic",
+    "itemId": 39237,
+    "url": "https://wowhead.com/wotlk/item=39237"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Noth",
+    "itemName": "Trespasser's Boots",
+    "quality": "epic",
+    "itemId": 39236,
+    "url": "https://wowhead.com/wotlk/item=39236"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Heigan",
+    "itemName": "Amulet of Autopsy",
+    "quality": "epic",
+    "itemId": 39246,
+    "url": "https://wowhead.com/wotlk/item=39246"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Heigan",
+    "itemName": "Cuffs of Dark Shadows",
+    "quality": "epic",
+    "itemId": 39247,
+    "url": "https://wowhead.com/wotlk/item=39247"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Heigan",
+    "itemName": "Demise",
+    "quality": "epic",
+    "itemId": 39245,
+    "url": "https://wowhead.com/wotlk/item=39245"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Heigan",
+    "itemName": "Necrogenic Belt",
+    "quality": "epic",
+    "itemId": 39251,
+    "url": "https://wowhead.com/wotlk/item=39251"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Heigan",
+    "itemName": "Preceptor's Bindings",
+    "quality": "epic",
+    "itemId": 39252,
+    "url": "https://wowhead.com/wotlk/item=39252"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Heigan",
+    "itemName": "Ring of Holy Cleansing",
+    "quality": "epic",
+    "itemId": 39250,
+    "url": "https://wowhead.com/wotlk/item=39250"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Heigan",
+    "itemName": "Saltarello Shoes",
+    "quality": "epic",
+    "itemId": 39254,
+    "url": "https://wowhead.com/wotlk/item=39254"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Heigan",
+    "itemName": "Shoulderplates of Bloodshed",
+    "quality": "epic",
+    "itemId": 39249,
+    "url": "https://wowhead.com/wotlk/item=39249"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Heigan",
+    "itemName": "Staff of the Plague Beast",
+    "quality": "epic",
+    "itemId": 39255,
+    "url": "https://wowhead.com/wotlk/item=39255"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Heigan",
+    "itemName": "Tunic of the Lost Pack",
+    "quality": "epic",
+    "itemId": 39248,
+    "url": "https://wowhead.com/wotlk/item=39248"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Loatheb",
+    "itemName": "Fungi-Stained Coverings",
+    "quality": "epic",
+    "itemId": 39259,
+    "url": "https://wowhead.com/wotlk/item=39259"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Loatheb",
+    "itemName": "Helm of the Corrupted Mind",
+    "quality": "epic",
+    "itemId": 39260,
+    "url": "https://wowhead.com/wotlk/item=39260"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Loatheb",
+    "itemName": "Legplates of Inescapable Death",
+    "quality": "epic",
+    "itemId": 39258,
+    "url": "https://wowhead.com/wotlk/item=39258"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Loatheb",
+    "itemName": "Loatheb's Shadow",
+    "quality": "epic",
+    "itemId": 39257,
+    "url": "https://wowhead.com/wotlk/item=39257"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Loatheb",
+    "itemName": "Spaulders of the Lost Conqueror",
+    "quality": "epic",
+    "itemId": 40622,
+    "url": "https://wowhead.com/wotlk/item=40622"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Loatheb",
+    "itemName": "Spaulders of the Lost Protector",
+    "quality": "epic",
+    "itemId": 40623,
+    "url": "https://wowhead.com/wotlk/item=40623"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Loatheb",
+    "itemName": "Spaulders of the Lost Vanquisher",
+    "quality": "epic",
+    "itemId": 40624,
+    "url": "https://wowhead.com/wotlk/item=40624"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Loatheb",
+    "itemName": "Sulfur Stave",
+    "quality": "epic",
+    "itemId": 39256,
+    "url": "https://wowhead.com/wotlk/item=39256"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Razuvious",
+    "itemName": "Accursed Bow of the Elite",
+    "quality": "epic",
+    "itemId": 39296,
+    "url": "https://wowhead.com/wotlk/item=39296"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Razuvious",
+    "itemName": "Cloak of Darkening",
+    "quality": "epic",
+    "itemId": 39297,
+    "url": "https://wowhead.com/wotlk/item=39297"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Razuvious",
+    "itemName": "Girdle of Lenience",
+    "quality": "epic",
+    "itemId": 39308,
+    "url": "https://wowhead.com/wotlk/item=39308"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Razuvious",
+    "itemName": "Iron Rings of Endurance",
+    "quality": "epic",
+    "itemId": 39307,
+    "url": "https://wowhead.com/wotlk/item=39307"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Razuvious",
+    "itemName": "Leggings of the Instructor",
+    "quality": "epic",
+    "itemId": 39309,
+    "url": "https://wowhead.com/wotlk/item=39309"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Razuvious",
+    "itemName": "Mantle of the Extensive Mind",
+    "quality": "epic",
+    "itemId": 39310,
+    "url": "https://wowhead.com/wotlk/item=39310"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Razuvious",
+    "itemName": "Plated Gloves of Relief",
+    "quality": "epic",
+    "itemId": 39306,
+    "url": "https://wowhead.com/wotlk/item=39306"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Razuvious",
+    "itemName": "Rapid Attack Gloves",
+    "quality": "epic",
+    "itemId": 39299,
+    "url": "https://wowhead.com/wotlk/item=39299"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Razuvious",
+    "itemName": "Scepter of Murmuring Spirits",
+    "quality": "epic",
+    "itemId": 39311,
+    "url": "https://wowhead.com/wotlk/item=39311"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Razuvious",
+    "itemName": "Waistguard of the Tutor",
+    "quality": "epic",
+    "itemId": 39298,
+    "url": "https://wowhead.com/wotlk/item=39298"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Gothik",
+    "itemName": "Girdle of the Ascended Phantom",
+    "quality": "epic",
+    "itemId": 39345,
+    "url": "https://wowhead.com/wotlk/item=39345"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Gothik",
+    "itemName": "Heinous Mail Chestguard",
+    "quality": "epic",
+    "itemId": 39391,
+    "url": "https://wowhead.com/wotlk/item=39391"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Gothik",
+    "itemName": "Resurgent Phantom Bindings",
+    "quality": "epic",
+    "itemId": 39390,
+    "url": "https://wowhead.com/wotlk/item=39390"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Gothik",
+    "itemName": "Sabatons of Deathlike Gloom",
+    "quality": "epic",
+    "itemId": 39369,
+    "url": "https://wowhead.com/wotlk/item=39369"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Gothik",
+    "itemName": "Signet of the Malevolent",
+    "quality": "epic",
+    "itemId": 39389,
+    "url": "https://wowhead.com/wotlk/item=39389"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Gothik",
+    "itemName": "Slayer of the Lifeless",
+    "quality": "epic",
+    "itemId": 39344,
+    "url": "https://wowhead.com/wotlk/item=39344"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Gothik",
+    "itemName": "Spectral Rider's Girdle",
+    "quality": "epic",
+    "itemId": 39379,
+    "url": "https://wowhead.com/wotlk/item=39379"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Gothik",
+    "itemName": "Spirit-World Glass",
+    "quality": "epic",
+    "itemId": 39388,
+    "url": "https://wowhead.com/wotlk/item=39388"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Gothik",
+    "itemName": "Tunic of Dislocation",
+    "quality": "epic",
+    "itemId": 39386,
+    "url": "https://wowhead.com/wotlk/item=39386"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Gothik",
+    "itemName": "Veiled Amulet of Life",
+    "quality": "epic",
+    "itemId": 39392,
+    "url": "https://wowhead.com/wotlk/item=39392"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Horsemen",
+    "itemName": "Charmed Cierge",
+    "quality": "epic",
+    "itemId": 39394,
+    "url": "https://wowhead.com/wotlk/item=39394"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Horsemen",
+    "itemName": "Chestguard of the Lost Conqueror",
+    "quality": "epic",
+    "itemId": 40610,
+    "url": "https://wowhead.com/wotlk/item=40610"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Horsemen",
+    "itemName": "Chestguard of the Lost Protector",
+    "quality": "epic",
+    "itemId": 40611,
+    "url": "https://wowhead.com/wotlk/item=40611"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Horsemen",
+    "itemName": "Chestguard of the Lost Vanquisher",
+    "quality": "epic",
+    "itemId": 40612,
+    "url": "https://wowhead.com/wotlk/item=40612"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Horsemen",
+    "itemName": "Claymore of Ancient Power",
+    "quality": "epic",
+    "itemId": 39393,
+    "url": "https://wowhead.com/wotlk/item=39393"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Horsemen",
+    "itemName": "Gown of Blaumeux",
+    "quality": "epic",
+    "itemId": 39396,
+    "url": "https://wowhead.com/wotlk/item=39396"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Horsemen",
+    "itemName": "Pauldrons of Havoc",
+    "quality": "epic",
+    "itemId": 39397,
+    "url": "https://wowhead.com/wotlk/item=39397"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Horsemen",
+    "itemName": "Thane's Tainted Greathelm",
+    "quality": "epic",
+    "itemId": 39395,
+    "url": "https://wowhead.com/wotlk/item=39395"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Patchwerk",
+    "itemName": "Abomination Shoulderblades",
+    "quality": "epic",
+    "itemId": 39267,
+    "url": "https://wowhead.com/wotlk/item=39267"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Patchwerk",
+    "itemName": "Blade of Dormant Memories",
+    "quality": "epic",
+    "itemId": 39271,
+    "url": "https://wowhead.com/wotlk/item=39271"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Patchwerk",
+    "itemName": "Contagion Gloves",
+    "quality": "epic",
+    "itemId": 39275,
+    "url": "https://wowhead.com/wotlk/item=39275"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Patchwerk",
+    "itemName": "Drape of Surgery",
+    "quality": "epic",
+    "itemId": 39272,
+    "url": "https://wowhead.com/wotlk/item=39272"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Patchwerk",
+    "itemName": "Gauntlets of Combined Strength",
+    "quality": "epic",
+    "itemId": 39262,
+    "url": "https://wowhead.com/wotlk/item=39262"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Patchwerk",
+    "itemName": "Hatestrike",
+    "quality": "epic",
+    "itemId": 39270,
+    "url": "https://wowhead.com/wotlk/item=39270"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Patchwerk",
+    "itemName": "Retcher's Shoulderpads",
+    "quality": "epic",
+    "itemId": 39274,
+    "url": "https://wowhead.com/wotlk/item=39274"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Patchwerk",
+    "itemName": "Sullen Cloth Boots",
+    "quality": "epic",
+    "itemId": 39273,
+    "url": "https://wowhead.com/wotlk/item=39273"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Patchwerk",
+    "itemName": "Tainted Girdle of Mending",
+    "quality": "epic",
+    "itemId": 39261,
+    "url": "https://wowhead.com/wotlk/item=39261"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Grobbulus",
+    "itemName": "Bands of Anxiety",
+    "quality": "epic",
+    "itemId": 39278,
+    "url": "https://wowhead.com/wotlk/item=39278"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Grobbulus",
+    "itemName": "Blistered Belt of Decay",
+    "quality": "epic",
+    "itemId": 39279,
+    "url": "https://wowhead.com/wotlk/item=39279"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Grobbulus",
+    "itemName": "Bone-Linked Amulet",
+    "quality": "epic",
+    "itemId": 39282,
+    "url": "https://wowhead.com/wotlk/item=39282"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Grobbulus",
+    "itemName": "Handgrips of Turmoil",
+    "quality": "epic",
+    "itemId": 39285,
+    "url": "https://wowhead.com/wotlk/item=39285"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Grobbulus",
+    "itemName": "Infection Repulser",
+    "quality": "epic",
+    "itemId": 39281,
+    "url": "https://wowhead.com/wotlk/item=39281"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Grobbulus",
+    "itemName": "Leggings of Innumerable Barbs",
+    "quality": "epic",
+    "itemId": 39280,
+    "url": "https://wowhead.com/wotlk/item=39280"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Grobbulus",
+    "itemName": "Miasma Mantle",
+    "quality": "epic",
+    "itemId": 39284,
+    "url": "https://wowhead.com/wotlk/item=39284"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Grobbulus",
+    "itemName": "Putrescent Bands",
+    "quality": "epic",
+    "itemId": 39283,
+    "url": "https://wowhead.com/wotlk/item=39283"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Grobbulus",
+    "itemName": "Sealing Ring of Grobbulus",
+    "quality": "epic",
+    "itemId": 39277,
+    "url": "https://wowhead.com/wotlk/item=39277"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Grobbulus",
+    "itemName": "The Skull of Ruin",
+    "quality": "epic",
+    "itemId": 39276,
+    "url": "https://wowhead.com/wotlk/item=39276"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Gluth",
+    "itemName": "Accursed Bow of the Elite",
+    "quality": "epic",
+    "itemId": 39296,
+    "url": "https://wowhead.com/wotlk/item=39296"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Gluth",
+    "itemName": "Aegis of Damnation",
+    "quality": "epic",
+    "itemId": 39233,
+    "url": "https://wowhead.com/wotlk/item=39233"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Gluth",
+    "itemName": "Agonal Sash",
+    "quality": "epic",
+    "itemId": 39190,
+    "url": "https://wowhead.com/wotlk/item=39190"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Gluth",
+    "itemName": "Band of Neglected Pleas",
+    "quality": "epic",
+    "itemId": 39193,
+    "url": "https://wowhead.com/wotlk/item=39193"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Gluth",
+    "itemName": "Bone-Framed Bracers",
+    "quality": "epic",
+    "itemId": 39235,
+    "url": "https://wowhead.com/wotlk/item=39235"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Gluth",
+    "itemName": "Bone-Linked Amulet",
+    "quality": "epic",
+    "itemId": 39282,
+    "url": "https://wowhead.com/wotlk/item=39282"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Gluth",
+    "itemName": "Boots of Persistence",
+    "quality": "epic",
+    "itemId": 39189,
+    "url": "https://wowhead.com/wotlk/item=39189"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Gluth",
+    "itemName": "Boots of the Follower",
+    "quality": "epic",
+    "itemId": 39215,
+    "url": "https://wowhead.com/wotlk/item=39215"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Gluth",
+    "itemName": "Charmed Cierge",
+    "quality": "epic",
+    "itemId": 39394,
+    "url": "https://wowhead.com/wotlk/item=39394"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Gluth",
+    "itemName": "Chestguard of the Lost Conqueror",
+    "quality": "epic",
+    "itemId": 40610,
+    "url": "https://wowhead.com/wotlk/item=40610"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Gluth",
+    "itemName": "Chestguard of the Lost Protector",
+    "quality": "epic",
+    "itemId": 40611,
+    "url": "https://wowhead.com/wotlk/item=40611"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Gluth",
+    "itemName": "Chestguard of the Lost Vanquisher",
+    "quality": "epic",
+    "itemId": 40612,
+    "url": "https://wowhead.com/wotlk/item=40612"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Gluth",
+    "itemName": "Cloak of Armed Strife",
+    "quality": "epic",
+    "itemId": 39225,
+    "url": "https://wowhead.com/wotlk/item=39225"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Gluth",
+    "itemName": "Cloak of Darkening",
+    "quality": "epic",
+    "itemId": 39297,
+    "url": "https://wowhead.com/wotlk/item=39297"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Gluth",
+    "itemName": "Cuffs of Dark Shadows",
+    "quality": "epic",
+    "itemId": 39247,
+    "url": "https://wowhead.com/wotlk/item=39247"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Gluth",
+    "itemName": "Frostblight Pauldrons",
+    "quality": "epic",
+    "itemId": 39198,
+    "url": "https://wowhead.com/wotlk/item=39198"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Gluth",
+    "itemName": "Girdle of Lenience",
+    "quality": "epic",
+    "itemId": 39308,
+    "url": "https://wowhead.com/wotlk/item=39308"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Gluth",
+    "itemName": "Girdle of the Ascended Phantom",
+    "quality": "epic",
+    "itemId": 39345,
+    "url": "https://wowhead.com/wotlk/item=39345"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Gluth",
+    "itemName": "Gown of Blaumeux",
+    "quality": "epic",
+    "itemId": 39396,
+    "url": "https://wowhead.com/wotlk/item=39396"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Gluth",
+    "itemName": "Grieving Spellblade",
+    "quality": "epic",
+    "itemId": 39200,
+    "url": "https://wowhead.com/wotlk/item=39200"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Gluth",
+    "itemName": "Hatestrike",
+    "quality": "epic",
+    "itemId": 39270,
+    "url": "https://wowhead.com/wotlk/item=39270"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Gluth",
+    "itemName": "Infection Repulser",
+    "quality": "epic",
+    "itemId": 39281,
+    "url": "https://wowhead.com/wotlk/item=39281"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Gluth",
+    "itemName": "Knife of Incision",
+    "quality": "epic",
+    "itemId": 39140,
+    "url": "https://wowhead.com/wotlk/item=39140"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Gluth",
+    "itemName": "Leggings of Innumerable Barbs",
+    "quality": "epic",
+    "itemId": 39280,
+    "url": "https://wowhead.com/wotlk/item=39280"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Gluth",
+    "itemName": "Leggings of the Instructor",
+    "quality": "epic",
+    "itemId": 39309,
+    "url": "https://wowhead.com/wotlk/item=39309"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Gluth",
+    "itemName": "Leggings of the Lost Conqueror",
+    "quality": "epic",
+    "itemId": 40619,
+    "url": "https://wowhead.com/wotlk/item=40619"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Gluth",
+    "itemName": "Leggings of the Lost Protector",
+    "quality": "epic",
+    "itemId": 40620,
+    "url": "https://wowhead.com/wotlk/item=40620"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Gluth",
+    "itemName": "Leggings of the Lost Vanquisher",
+    "quality": "epic",
+    "itemId": 40621,
+    "url": "https://wowhead.com/wotlk/item=40621"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Gluth",
+    "itemName": "Legplates of Inescapable Death",
+    "quality": "epic",
+    "itemId": 39258,
+    "url": "https://wowhead.com/wotlk/item=39258"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Gluth",
+    "itemName": "Necrogenic Belt",
+    "quality": "epic",
+    "itemId": 39251,
+    "url": "https://wowhead.com/wotlk/item=39251"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Gluth",
+    "itemName": "Noth's Curse",
+    "quality": "epic",
+    "itemId": 39240,
+    "url": "https://wowhead.com/wotlk/item=39240"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Gluth",
+    "itemName": "Ravaging Sabatons",
+    "quality": "epic",
+    "itemId": 39139,
+    "url": "https://wowhead.com/wotlk/item=39139"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Gluth",
+    "itemName": "Resurgent Phantom Bindings",
+    "quality": "epic",
+    "itemId": 39390,
+    "url": "https://wowhead.com/wotlk/item=39390"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Gluth",
+    "itemName": "Retcher's Shoulderpads",
+    "quality": "epic",
+    "itemId": 39274,
+    "url": "https://wowhead.com/wotlk/item=39274"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Gluth",
+    "itemName": "Robes of Hoarse Breaths",
+    "quality": "epic",
+    "itemId": 39242,
+    "url": "https://wowhead.com/wotlk/item=39242"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Gluth",
+    "itemName": "Scepter of Murmuring Spirits",
+    "quality": "epic",
+    "itemId": 39311,
+    "url": "https://wowhead.com/wotlk/item=39311"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Gluth",
+    "itemName": "Shoulderplates of Bloodshed",
+    "quality": "epic",
+    "itemId": 39249,
+    "url": "https://wowhead.com/wotlk/item=39249"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Gluth",
+    "itemName": "Spaulders of the Lost Conqueror",
+    "quality": "epic",
+    "itemId": 40622,
+    "url": "https://wowhead.com/wotlk/item=40622"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Gluth",
+    "itemName": "Spaulders of the Lost Protector",
+    "quality": "epic",
+    "itemId": 40623,
+    "url": "https://wowhead.com/wotlk/item=40623"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Gluth",
+    "itemName": "Spaulders of the Lost Vanquisher",
+    "quality": "epic",
+    "itemId": 40624,
+    "url": "https://wowhead.com/wotlk/item=40624"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Gluth",
+    "itemName": "Spectral Rider's Girdle",
+    "quality": "epic",
+    "itemId": 39379,
+    "url": "https://wowhead.com/wotlk/item=39379"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Gluth",
+    "itemName": "Spirit-World Glass",
+    "quality": "epic",
+    "itemId": 39388,
+    "url": "https://wowhead.com/wotlk/item=39388"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Gluth",
+    "itemName": "Splint-Bound Leggings",
+    "quality": "epic",
+    "itemId": 39191,
+    "url": "https://wowhead.com/wotlk/item=39191"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Gluth",
+    "itemName": "Sulfur Stave",
+    "quality": "epic",
+    "itemId": 39256,
+    "url": "https://wowhead.com/wotlk/item=39256"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Gluth",
+    "itemName": "Timeworn Silken Band",
+    "quality": "epic",
+    "itemId": 39231,
+    "url": "https://wowhead.com/wotlk/item=39231"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Gluth",
+    "itemName": "Tunic of Dislocation",
+    "quality": "epic",
+    "itemId": 39386,
+    "url": "https://wowhead.com/wotlk/item=39386"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Gluth",
+    "itemName": "Tunic of the Lost Pack",
+    "quality": "epic",
+    "itemId": 39248,
+    "url": "https://wowhead.com/wotlk/item=39248"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Gluth",
+    "itemName": "Watchful Eye",
+    "quality": "epic",
+    "itemId": 39199,
+    "url": "https://wowhead.com/wotlk/item=39199"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Thaddius",
+    "itemName": "Arc-Scorched Helmet",
+    "quality": "epic",
+    "itemId": 39294,
+    "url": "https://wowhead.com/wotlk/item=39294"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Thaddius",
+    "itemName": "Blackened Legplates of Feugen",
+    "quality": "epic",
+    "itemId": 39293,
+    "url": "https://wowhead.com/wotlk/item=39293"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Thaddius",
+    "itemName": "Cowl of Sheet Lightning",
+    "quality": "epic",
+    "itemId": 39295,
+    "url": "https://wowhead.com/wotlk/item=39295"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Thaddius",
+    "itemName": "Leggings of the Lost Conqueror",
+    "quality": "epic",
+    "itemId": 40619,
+    "url": "https://wowhead.com/wotlk/item=40619"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Thaddius",
+    "itemName": "Leggings of the Lost Protector",
+    "quality": "epic",
+    "itemId": 40620,
+    "url": "https://wowhead.com/wotlk/item=40620"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Thaddius",
+    "itemName": "Leggings of the Lost Vanquisher",
+    "quality": "epic",
+    "itemId": 40621,
+    "url": "https://wowhead.com/wotlk/item=40621"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Thaddius",
+    "itemName": "Repelling Charge",
+    "quality": "epic",
+    "itemId": 39292,
+    "url": "https://wowhead.com/wotlk/item=39292"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Thaddius",
+    "itemName": "Torment of the Banished",
+    "quality": "epic",
+    "itemId": 39291,
+    "url": "https://wowhead.com/wotlk/item=39291"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Sapphiron",
+    "itemName": "Circle of Death",
+    "quality": "epic",
+    "itemId": 39401,
+    "url": "https://wowhead.com/wotlk/item=39401"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Sapphiron",
+    "itemName": "Circle of Life",
+    "quality": "epic",
+    "itemId": 39407,
+    "url": "https://wowhead.com/wotlk/item=39407"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Sapphiron",
+    "itemName": "Cloak of Mastery",
+    "quality": "epic",
+    "itemId": 39404,
+    "url": "https://wowhead.com/wotlk/item=39404"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Sapphiron",
+    "itemName": "Cowl of Winged Fear",
+    "quality": "epic",
+    "itemId": 39409,
+    "url": "https://wowhead.com/wotlk/item=39409"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Sapphiron",
+    "itemName": "Helm of the Unsubmissive",
+    "quality": "epic",
+    "itemId": 39403,
+    "url": "https://wowhead.com/wotlk/item=39403"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Sapphiron",
+    "itemName": "Helm of the Vast Legions",
+    "quality": "epic",
+    "itemId": 39399,
+    "url": "https://wowhead.com/wotlk/item=39399"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Sapphiron",
+    "itemName": "Helmet of the Inner Sanctum",
+    "quality": "epic",
+    "itemId": 39405,
+    "url": "https://wowhead.com/wotlk/item=39405"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Sapphiron",
+    "itemName": "Key to the Focusing Iris",
+    "quality": "epic",
+    "itemId": 44569,
+    "url": "https://wowhead.com/wotlk/item=44569"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Sapphiron",
+    "itemName": "Leggings of Sapphiron",
+    "quality": "epic",
+    "itemId": 39408,
+    "url": "https://wowhead.com/wotlk/item=39408"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Sapphiron",
+    "itemName": "Massive Skeletal Ribcage",
+    "quality": "epic",
+    "itemId": 39398,
+    "url": "https://wowhead.com/wotlk/item=39398"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Sapphiron",
+    "itemName": "Shroud of the Citadel",
+    "quality": "epic",
+    "itemId": 39415,
+    "url": "https://wowhead.com/wotlk/item=39415"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Kel'Thuzad",
+    "itemName": "Anarchy",
+    "quality": "epic",
+    "itemId": 39420,
+    "url": "https://wowhead.com/wotlk/item=39420"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Kel'Thuzad",
+    "itemName": "Cloak of the Dying",
+    "quality": "epic",
+    "itemId": 39425,
+    "url": "https://wowhead.com/wotlk/item=39425"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Kel'Thuzad",
+    "itemName": "Death's Bite",
+    "quality": "epic",
+    "itemId": 39417,
+    "url": "https://wowhead.com/wotlk/item=39417"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Kel'Thuzad",
+    "itemName": "Gem of Imprisoned Vassals",
+    "quality": "epic",
+    "itemId": 39421,
+    "url": "https://wowhead.com/wotlk/item=39421"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Kel'Thuzad",
+    "itemName": "Hammer of the Astral Plane",
+    "quality": "epic",
+    "itemId": 39423,
+    "url": "https://wowhead.com/wotlk/item=39423"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Kel'Thuzad",
+    "itemName": "Helm of the Lost Conqueror",
+    "quality": "epic",
+    "itemId": 40616,
+    "url": "https://wowhead.com/wotlk/item=40616"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Kel'Thuzad",
+    "itemName": "Helm of the Lost Protector",
+    "quality": "epic",
+    "itemId": 40617,
+    "url": "https://wowhead.com/wotlk/item=40617"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Kel'Thuzad",
+    "itemName": "Helm of the Lost Vanquisher",
+    "quality": "epic",
+    "itemId": 40618,
+    "url": "https://wowhead.com/wotlk/item=40618"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Kel'Thuzad",
+    "itemName": "Kel'Thuzad's Reach",
+    "quality": "epic",
+    "itemId": 39416,
+    "url": "https://wowhead.com/wotlk/item=39416"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Kel'Thuzad",
+    "itemName": "Nerubian Conquerer",
+    "quality": "epic",
+    "itemId": 39419,
+    "url": "https://wowhead.com/wotlk/item=39419"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Kel'Thuzad",
+    "itemName": "Staff of the Plaguehound",
+    "quality": "epic",
+    "itemId": 39422,
+    "url": "https://wowhead.com/wotlk/item=39422"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Kel'Thuzad",
+    "itemName": "The Soulblade",
+    "quality": "epic",
+    "itemId": 39424,
+    "url": "https://wowhead.com/wotlk/item=39424"
+  },
+  {
+    "instanceName": "Naxxramas N10",
+    "encounter": "Kel'Thuzad",
+    "itemName": "Wand of the Archlich",
+    "quality": "epic",
+    "itemId": 39426,
+    "url": "https://wowhead.com/wotlk/item=39426"
+  }
+]

@@ -1,0 +1,3738 @@
+[
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Trash",
+    "itemName": "Belt of the Sleeper",
+    "quality": "epic",
+    "itemId": 45548,
+    "url": "https://wowhead.com/wotlk/item=45548"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Trash",
+    "itemName": "Bladebearer's Signet",
+    "quality": "epic",
+    "itemId": 45540,
+    "url": "https://wowhead.com/wotlk/item=45540"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Trash",
+    "itemName": "Daschal's Bite",
+    "quality": "epic",
+    "itemId": 45605,
+    "url": "https://wowhead.com/wotlk/item=45605"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Trash",
+    "itemName": "Greaves of the Stonewarder",
+    "quality": "epic",
+    "itemId": 45542,
+    "url": "https://wowhead.com/wotlk/item=45542"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Trash",
+    "itemName": "Grips of Chaos",
+    "quality": "epic",
+    "itemId": 45549,
+    "url": "https://wowhead.com/wotlk/item=45549"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Trash",
+    "itemName": "Leggings of the Tortured Earth",
+    "quality": "epic",
+    "itemId": 45544,
+    "url": "https://wowhead.com/wotlk/item=45544"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Trash",
+    "itemName": "Pendant of Focused Energies",
+    "quality": "epic",
+    "itemId": 45539,
+    "url": "https://wowhead.com/wotlk/item=45539"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Trash",
+    "itemName": "Relic Hunter's Cord",
+    "quality": "epic",
+    "itemId": 45547,
+    "url": "https://wowhead.com/wotlk/item=45547"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Trash",
+    "itemName": "Shoulders of Misfortune",
+    "quality": "epic",
+    "itemId": 45543,
+    "url": "https://wowhead.com/wotlk/item=45543"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Trash",
+    "itemName": "Shroud of Alteration",
+    "quality": "epic",
+    "itemId": 45541,
+    "url": "https://wowhead.com/wotlk/item=45541"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Trash",
+    "itemName": "Titanstone Pendant",
+    "quality": "epic",
+    "itemId": 45538,
+    "url": "https://wowhead.com/wotlk/item=45538"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Recipes",
+    "itemName": "Formula: Enchant Weapon - Blade Ward",
+    "quality": "epic",
+    "itemId": 46027,
+    "url": "https://wowhead.com/wotlk/item=46027"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Recipes",
+    "itemName": "Formula: Enchant Weapon - Blood Draining",
+    "quality": "epic",
+    "itemId": 46348,
+    "url": "https://wowhead.com/wotlk/item=46348"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Recipes",
+    "itemName": "Pattern: Belt of Arctic Life",
+    "quality": "epic",
+    "itemId": 45100,
+    "url": "https://wowhead.com/wotlk/item=45100"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Recipes",
+    "itemName": "Pattern: Belt of Dragons",
+    "quality": "epic",
+    "itemId": 45094,
+    "url": "https://wowhead.com/wotlk/item=45094"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Recipes",
+    "itemName": "Pattern: Blue Belt of Chaos",
+    "quality": "epic",
+    "itemId": 45096,
+    "url": "https://wowhead.com/wotlk/item=45096"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Recipes",
+    "itemName": "Pattern: Boots of Living Scale",
+    "quality": "epic",
+    "itemId": 45095,
+    "url": "https://wowhead.com/wotlk/item=45095"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Recipes",
+    "itemName": "Pattern: Boots of Wintry Endurance",
+    "quality": "epic",
+    "itemId": 45101,
+    "url": "https://wowhead.com/wotlk/item=45101"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Recipes",
+    "itemName": "Pattern: Cord of the White Dawn",
+    "quality": "epic",
+    "itemId": 45104,
+    "url": "https://wowhead.com/wotlk/item=45104"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Recipes",
+    "itemName": "Pattern: Death-warmed Belt",
+    "quality": "epic",
+    "itemId": 45098,
+    "url": "https://wowhead.com/wotlk/item=45098"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Recipes",
+    "itemName": "Pattern: Footpads of Silence",
+    "quality": "epic",
+    "itemId": 45099,
+    "url": "https://wowhead.com/wotlk/item=45099"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Recipes",
+    "itemName": "Pattern: Lightning Grounded Boots",
+    "quality": "epic",
+    "itemId": 45097,
+    "url": "https://wowhead.com/wotlk/item=45097"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Recipes",
+    "itemName": "Pattern: Sash of Ancient Power",
+    "quality": "epic",
+    "itemId": 45102,
+    "url": "https://wowhead.com/wotlk/item=45102"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Recipes",
+    "itemName": "Pattern: Savior's Slippers",
+    "quality": "epic",
+    "itemId": 45105,
+    "url": "https://wowhead.com/wotlk/item=45105"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Recipes",
+    "itemName": "Pattern: Spellslinger's Slippers",
+    "quality": "epic",
+    "itemId": 45103,
+    "url": "https://wowhead.com/wotlk/item=45103"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Recipes",
+    "itemName": "Plans: Battlelord's Plate Boots",
+    "quality": "epic",
+    "itemId": 45089,
+    "url": "https://wowhead.com/wotlk/item=45089"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Recipes",
+    "itemName": "Plans: Belt of the Titans",
+    "quality": "epic",
+    "itemId": 45088,
+    "url": "https://wowhead.com/wotlk/item=45088"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Recipes",
+    "itemName": "Plans: Indestructible Plate Girdle",
+    "quality": "epic",
+    "itemId": 45092,
+    "url": "https://wowhead.com/wotlk/item=45092"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Recipes",
+    "itemName": "Plans: Plate Girdle of Righteousness",
+    "quality": "epic",
+    "itemId": 45090,
+    "url": "https://wowhead.com/wotlk/item=45090"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Recipes",
+    "itemName": "Plans: Spiked Deathdealers",
+    "quality": "epic",
+    "itemId": 45093,
+    "url": "https://wowhead.com/wotlk/item=45093"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Recipes",
+    "itemName": "Plans: Treads of Destiny",
+    "quality": "epic",
+    "itemId": 45091,
+    "url": "https://wowhead.com/wotlk/item=45091"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Tokens",
+    "itemName": "Runed Orb",
+    "quality": "rare",
+    "itemId": 45087,
+    "url": "https://wowhead.com/wotlk/item=45087"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Leviathan",
+    "itemName": "Boots of Fiery Resolution",
+    "quality": "epic",
+    "itemId": 45135,
+    "url": "https://wowhead.com/wotlk/item=45135"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Leviathan",
+    "itemName": "Constructor's Handwraps",
+    "quality": "epic",
+    "itemId": 45117,
+    "url": "https://wowhead.com/wotlk/item=45117"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Leviathan",
+    "itemName": "Embrace of the Leviathan",
+    "quality": "epic",
+    "itemId": 45119,
+    "url": "https://wowhead.com/wotlk/item=45119"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Leviathan",
+    "itemName": "Freya's Choker of Warding",
+    "quality": "epic",
+    "itemId": 45116,
+    "url": "https://wowhead.com/wotlk/item=45116"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Leviathan",
+    "itemName": "Gloves of the Fiery Behemoth",
+    "quality": "epic",
+    "itemId": 45109,
+    "url": "https://wowhead.com/wotlk/item=45109"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Leviathan",
+    "itemName": "Glowing Ring of Reclamation",
+    "quality": "epic",
+    "itemId": 45113,
+    "url": "https://wowhead.com/wotlk/item=45113"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Leviathan",
+    "itemName": "Golden Saronite Dragon",
+    "quality": "epic",
+    "itemId": 45132,
+    "url": "https://wowhead.com/wotlk/item=45132"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Leviathan",
+    "itemName": "Iron Riveted War Helm",
+    "quality": "epic",
+    "itemId": 45107,
+    "url": "https://wowhead.com/wotlk/item=45107"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Leviathan",
+    "itemName": "Leviathan Fueling Manual",
+    "quality": "epic",
+    "itemId": 45115,
+    "url": "https://wowhead.com/wotlk/item=45115"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Leviathan",
+    "itemName": "Mechanist's Bindings",
+    "quality": "epic",
+    "itemId": 45108,
+    "url": "https://wowhead.com/wotlk/item=45108"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Leviathan",
+    "itemName": "Mimiron's Inferno Couplings",
+    "quality": "epic",
+    "itemId": 45111,
+    "url": "https://wowhead.com/wotlk/item=45111"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Leviathan",
+    "itemName": "Pendant of Fiery Havoc",
+    "quality": "epic",
+    "itemId": 45133,
+    "url": "https://wowhead.com/wotlk/item=45133"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Leviathan",
+    "itemName": "Plated Leggings of Ruination",
+    "quality": "epic",
+    "itemId": 45134,
+    "url": "https://wowhead.com/wotlk/item=45134"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Leviathan",
+    "itemName": "Rising Sun",
+    "quality": "epic",
+    "itemId": 45086,
+    "url": "https://wowhead.com/wotlk/item=45086"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Leviathan",
+    "itemName": "Shoulderpads of Dormant Energies",
+    "quality": "epic",
+    "itemId": 45136,
+    "url": "https://wowhead.com/wotlk/item=45136"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Leviathan",
+    "itemName": "Steamcaller's Totem",
+    "quality": "epic",
+    "itemId": 45114,
+    "url": "https://wowhead.com/wotlk/item=45114"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Leviathan",
+    "itemName": "Steamworker's Goggles",
+    "quality": "epic",
+    "itemId": 45118,
+    "url": "https://wowhead.com/wotlk/item=45118"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Leviathan",
+    "itemName": "Strength of the Automaton",
+    "quality": "epic",
+    "itemId": 45106,
+    "url": "https://wowhead.com/wotlk/item=45106"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Leviathan",
+    "itemName": "The Leviathan's Coil",
+    "quality": "epic",
+    "itemId": 45112,
+    "url": "https://wowhead.com/wotlk/item=45112"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Leviathan",
+    "itemName": "Titanguard",
+    "quality": "epic",
+    "itemId": 45110,
+    "url": "https://wowhead.com/wotlk/item=45110"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Ignis",
+    "itemName": "Charred Saronite Greaves",
+    "quality": "epic",
+    "itemId": 45166,
+    "url": "https://wowhead.com/wotlk/item=45166"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Ignis",
+    "itemName": "Cindershard Ring",
+    "quality": "epic",
+    "itemId": 45157,
+    "url": "https://wowhead.com/wotlk/item=45157"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Ignis",
+    "itemName": "Flamestalker Boots",
+    "quality": "epic",
+    "itemId": 45162,
+    "url": "https://wowhead.com/wotlk/item=45162"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Ignis",
+    "itemName": "Flamewrought Cinch",
+    "quality": "epic",
+    "itemId": 45185,
+    "url": "https://wowhead.com/wotlk/item=45185"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Ignis",
+    "itemName": "Fragment of Val'anyr",
+    "quality": "legendary",
+    "itemId": 45038,
+    "url": "https://wowhead.com/wotlk/item=45038"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Ignis",
+    "itemName": "Girdle of Embers",
+    "quality": "epic",
+    "itemId": 45161,
+    "url": "https://wowhead.com/wotlk/item=45161"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Ignis",
+    "itemName": "Heart of Iron",
+    "quality": "epic",
+    "itemId": 45158,
+    "url": "https://wowhead.com/wotlk/item=45158"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Ignis",
+    "itemName": "Helm of the Furnace Master",
+    "quality": "epic",
+    "itemId": 45164,
+    "url": "https://wowhead.com/wotlk/item=45164"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Ignis",
+    "itemName": "Intensity",
+    "quality": "epic",
+    "itemId": 45171,
+    "url": "https://wowhead.com/wotlk/item=45171"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Ignis",
+    "itemName": "Lifeforge Breastplate",
+    "quality": "epic",
+    "itemId": 45167,
+    "url": "https://wowhead.com/wotlk/item=45167"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Ignis",
+    "itemName": "Pyrelight Circle",
+    "quality": "epic",
+    "itemId": 45168,
+    "url": "https://wowhead.com/wotlk/item=45168"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Ignis",
+    "itemName": "Scepter of Creation",
+    "quality": "epic",
+    "itemId": 45170,
+    "url": "https://wowhead.com/wotlk/item=45170"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Ignis",
+    "itemName": "Soot-Covered Mantle",
+    "quality": "epic",
+    "itemId": 45186,
+    "url": "https://wowhead.com/wotlk/item=45186"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Ignis",
+    "itemName": "Totem of the Dancing Flame",
+    "quality": "epic",
+    "itemId": 45169,
+    "url": "https://wowhead.com/wotlk/item=45169"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Ignis",
+    "itemName": "Worldcarver",
+    "quality": "epic",
+    "itemId": 45165,
+    "url": "https://wowhead.com/wotlk/item=45165"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Ignis",
+    "itemName": "Wristguards of the Firetender",
+    "quality": "epic",
+    "itemId": 45187,
+    "url": "https://wowhead.com/wotlk/item=45187"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Razorscale",
+    "itemName": "Belt of the Fallen Wyrm",
+    "quality": "epic",
+    "itemId": 45151,
+    "url": "https://wowhead.com/wotlk/item=45151"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Razorscale",
+    "itemName": "Bracers of the Broodmother",
+    "quality": "epic",
+    "itemId": 45149,
+    "url": "https://wowhead.com/wotlk/item=45149"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Razorscale",
+    "itemName": "Collar of the Wyrmhunter",
+    "quality": "epic",
+    "itemId": 45150,
+    "url": "https://wowhead.com/wotlk/item=45150"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Razorscale",
+    "itemName": "Dragonslayer's Brace",
+    "quality": "epic",
+    "itemId": 45139,
+    "url": "https://wowhead.com/wotlk/item=45139"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Razorscale",
+    "itemName": "Drape of the Drakerider",
+    "quality": "epic",
+    "itemId": 45138,
+    "url": "https://wowhead.com/wotlk/item=45138"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Razorscale",
+    "itemName": "Guiding Star",
+    "quality": "epic",
+    "itemId": 45147,
+    "url": "https://wowhead.com/wotlk/item=45147"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Razorscale",
+    "itemName": "Libram of Discord",
+    "quality": "epic",
+    "itemId": 45510,
+    "url": "https://wowhead.com/wotlk/item=45510"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Razorscale",
+    "itemName": "Living Flame",
+    "quality": "epic",
+    "itemId": 45148,
+    "url": "https://wowhead.com/wotlk/item=45148"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Razorscale",
+    "itemName": "Proto-hide Leggings",
+    "quality": "epic",
+    "itemId": 45141,
+    "url": "https://wowhead.com/wotlk/item=45141"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Razorscale",
+    "itemName": "Razorscale Shoulderguards",
+    "quality": "epic",
+    "itemId": 45140,
+    "url": "https://wowhead.com/wotlk/item=45140"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Razorscale",
+    "itemName": "Remorse",
+    "quality": "epic",
+    "itemId": 45142,
+    "url": "https://wowhead.com/wotlk/item=45142"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Razorscale",
+    "itemName": "Saronite Mesh Legguards",
+    "quality": "epic",
+    "itemId": 45143,
+    "url": "https://wowhead.com/wotlk/item=45143"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Razorscale",
+    "itemName": "Shackles of the Odalisque",
+    "quality": "epic",
+    "itemId": 45146,
+    "url": "https://wowhead.com/wotlk/item=45146"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Razorscale",
+    "itemName": "Sigil of Deflection",
+    "quality": "epic",
+    "itemId": 45144,
+    "url": "https://wowhead.com/wotlk/item=45144"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Razorscale",
+    "itemName": "Veranus' Bane",
+    "quality": "epic",
+    "itemId": 45137,
+    "url": "https://wowhead.com/wotlk/item=45137"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "XT-002",
+    "itemName": "Boots of Hasty Revival",
+    "quality": "epic",
+    "itemId": 45260,
+    "url": "https://wowhead.com/wotlk/item=45260"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "XT-002",
+    "itemName": "Brass-lined Boots",
+    "quality": "epic",
+    "itemId": 45249,
+    "url": "https://wowhead.com/wotlk/item=45249"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "XT-002",
+    "itemName": "Breastplate of the Devoted",
+    "quality": "epic",
+    "itemId": 45445,
+    "url": "https://wowhead.com/wotlk/item=45445"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "XT-002",
+    "itemName": "Charm of Meticulous Timing",
+    "quality": "epic",
+    "itemId": 45443,
+    "url": "https://wowhead.com/wotlk/item=45443"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "XT-002",
+    "itemName": "Clockwork Legplates",
+    "quality": "epic",
+    "itemId": 45248,
+    "url": "https://wowhead.com/wotlk/item=45248"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "XT-002",
+    "itemName": "Crazed Construct Ring",
+    "quality": "epic",
+    "itemId": 45250,
+    "url": "https://wowhead.com/wotlk/item=45250"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "XT-002",
+    "itemName": "Gloves of the Steady Hand",
+    "quality": "epic",
+    "itemId": 45444,
+    "url": "https://wowhead.com/wotlk/item=45444"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "XT-002",
+    "itemName": "Golem-Shard Sticker",
+    "quality": "epic",
+    "itemId": 45246,
+    "url": "https://wowhead.com/wotlk/item=45246"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "XT-002",
+    "itemName": "Grasps of Reason",
+    "quality": "epic",
+    "itemId": 45446,
+    "url": "https://wowhead.com/wotlk/item=45446"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "XT-002",
+    "itemName": "Horologist's Wristguards",
+    "quality": "epic",
+    "itemId": 45252,
+    "url": "https://wowhead.com/wotlk/item=45252"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "XT-002",
+    "itemName": "Mantle of Wavering Calm",
+    "quality": "epic",
+    "itemId": 45253,
+    "url": "https://wowhead.com/wotlk/item=45253"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "XT-002",
+    "itemName": "Quartz Crystal Wand",
+    "quality": "epic",
+    "itemId": 45257,
+    "url": "https://wowhead.com/wotlk/item=45257"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "XT-002",
+    "itemName": "Quartz-studded Harness",
+    "quality": "epic",
+    "itemId": 45259,
+    "url": "https://wowhead.com/wotlk/item=45259"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "XT-002",
+    "itemName": "Sandals of Rash Temperament",
+    "quality": "epic",
+    "itemId": 45258,
+    "url": "https://wowhead.com/wotlk/item=45258"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "XT-002",
+    "itemName": "Shoulderplates of the Deconstructor",
+    "quality": "epic",
+    "itemId": 45251,
+    "url": "https://wowhead.com/wotlk/item=45251"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "XT-002",
+    "itemName": "Sigil of the Vengeful Heart",
+    "quality": "epic",
+    "itemId": 45254,
+    "url": "https://wowhead.com/wotlk/item=45254"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "XT-002",
+    "itemName": "Signet of the Earthshaker",
+    "quality": "epic",
+    "itemId": 45247,
+    "url": "https://wowhead.com/wotlk/item=45247"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "XT-002",
+    "itemName": "Sorthalis, Hammer of the Watchers",
+    "quality": "epic",
+    "itemId": 45442,
+    "url": "https://wowhead.com/wotlk/item=45442"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "XT-002",
+    "itemName": "Thunderfall Totem",
+    "quality": "epic",
+    "itemId": 45255,
+    "url": "https://wowhead.com/wotlk/item=45255"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "XT-002",
+    "itemName": "Twisted Visage",
+    "quality": "epic",
+    "itemId": 45256,
+    "url": "https://wowhead.com/wotlk/item=45256"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Assembly",
+    "itemName": "Ancient Iron Heaume",
+    "quality": "epic",
+    "itemId": 45226,
+    "url": "https://wowhead.com/wotlk/item=45226"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Assembly",
+    "itemName": "Belt of Colossal Rage",
+    "quality": "epic",
+    "itemId": 45241,
+    "url": "https://wowhead.com/wotlk/item=45241"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Assembly",
+    "itemName": "Drape of Mortal Downfall",
+    "quality": "epic",
+    "itemId": 45242,
+    "url": "https://wowhead.com/wotlk/item=45242"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Assembly",
+    "itemName": "Drape of the Lithe",
+    "quality": "epic",
+    "itemId": 45224,
+    "url": "https://wowhead.com/wotlk/item=45224"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Assembly",
+    "itemName": "Fang of Oblivion",
+    "quality": "epic",
+    "itemId": 45607,
+    "url": "https://wowhead.com/wotlk/item=45607"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Assembly",
+    "itemName": "Greaves of Swift Vengeance",
+    "quality": "epic",
+    "itemId": 45244,
+    "url": "https://wowhead.com/wotlk/item=45244"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Assembly",
+    "itemName": "Handguards of the Enclave",
+    "quality": "epic",
+    "itemId": 45228,
+    "url": "https://wowhead.com/wotlk/item=45228"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Assembly",
+    "itemName": "Insurmountable Fervor",
+    "quality": "epic",
+    "itemId": 45193,
+    "url": "https://wowhead.com/wotlk/item=45193"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Assembly",
+    "itemName": "Iron-studded Mantle",
+    "quality": "epic",
+    "itemId": 45227,
+    "url": "https://wowhead.com/wotlk/item=45227"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Assembly",
+    "itemName": "Overload Legwraps",
+    "quality": "epic",
+    "itemId": 45238,
+    "url": "https://wowhead.com/wotlk/item=45238"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Assembly",
+    "itemName": "Phaelia's Vestments of the Sprouting Seed",
+    "quality": "epic",
+    "itemId": 45237,
+    "url": "https://wowhead.com/wotlk/item=45237"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Assembly",
+    "itemName": "Radiant Seal",
+    "quality": "epic",
+    "itemId": 45235,
+    "url": "https://wowhead.com/wotlk/item=45235"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Assembly",
+    "itemName": "Raiments of the Iron Council",
+    "quality": "epic",
+    "itemId": 45240,
+    "url": "https://wowhead.com/wotlk/item=45240"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Assembly",
+    "itemName": "Rapture",
+    "quality": "epic",
+    "itemId": 45234,
+    "url": "https://wowhead.com/wotlk/item=45234"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Assembly",
+    "itemName": "Runed Ironhide Boots",
+    "quality": "epic",
+    "itemId": 45232,
+    "url": "https://wowhead.com/wotlk/item=45232"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Assembly",
+    "itemName": "Runeshaper's Gloves",
+    "quality": "epic",
+    "itemId": 45239,
+    "url": "https://wowhead.com/wotlk/item=45239"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Assembly",
+    "itemName": "Sapphire Amulet of Renewal",
+    "quality": "epic",
+    "itemId": 45243,
+    "url": "https://wowhead.com/wotlk/item=45243"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Assembly",
+    "itemName": "Shoulderpads of the Intruder",
+    "quality": "epic",
+    "itemId": 45245,
+    "url": "https://wowhead.com/wotlk/item=45245"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Assembly",
+    "itemName": "Steelbreaker's Embrace",
+    "quality": "epic",
+    "itemId": 45225,
+    "url": "https://wowhead.com/wotlk/item=45225"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Assembly",
+    "itemName": "Stormrune Edge",
+    "quality": "epic",
+    "itemId": 45233,
+    "url": "https://wowhead.com/wotlk/item=45233"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Assembly",
+    "itemName": "Unblinking Eye",
+    "quality": "epic",
+    "itemId": 45236,
+    "url": "https://wowhead.com/wotlk/item=45236"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Kologarn",
+    "itemName": "Bracers of Unleashed Magic",
+    "quality": "epic",
+    "itemId": 45275,
+    "url": "https://wowhead.com/wotlk/item=45275"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Kologarn",
+    "itemName": "Decimator's Armguards",
+    "quality": "epic",
+    "itemId": 45264,
+    "url": "https://wowhead.com/wotlk/item=45264"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Kologarn",
+    "itemName": "Giant's Bane",
+    "quality": "epic",
+    "itemId": 45261,
+    "url": "https://wowhead.com/wotlk/item=45261"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Kologarn",
+    "itemName": "Gloves of the Pythonic Guardian",
+    "quality": "epic",
+    "itemId": 45268,
+    "url": "https://wowhead.com/wotlk/item=45268"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Kologarn",
+    "itemName": "Handwraps of Plentiful Recovery",
+    "quality": "epic",
+    "itemId": 45273,
+    "url": "https://wowhead.com/wotlk/item=45273"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Kologarn",
+    "itemName": "Idol of the Crying Wind",
+    "quality": "epic",
+    "itemId": 45270,
+    "url": "https://wowhead.com/wotlk/item=45270"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Kologarn",
+    "itemName": "Ironmender",
+    "quality": "epic",
+    "itemId": 45271,
+    "url": "https://wowhead.com/wotlk/item=45271"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Kologarn",
+    "itemName": "Leggings of the Stoneweaver",
+    "quality": "epic",
+    "itemId": 45274,
+    "url": "https://wowhead.com/wotlk/item=45274"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Kologarn",
+    "itemName": "Malice",
+    "quality": "epic",
+    "itemId": 45266,
+    "url": "https://wowhead.com/wotlk/item=45266"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Kologarn",
+    "itemName": "Necklace of Unerring Mettle",
+    "quality": "epic",
+    "itemId": 45262,
+    "url": "https://wowhead.com/wotlk/item=45262"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Kologarn",
+    "itemName": "Robes of the Umbral Brute",
+    "quality": "epic",
+    "itemId": 45272,
+    "url": "https://wowhead.com/wotlk/item=45272"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Kologarn",
+    "itemName": "Saronite Plated Legguards",
+    "quality": "epic",
+    "itemId": 45267,
+    "url": "https://wowhead.com/wotlk/item=45267"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Kologarn",
+    "itemName": "Shoulderpads of the Monolith",
+    "quality": "epic",
+    "itemId": 45265,
+    "url": "https://wowhead.com/wotlk/item=45265"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Kologarn",
+    "itemName": "Unfaltering Armguards",
+    "quality": "epic",
+    "itemId": 45269,
+    "url": "https://wowhead.com/wotlk/item=45269"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Kologarn",
+    "itemName": "Wrathstone",
+    "quality": "epic",
+    "itemId": 45263,
+    "url": "https://wowhead.com/wotlk/item=45263"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Auriaya",
+    "itemName": "Amice of the Stoic Watch",
+    "quality": "epic",
+    "itemId": 45440,
+    "url": "https://wowhead.com/wotlk/item=45440"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Auriaya",
+    "itemName": "Cloak of the Makers",
+    "quality": "epic",
+    "itemId": 45319,
+    "url": "https://wowhead.com/wotlk/item=45319"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Auriaya",
+    "itemName": "Cowl of the Absolute",
+    "quality": "epic",
+    "itemId": 45435,
+    "url": "https://wowhead.com/wotlk/item=45435"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Auriaya",
+    "itemName": "Gloves of the Stonereaper",
+    "quality": "epic",
+    "itemId": 45325,
+    "url": "https://wowhead.com/wotlk/item=45325"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Auriaya",
+    "itemName": "Greaves of the Rockmender",
+    "quality": "epic",
+    "itemId": 45434,
+    "url": "https://wowhead.com/wotlk/item=45434"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Auriaya",
+    "itemName": "Libram of the Resolute",
+    "quality": "epic",
+    "itemId": 45436,
+    "url": "https://wowhead.com/wotlk/item=45436"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Auriaya",
+    "itemName": "Platinum Band of the Aesir",
+    "quality": "epic",
+    "itemId": 45326,
+    "url": "https://wowhead.com/wotlk/item=45326"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Auriaya",
+    "itemName": "Ring of the Faithful Servant",
+    "quality": "epic",
+    "itemId": 45438,
+    "url": "https://wowhead.com/wotlk/item=45438"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Auriaya",
+    "itemName": "Runescribed Blade",
+    "quality": "epic",
+    "itemId": 45437,
+    "url": "https://wowhead.com/wotlk/item=45437"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Auriaya",
+    "itemName": "Sandals of the Ancient Keeper",
+    "quality": "epic",
+    "itemId": 45441,
+    "url": "https://wowhead.com/wotlk/item=45441"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Auriaya",
+    "itemName": "Shoulderplates of the Eternal",
+    "quality": "epic",
+    "itemId": 45320,
+    "url": "https://wowhead.com/wotlk/item=45320"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Auriaya",
+    "itemName": "Siren's Cry",
+    "quality": "epic",
+    "itemId": 45327,
+    "url": "https://wowhead.com/wotlk/item=45327"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Auriaya",
+    "itemName": "Stonerender",
+    "quality": "epic",
+    "itemId": 45315,
+    "url": "https://wowhead.com/wotlk/item=45315"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Auriaya",
+    "itemName": "Unbreakable Chestguard",
+    "quality": "epic",
+    "itemId": 45334,
+    "url": "https://wowhead.com/wotlk/item=45334"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Auriaya",
+    "itemName": "Unwavering Stare",
+    "quality": "epic",
+    "itemId": 45439,
+    "url": "https://wowhead.com/wotlk/item=45439"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Algalon",
+    "itemName": "Boundless Gaze",
+    "quality": "epic",
+    "itemId": 45610,
+    "url": "https://wowhead.com/wotlk/item=45610"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Algalon",
+    "itemName": "Bulwark of Algalon",
+    "quality": "epic",
+    "itemId": 45587,
+    "url": "https://wowhead.com/wotlk/item=45587"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Algalon",
+    "itemName": "Comet's Trail",
+    "quality": "epic",
+    "itemId": 45609,
+    "url": "https://wowhead.com/wotlk/item=45609"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Algalon",
+    "itemName": "Constellus",
+    "quality": "epic",
+    "itemId": 45612,
+    "url": "https://wowhead.com/wotlk/item=45612"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Algalon",
+    "itemName": "Cosmos",
+    "quality": "epic",
+    "itemId": 45617,
+    "url": "https://wowhead.com/wotlk/item=45617"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Algalon",
+    "itemName": "Dreambinder",
+    "quality": "epic",
+    "itemId": 45613,
+    "url": "https://wowhead.com/wotlk/item=45613"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Algalon",
+    "itemName": "Fang of Oblivion",
+    "quality": "epic",
+    "itemId": 45607,
+    "url": "https://wowhead.com/wotlk/item=45607"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Algalon",
+    "itemName": "Fragment of Val'anyr",
+    "quality": "legendary",
+    "itemId": 45038,
+    "url": "https://wowhead.com/wotlk/item=45038"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Algalon",
+    "itemName": "Legplates of the Endless Void",
+    "quality": "epic",
+    "itemId": 45594,
+    "url": "https://wowhead.com/wotlk/item=45594"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Algalon",
+    "itemName": "Pharos Gloves",
+    "quality": "epic",
+    "itemId": 45665,
+    "url": "https://wowhead.com/wotlk/item=45665"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Algalon",
+    "itemName": "Planewalker Treads",
+    "quality": "epic",
+    "itemId": 45615,
+    "url": "https://wowhead.com/wotlk/item=45615"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Algalon",
+    "itemName": "Reply-Code Alpha",
+    "quality": "epic",
+    "itemId": 46053,
+    "url": "https://wowhead.com/wotlk/item=46053"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Algalon",
+    "itemName": "Sabatons of Lifeless Night",
+    "quality": "epic",
+    "itemId": 45599,
+    "url": "https://wowhead.com/wotlk/item=45599"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Algalon",
+    "itemName": "Skyforge Crossbow",
+    "quality": "epic",
+    "itemId": 45570,
+    "url": "https://wowhead.com/wotlk/item=45570"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Algalon",
+    "itemName": "Solar Bindings",
+    "quality": "epic",
+    "itemId": 45611,
+    "url": "https://wowhead.com/wotlk/item=45611"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Algalon",
+    "itemName": "Star-beaded Clutch",
+    "quality": "epic",
+    "itemId": 45616,
+    "url": "https://wowhead.com/wotlk/item=45616"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Algalon",
+    "itemName": "Starshard Edge",
+    "quality": "epic",
+    "itemId": 45620,
+    "url": "https://wowhead.com/wotlk/item=45620"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Algalon",
+    "itemName": "Starwatcher's Binding",
+    "quality": "epic",
+    "itemId": 45619,
+    "url": "https://wowhead.com/wotlk/item=45619"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Freya",
+    "itemName": "Bladetwister",
+    "quality": "epic",
+    "itemId": 45484,
+    "url": "https://wowhead.com/wotlk/item=45484"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Freya",
+    "itemName": "Boots of the Servant",
+    "quality": "epic",
+    "itemId": 45483,
+    "url": "https://wowhead.com/wotlk/item=45483"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Freya",
+    "itemName": "Bronze Pendant of the Vanir",
+    "quality": "epic",
+    "itemId": 45485,
+    "url": "https://wowhead.com/wotlk/item=45485"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Freya",
+    "itemName": "Drape of the Sullen Goddess",
+    "quality": "epic",
+    "itemId": 45486,
+    "url": "https://wowhead.com/wotlk/item=45486"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Freya",
+    "itemName": "Dreambinder",
+    "quality": "epic",
+    "itemId": 45613,
+    "url": "https://wowhead.com/wotlk/item=45613"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Freya",
+    "itemName": "Gauntlets of Ruthless Reprisal",
+    "quality": "epic",
+    "itemId": 45481,
+    "url": "https://wowhead.com/wotlk/item=45481"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Freya",
+    "itemName": "Handguards of Revitalization",
+    "quality": "epic",
+    "itemId": 45487,
+    "url": "https://wowhead.com/wotlk/item=45487"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Freya",
+    "itemName": "Leggings of the Enslaved Idol",
+    "quality": "epic",
+    "itemId": 45488,
+    "url": "https://wowhead.com/wotlk/item=45488"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Freya",
+    "itemName": "Leggings of the Lifetender",
+    "quality": "epic",
+    "itemId": 45482,
+    "url": "https://wowhead.com/wotlk/item=45482"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Freya",
+    "itemName": "Nymph Heart Charm",
+    "quality": "epic",
+    "itemId": 45480,
+    "url": "https://wowhead.com/wotlk/item=45480"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Freya",
+    "itemName": "The Lifebinder",
+    "quality": "epic",
+    "itemId": 45479,
+    "url": "https://wowhead.com/wotlk/item=45479"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Hodir",
+    "itemName": "Frost-bound Chain Bracers",
+    "quality": "epic",
+    "itemId": 45454,
+    "url": "https://wowhead.com/wotlk/item=45454"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Hodir",
+    "itemName": "Frostplate Greaves",
+    "quality": "epic",
+    "itemId": 45452,
+    "url": "https://wowhead.com/wotlk/item=45452"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Hodir",
+    "itemName": "Frozen Loop",
+    "quality": "epic",
+    "itemId": 45451,
+    "url": "https://wowhead.com/wotlk/item=45451"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Hodir",
+    "itemName": "Northern Barrier",
+    "quality": "epic",
+    "itemId": 45450,
+    "url": "https://wowhead.com/wotlk/item=45450"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Hodir",
+    "itemName": "Winter's Icy Embrace",
+    "quality": "epic",
+    "itemId": 45453,
+    "url": "https://wowhead.com/wotlk/item=45453"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Thorim",
+    "itemName": "Belt of the Betrayed",
+    "quality": "epic",
+    "itemId": 45467,
+    "url": "https://wowhead.com/wotlk/item=45467"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Thorim",
+    "itemName": "Crown of the Wayward Conqueror",
+    "quality": "epic",
+    "itemId": 45638,
+    "url": "https://wowhead.com/wotlk/item=45638"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Thorim",
+    "itemName": "Crown of the Wayward Protector",
+    "quality": "epic",
+    "itemId": 45639,
+    "url": "https://wowhead.com/wotlk/item=45639"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Thorim",
+    "itemName": "Crown of the Wayward Vanquisher",
+    "quality": "epic",
+    "itemId": 45640,
+    "url": "https://wowhead.com/wotlk/item=45640"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Thorim",
+    "itemName": "Embrace of the Gladiator",
+    "quality": "epic",
+    "itemId": 45473,
+    "url": "https://wowhead.com/wotlk/item=45473"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Thorim",
+    "itemName": "Fate's Clutch",
+    "quality": "epic",
+    "itemId": 45471,
+    "url": "https://wowhead.com/wotlk/item=45471"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Thorim",
+    "itemName": "Fragment of Val'anyr",
+    "quality": "legendary",
+    "itemId": 45038,
+    "url": "https://wowhead.com/wotlk/item=45038"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Thorim",
+    "itemName": "Leggings of Lost Love",
+    "quality": "epic",
+    "itemId": 45468,
+    "url": "https://wowhead.com/wotlk/item=45468"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Thorim",
+    "itemName": "Pauldrons of the Combatant",
+    "quality": "epic",
+    "itemId": 45474,
+    "url": "https://wowhead.com/wotlk/item=45474"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Thorim",
+    "itemName": "Scale of Fates",
+    "quality": "epic",
+    "itemId": 45466,
+    "url": "https://wowhead.com/wotlk/item=45466"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Thorim",
+    "itemName": "Sif's Promise",
+    "quality": "epic",
+    "itemId": 45469,
+    "url": "https://wowhead.com/wotlk/item=45469"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Thorim",
+    "itemName": "Skyforge Crossbow",
+    "quality": "epic",
+    "itemId": 45570,
+    "url": "https://wowhead.com/wotlk/item=45570"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Thorim",
+    "itemName": "Vulmir, the Northern Tempest",
+    "quality": "epic",
+    "itemId": 45463,
+    "url": "https://wowhead.com/wotlk/item=45463"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Thorim",
+    "itemName": "Warhelm of the Champion",
+    "quality": "epic",
+    "itemId": 45472,
+    "url": "https://wowhead.com/wotlk/item=45472"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Thorim",
+    "itemName": "Wisdom's Hold",
+    "quality": "epic",
+    "itemId": 45470,
+    "url": "https://wowhead.com/wotlk/item=45470"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Mimiron",
+    "itemName": "Armbands of Bedlam",
+    "quality": "epic",
+    "itemId": 45663,
+    "url": "https://wowhead.com/wotlk/item=45663"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Mimiron",
+    "itemName": "Asimov's Drape",
+    "quality": "epic",
+    "itemId": 45493,
+    "url": "https://wowhead.com/wotlk/item=45493"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Mimiron",
+    "itemName": "Conductive Seal",
+    "quality": "epic",
+    "itemId": 45495,
+    "url": "https://wowhead.com/wotlk/item=45495"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Mimiron",
+    "itemName": "Crown of Luminescence",
+    "quality": "epic",
+    "itemId": 45497,
+    "url": "https://wowhead.com/wotlk/item=45497"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Mimiron",
+    "itemName": "Delirium's Touch",
+    "quality": "epic",
+    "itemId": 45494,
+    "url": "https://wowhead.com/wotlk/item=45494"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Mimiron",
+    "itemName": "Fragment of Val'anyr",
+    "quality": "legendary",
+    "itemId": 45038,
+    "url": "https://wowhead.com/wotlk/item=45038"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Mimiron",
+    "itemName": "Gauntlets of the Wayward Conqueror",
+    "quality": "epic",
+    "itemId": 45641,
+    "url": "https://wowhead.com/wotlk/item=45641"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Mimiron",
+    "itemName": "Gauntlets of the Wayward Protector",
+    "quality": "epic",
+    "itemId": 45642,
+    "url": "https://wowhead.com/wotlk/item=45642"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Mimiron",
+    "itemName": "Gauntlets of the Wayward Vanquisher",
+    "quality": "epic",
+    "itemId": 45643,
+    "url": "https://wowhead.com/wotlk/item=45643"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Mimiron",
+    "itemName": "Insanity's Grip",
+    "quality": "epic",
+    "itemId": 45489,
+    "url": "https://wowhead.com/wotlk/item=45489"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Mimiron",
+    "itemName": "Malleable Steelweave Mantle",
+    "quality": "epic",
+    "itemId": 45492,
+    "url": "https://wowhead.com/wotlk/item=45492"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Mimiron",
+    "itemName": "Pandora's Plea",
+    "quality": "epic",
+    "itemId": 45490,
+    "url": "https://wowhead.com/wotlk/item=45490"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Mimiron",
+    "itemName": "Starshard Edge",
+    "quality": "epic",
+    "itemId": 45620,
+    "url": "https://wowhead.com/wotlk/item=45620"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Mimiron",
+    "itemName": "Titanskin Cloak",
+    "quality": "epic",
+    "itemId": 45496,
+    "url": "https://wowhead.com/wotlk/item=45496"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Mimiron",
+    "itemName": "Waistguard of the Creator",
+    "quality": "epic",
+    "itemId": 45491,
+    "url": "https://wowhead.com/wotlk/item=45491"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Vezax",
+    "itemName": "Belt of Clinging Hope",
+    "quality": "epic",
+    "itemId": 45505,
+    "url": "https://wowhead.com/wotlk/item=45505"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Vezax",
+    "itemName": "Belt of the Darkspeaker",
+    "quality": "epic",
+    "itemId": 45508,
+    "url": "https://wowhead.com/wotlk/item=45508"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Vezax",
+    "itemName": "Boots of the Forgotten Depths",
+    "quality": "epic",
+    "itemId": 45513,
+    "url": "https://wowhead.com/wotlk/item=45513"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Vezax",
+    "itemName": "Boots of the Underdweller",
+    "quality": "epic",
+    "itemId": 45501,
+    "url": "https://wowhead.com/wotlk/item=45501"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Vezax",
+    "itemName": "Darkcore Leggings",
+    "quality": "epic",
+    "itemId": 45504,
+    "url": "https://wowhead.com/wotlk/item=45504"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Vezax",
+    "itemName": "Flare of the Heavens",
+    "quality": "epic",
+    "itemId": 45518,
+    "url": "https://wowhead.com/wotlk/item=45518"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Vezax",
+    "itemName": "Grips of the Unbroken",
+    "quality": "epic",
+    "itemId": 45512,
+    "url": "https://wowhead.com/wotlk/item=45512"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Vezax",
+    "itemName": "Handwraps of the Vigilant",
+    "quality": "epic",
+    "itemId": 45520,
+    "url": "https://wowhead.com/wotlk/item=45520"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Vezax",
+    "itemName": "Helm of the Faceless",
+    "quality": "epic",
+    "itemId": 45502,
+    "url": "https://wowhead.com/wotlk/item=45502"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Vezax",
+    "itemName": "Idol of the Corruptor",
+    "quality": "epic",
+    "itemId": 45509,
+    "url": "https://wowhead.com/wotlk/item=45509"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Vezax",
+    "itemName": "Libram of the Sacred Shield",
+    "quality": "epic",
+    "itemId": 45145,
+    "url": "https://wowhead.com/wotlk/item=45145"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Vezax",
+    "itemName": "Lotrafen, Spear of the Damned",
+    "quality": "epic",
+    "itemId": 45498,
+    "url": "https://wowhead.com/wotlk/item=45498"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Vezax",
+    "itemName": "Mantle of the Unknowing",
+    "quality": "epic",
+    "itemId": 45514,
+    "url": "https://wowhead.com/wotlk/item=45514"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Vezax",
+    "itemName": "Metallic Loop of the Sufferer",
+    "quality": "epic",
+    "itemId": 45503,
+    "url": "https://wowhead.com/wotlk/item=45503"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Vezax",
+    "itemName": "Pendulum of Infinity",
+    "quality": "epic",
+    "itemId": 45517,
+    "url": "https://wowhead.com/wotlk/item=45517"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Vezax",
+    "itemName": "Ring of the Vacant Eye",
+    "quality": "epic",
+    "itemId": 45515,
+    "url": "https://wowhead.com/wotlk/item=45515"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Vezax",
+    "itemName": "Scepter of Lost Souls",
+    "quality": "epic",
+    "itemId": 45511,
+    "url": "https://wowhead.com/wotlk/item=45511"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Vezax",
+    "itemName": "The General's Heart",
+    "quality": "epic",
+    "itemId": 45507,
+    "url": "https://wowhead.com/wotlk/item=45507"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Vezax",
+    "itemName": "Vestments of the Blind Denizen",
+    "quality": "epic",
+    "itemId": 45519,
+    "url": "https://wowhead.com/wotlk/item=45519"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Vezax",
+    "itemName": "Voldrethar, Dark Blade of Oblivion",
+    "quality": "epic",
+    "itemId": 45516,
+    "url": "https://wowhead.com/wotlk/item=45516"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Yogg-Saron",
+    "itemName": "Blood of the Old God",
+    "quality": "epic",
+    "itemId": 45522,
+    "url": "https://wowhead.com/wotlk/item=45522"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Yogg-Saron",
+    "itemName": "Chestguard of Insidious Intent",
+    "quality": "epic",
+    "itemId": 45524,
+    "url": "https://wowhead.com/wotlk/item=45524"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Yogg-Saron",
+    "itemName": "Chestguard of the Fallen God",
+    "quality": "epic",
+    "itemId": 45531,
+    "url": "https://wowhead.com/wotlk/item=45531"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Yogg-Saron",
+    "itemName": "Cowl of Dark Whispers",
+    "quality": "epic",
+    "itemId": 45532,
+    "url": "https://wowhead.com/wotlk/item=45532"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Yogg-Saron",
+    "itemName": "Dark Edge of Depravity",
+    "quality": "epic",
+    "itemId": 45533,
+    "url": "https://wowhead.com/wotlk/item=45533"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Yogg-Saron",
+    "itemName": "Earthshaper",
+    "quality": "epic",
+    "itemId": 45521,
+    "url": "https://wowhead.com/wotlk/item=45521"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Yogg-Saron",
+    "itemName": "Fragment of Val'anyr",
+    "quality": "legendary",
+    "itemId": 45038,
+    "url": "https://wowhead.com/wotlk/item=45038"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Yogg-Saron",
+    "itemName": "Garona's Guise",
+    "quality": "epic",
+    "itemId": 45523,
+    "url": "https://wowhead.com/wotlk/item=45523"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Yogg-Saron",
+    "itemName": "Godbane Signet",
+    "quality": "epic",
+    "itemId": 45525,
+    "url": "https://wowhead.com/wotlk/item=45525"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Yogg-Saron",
+    "itemName": "Legguards of Cunning Deception",
+    "quality": "epic",
+    "itemId": 45536,
+    "url": "https://wowhead.com/wotlk/item=45536"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Yogg-Saron",
+    "itemName": "Mantle of the Wayward Conqueror",
+    "quality": "epic",
+    "itemId": 45656,
+    "url": "https://wowhead.com/wotlk/item=45656"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Yogg-Saron",
+    "itemName": "Mantle of the Wayward Protector",
+    "quality": "epic",
+    "itemId": 45657,
+    "url": "https://wowhead.com/wotlk/item=45657"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Yogg-Saron",
+    "itemName": "Mantle of the Wayward Vanquisher",
+    "quality": "epic",
+    "itemId": 45658,
+    "url": "https://wowhead.com/wotlk/item=45658"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Yogg-Saron",
+    "itemName": "Mimiron's Head",
+    "quality": "epic",
+    "itemId": 45693,
+    "url": "https://wowhead.com/wotlk/item=45693"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Yogg-Saron",
+    "itemName": "Reforged Hammer of Ancient Kings",
+    "quality": "legendary",
+    "itemId": 45897,
+    "url": "https://wowhead.com/wotlk/item=45897"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Yogg-Saron",
+    "itemName": "Sanity's Bond",
+    "quality": "epic",
+    "itemId": 45530,
+    "url": "https://wowhead.com/wotlk/item=45530"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Yogg-Saron",
+    "itemName": "Seal of the Betrayed King",
+    "quality": "epic",
+    "itemId": 45534,
+    "url": "https://wowhead.com/wotlk/item=45534"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Yogg-Saron",
+    "itemName": "Shawl of Haunted Memories",
+    "quality": "epic",
+    "itemId": 45529,
+    "url": "https://wowhead.com/wotlk/item=45529"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Yogg-Saron",
+    "itemName": "Show of Faith",
+    "quality": "epic",
+    "itemId": 45535,
+    "url": "https://wowhead.com/wotlk/item=45535"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Yogg-Saron",
+    "itemName": "Soulscribe",
+    "quality": "epic",
+    "itemId": 45527,
+    "url": "https://wowhead.com/wotlk/item=45527"
+  },
+  {
+    "instanceName": "Ulduar N25",
+    "encounter": "Yogg-Saron",
+    "itemName": "Treads of the False Oracle",
+    "quality": "epic",
+    "itemId": 45537,
+    "url": "https://wowhead.com/wotlk/item=45537"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Trash",
+    "itemName": "Adamant Handguards",
+    "quality": "epic",
+    "itemId": 46340,
+    "url": "https://wowhead.com/wotlk/item=46340"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Trash",
+    "itemName": "Bloodcrush Cudgel",
+    "quality": "epic",
+    "itemId": 46351,
+    "url": "https://wowhead.com/wotlk/item=46351"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Trash",
+    "itemName": "Boots of Unsettled Prey",
+    "quality": "epic",
+    "itemId": 46346,
+    "url": "https://wowhead.com/wotlk/item=46346"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Trash",
+    "itemName": "Bracers of Righteous Reformation",
+    "quality": "epic",
+    "itemId": 46345,
+    "url": "https://wowhead.com/wotlk/item=46345"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Trash",
+    "itemName": "Cloak of the Dormant Blaze",
+    "quality": "epic",
+    "itemId": 46347,
+    "url": "https://wowhead.com/wotlk/item=46347"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Trash",
+    "itemName": "Drape of the Spellweaver",
+    "quality": "epic",
+    "itemId": 46341,
+    "url": "https://wowhead.com/wotlk/item=46341"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Trash",
+    "itemName": "Fervor of the Protectorate",
+    "quality": "epic",
+    "itemId": 46343,
+    "url": "https://wowhead.com/wotlk/item=46343"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Trash",
+    "itemName": "Golemheart Longbow",
+    "quality": "epic",
+    "itemId": 46342,
+    "url": "https://wowhead.com/wotlk/item=46342"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Trash",
+    "itemName": "Iceshear Mantle",
+    "quality": "epic",
+    "itemId": 46344,
+    "url": "https://wowhead.com/wotlk/item=46344"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Trash",
+    "itemName": "Mimiron's Repeater",
+    "quality": "epic",
+    "itemId": 46339,
+    "url": "https://wowhead.com/wotlk/item=46339"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Trash",
+    "itemName": "Pillar of Fortitude",
+    "quality": "epic",
+    "itemId": 46350,
+    "url": "https://wowhead.com/wotlk/item=46350"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Recipes",
+    "itemName": "Pattern: Belt of Arctic Life",
+    "quality": "epic",
+    "itemId": 45100,
+    "url": "https://wowhead.com/wotlk/item=45100"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Recipes",
+    "itemName": "Pattern: Belt of Dragons",
+    "quality": "epic",
+    "itemId": 45094,
+    "url": "https://wowhead.com/wotlk/item=45094"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Recipes",
+    "itemName": "Pattern: Blue Belt of Chaos",
+    "quality": "epic",
+    "itemId": 45096,
+    "url": "https://wowhead.com/wotlk/item=45096"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Recipes",
+    "itemName": "Pattern: Boots of Living Scale",
+    "quality": "epic",
+    "itemId": 45095,
+    "url": "https://wowhead.com/wotlk/item=45095"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Recipes",
+    "itemName": "Pattern: Boots of Wintry Endurance",
+    "quality": "epic",
+    "itemId": 45101,
+    "url": "https://wowhead.com/wotlk/item=45101"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Recipes",
+    "itemName": "Pattern: Cord of the White Dawn",
+    "quality": "epic",
+    "itemId": 45104,
+    "url": "https://wowhead.com/wotlk/item=45104"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Recipes",
+    "itemName": "Pattern: Death-warmed Belt",
+    "quality": "epic",
+    "itemId": 45098,
+    "url": "https://wowhead.com/wotlk/item=45098"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Recipes",
+    "itemName": "Pattern: Footpads of Silence",
+    "quality": "epic",
+    "itemId": 45099,
+    "url": "https://wowhead.com/wotlk/item=45099"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Recipes",
+    "itemName": "Pattern: Lightning Grounded Boots",
+    "quality": "epic",
+    "itemId": 45097,
+    "url": "https://wowhead.com/wotlk/item=45097"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Recipes",
+    "itemName": "Pattern: Sash of Ancient Power",
+    "quality": "epic",
+    "itemId": 45102,
+    "url": "https://wowhead.com/wotlk/item=45102"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Recipes",
+    "itemName": "Pattern: Savior's Slippers",
+    "quality": "epic",
+    "itemId": 45105,
+    "url": "https://wowhead.com/wotlk/item=45105"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Recipes",
+    "itemName": "Pattern: Spellslinger's Slippers",
+    "quality": "epic",
+    "itemId": 45103,
+    "url": "https://wowhead.com/wotlk/item=45103"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Recipes",
+    "itemName": "Plans: Battlelord's Plate Boots",
+    "quality": "epic",
+    "itemId": 45089,
+    "url": "https://wowhead.com/wotlk/item=45089"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Recipes",
+    "itemName": "Plans: Belt of the Titans",
+    "quality": "epic",
+    "itemId": 45088,
+    "url": "https://wowhead.com/wotlk/item=45088"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Recipes",
+    "itemName": "Plans: Indestructible Plate Girdle",
+    "quality": "epic",
+    "itemId": 45092,
+    "url": "https://wowhead.com/wotlk/item=45092"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Recipes",
+    "itemName": "Plans: Plate Girdle of Righteousness",
+    "quality": "epic",
+    "itemId": 45090,
+    "url": "https://wowhead.com/wotlk/item=45090"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Recipes",
+    "itemName": "Plans: Spiked Deathdealers",
+    "quality": "epic",
+    "itemId": 45093,
+    "url": "https://wowhead.com/wotlk/item=45093"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Recipes",
+    "itemName": "Plans: Treads of Destiny",
+    "quality": "epic",
+    "itemId": 45091,
+    "url": "https://wowhead.com/wotlk/item=45091"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Tokens",
+    "itemName": "Runed Orb",
+    "quality": "rare",
+    "itemId": 45087,
+    "url": "https://wowhead.com/wotlk/item=45087"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Leviathan",
+    "itemName": "Combustion Bracers",
+    "quality": "epic",
+    "itemId": 45291,
+    "url": "https://wowhead.com/wotlk/item=45291"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Leviathan",
+    "itemName": "Energy Siphon",
+    "quality": "epic",
+    "itemId": 45292,
+    "url": "https://wowhead.com/wotlk/item=45292"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Leviathan",
+    "itemName": "Firesoul",
+    "quality": "epic",
+    "itemId": 45287,
+    "url": "https://wowhead.com/wotlk/item=45287"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Leviathan",
+    "itemName": "Firestrider Chestguard",
+    "quality": "epic",
+    "itemId": 45288,
+    "url": "https://wowhead.com/wotlk/item=45288"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Leviathan",
+    "itemName": "Flamewatch Armguards",
+    "quality": "epic",
+    "itemId": 45283,
+    "url": "https://wowhead.com/wotlk/item=45283"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Leviathan",
+    "itemName": "Gilded Steel Legplates",
+    "quality": "epic",
+    "itemId": 45295,
+    "url": "https://wowhead.com/wotlk/item=45295"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Leviathan",
+    "itemName": "Handguards of Potent Cures",
+    "quality": "epic",
+    "itemId": 45293,
+    "url": "https://wowhead.com/wotlk/item=45293"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Leviathan",
+    "itemName": "Ironsoul",
+    "quality": "epic",
+    "itemId": 45282,
+    "url": "https://wowhead.com/wotlk/item=45282"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Leviathan",
+    "itemName": "Kinetic Ripper",
+    "quality": "epic",
+    "itemId": 45284,
+    "url": "https://wowhead.com/wotlk/item=45284"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Leviathan",
+    "itemName": "Lifespark Visage",
+    "quality": "epic",
+    "itemId": 45289,
+    "url": "https://wowhead.com/wotlk/item=45289"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Leviathan",
+    "itemName": "Mantle of Fiery Vengeance",
+    "quality": "epic",
+    "itemId": 45300,
+    "url": "https://wowhead.com/wotlk/item=45300"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Leviathan",
+    "itemName": "Might of the Leviathan",
+    "quality": "epic",
+    "itemId": 45285,
+    "url": "https://wowhead.com/wotlk/item=45285"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Leviathan",
+    "itemName": "Pyrite Infuser",
+    "quality": "epic",
+    "itemId": 45286,
+    "url": "https://wowhead.com/wotlk/item=45286"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Leviathan",
+    "itemName": "Shimmering Seal",
+    "quality": "epic",
+    "itemId": 45297,
+    "url": "https://wowhead.com/wotlk/item=45297"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Leviathan",
+    "itemName": "Twirling Blades",
+    "quality": "epic",
+    "itemId": 45296,
+    "url": "https://wowhead.com/wotlk/item=45296"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Ignis",
+    "itemName": "Armbraces of the Vibrant Flame",
+    "quality": "epic",
+    "itemId": 45316,
+    "url": "https://wowhead.com/wotlk/item=45316"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Ignis",
+    "itemName": "Drape of Fuming Anger",
+    "quality": "epic",
+    "itemId": 45318,
+    "url": "https://wowhead.com/wotlk/item=45318"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Ignis",
+    "itemName": "Furnace Stone",
+    "quality": "epic",
+    "itemId": 45313,
+    "url": "https://wowhead.com/wotlk/item=45313"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Ignis",
+    "itemName": "Gauntlets of the Iron Furnace",
+    "quality": "epic",
+    "itemId": 45310,
+    "url": "https://wowhead.com/wotlk/item=45310"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Ignis",
+    "itemName": "Gloves of Smoldering Touch",
+    "quality": "epic",
+    "itemId": 45312,
+    "url": "https://wowhead.com/wotlk/item=45312"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Ignis",
+    "itemName": "Igniter Rod",
+    "quality": "epic",
+    "itemId": 45314,
+    "url": "https://wowhead.com/wotlk/item=45314"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Ignis",
+    "itemName": "Pauldrons of Tempered Will",
+    "quality": "epic",
+    "itemId": 45321,
+    "url": "https://wowhead.com/wotlk/item=45321"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Ignis",
+    "itemName": "Relentless Edge",
+    "quality": "epic",
+    "itemId": 45311,
+    "url": "https://wowhead.com/wotlk/item=45311"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Ignis",
+    "itemName": "Rifle of the Platinum Guard",
+    "quality": "epic",
+    "itemId": 45309,
+    "url": "https://wowhead.com/wotlk/item=45309"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Ignis",
+    "itemName": "Shawl of the Caretaker",
+    "quality": "epic",
+    "itemId": 45317,
+    "url": "https://wowhead.com/wotlk/item=45317"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Razorscale",
+    "itemName": "Band of Draconic Guile",
+    "quality": "epic",
+    "itemId": 45303,
+    "url": "https://wowhead.com/wotlk/item=45303"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Razorscale",
+    "itemName": "Binding of the Dragon Matriarch",
+    "quality": "epic",
+    "itemId": 45306,
+    "url": "https://wowhead.com/wotlk/item=45306"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Razorscale",
+    "itemName": "Bracers of the Smothering Inferno",
+    "quality": "epic",
+    "itemId": 45301,
+    "url": "https://wowhead.com/wotlk/item=45301"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Razorscale",
+    "itemName": "Breastplate of the Afterlife",
+    "quality": "epic",
+    "itemId": 45305,
+    "url": "https://wowhead.com/wotlk/item=45305"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Razorscale",
+    "itemName": "Dragonsteel Faceplate",
+    "quality": "epic",
+    "itemId": 45299,
+    "url": "https://wowhead.com/wotlk/item=45299"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Razorscale",
+    "itemName": "Eye of the Broodmother",
+    "quality": "epic",
+    "itemId": 45308,
+    "url": "https://wowhead.com/wotlk/item=45308"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Razorscale",
+    "itemName": "Ironscale Leggings",
+    "quality": "epic",
+    "itemId": 45307,
+    "url": "https://wowhead.com/wotlk/item=45307"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Razorscale",
+    "itemName": "Razorscale Talon",
+    "quality": "epic",
+    "itemId": 45298,
+    "url": "https://wowhead.com/wotlk/item=45298"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Razorscale",
+    "itemName": "Stormtempered Girdle",
+    "quality": "epic",
+    "itemId": 45304,
+    "url": "https://wowhead.com/wotlk/item=45304"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Razorscale",
+    "itemName": "Treads of the Invader",
+    "quality": "epic",
+    "itemId": 45302,
+    "url": "https://wowhead.com/wotlk/item=45302"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "XT-002",
+    "itemName": "Aesir's Edge",
+    "quality": "epic",
+    "itemId": 45868,
+    "url": "https://wowhead.com/wotlk/item=45868"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "XT-002",
+    "itemName": "Armbands of the Construct",
+    "quality": "epic",
+    "itemId": 45680,
+    "url": "https://wowhead.com/wotlk/item=45680"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "XT-002",
+    "itemName": "Breastplate of the Stoneshaper",
+    "quality": "epic",
+    "itemId": 45867,
+    "url": "https://wowhead.com/wotlk/item=45867"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "XT-002",
+    "itemName": "Chestplate of Vicious Potency",
+    "quality": "epic",
+    "itemId": 45676,
+    "url": "https://wowhead.com/wotlk/item=45676"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "XT-002",
+    "itemName": "Conductive Cord",
+    "quality": "epic",
+    "itemId": 45694,
+    "url": "https://wowhead.com/wotlk/item=45694"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "XT-002",
+    "itemName": "Fluxing Energy Coils",
+    "quality": "epic",
+    "itemId": 45869,
+    "url": "https://wowhead.com/wotlk/item=45869"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "XT-002",
+    "itemName": "Gloves of Taut Grip",
+    "quality": "epic",
+    "itemId": 45679,
+    "url": "https://wowhead.com/wotlk/item=45679"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "XT-002",
+    "itemName": "Helm of Veiled Energies",
+    "quality": "epic",
+    "itemId": 45687,
+    "url": "https://wowhead.com/wotlk/item=45687"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "XT-002",
+    "itemName": "Magnetized Projectile Emitter",
+    "quality": "epic",
+    "itemId": 45870,
+    "url": "https://wowhead.com/wotlk/item=45870"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "XT-002",
+    "itemName": "Plasma Foil",
+    "quality": "epic",
+    "itemId": 45685,
+    "url": "https://wowhead.com/wotlk/item=45685"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "XT-002",
+    "itemName": "Power Enhancing Loop",
+    "quality": "epic",
+    "itemId": 45675,
+    "url": "https://wowhead.com/wotlk/item=45675"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "XT-002",
+    "itemName": "Pulsing Spellshield",
+    "quality": "epic",
+    "itemId": 45682,
+    "url": "https://wowhead.com/wotlk/item=45682"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "XT-002",
+    "itemName": "Seal of Ulduar",
+    "quality": "epic",
+    "itemId": 45871,
+    "url": "https://wowhead.com/wotlk/item=45871"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "XT-002",
+    "itemName": "Treacherous Shoulderpads",
+    "quality": "epic",
+    "itemId": 45677,
+    "url": "https://wowhead.com/wotlk/item=45677"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "XT-002",
+    "itemName": "Vest of the Glowing Crescent",
+    "quality": "epic",
+    "itemId": 45686,
+    "url": "https://wowhead.com/wotlk/item=45686"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Assembly",
+    "itemName": "Archivum Data Disc",
+    "quality": "epic",
+    "itemId": 45506,
+    "url": "https://wowhead.com/wotlk/item=45506"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Assembly",
+    "itemName": "Belt of the Crystal Tree",
+    "quality": "epic",
+    "itemId": 45455,
+    "url": "https://wowhead.com/wotlk/item=45455"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Assembly",
+    "itemName": "Belt of the Iron Servant",
+    "quality": "epic",
+    "itemId": 45333,
+    "url": "https://wowhead.com/wotlk/item=45333"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Assembly",
+    "itemName": "Boots of the Petrified Forest",
+    "quality": "epic",
+    "itemId": 45378,
+    "url": "https://wowhead.com/wotlk/item=45378"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Assembly",
+    "itemName": "Circlet of True Sight",
+    "quality": "epic",
+    "itemId": 45329,
+    "url": "https://wowhead.com/wotlk/item=45329"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Assembly",
+    "itemName": "Cloak of the Iron Council",
+    "quality": "epic",
+    "itemId": 45322,
+    "url": "https://wowhead.com/wotlk/item=45322"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Assembly",
+    "itemName": "Greaves of Iron Intensity",
+    "quality": "epic",
+    "itemId": 45330,
+    "url": "https://wowhead.com/wotlk/item=45330"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Assembly",
+    "itemName": "Lady Maye's Sapphire Ring",
+    "quality": "epic",
+    "itemId": 45418,
+    "url": "https://wowhead.com/wotlk/item=45418"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Assembly",
+    "itemName": "Leggings of Swift Reflexes",
+    "quality": "epic",
+    "itemId": 45324,
+    "url": "https://wowhead.com/wotlk/item=45324"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Assembly",
+    "itemName": "Loop of the Agile",
+    "quality": "epic",
+    "itemId": 45456,
+    "url": "https://wowhead.com/wotlk/item=45456"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Assembly",
+    "itemName": "Perilous Bite",
+    "quality": "epic",
+    "itemId": 45448,
+    "url": "https://wowhead.com/wotlk/item=45448"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Assembly",
+    "itemName": "Rune-Etched Nightblade",
+    "quality": "epic",
+    "itemId": 45331,
+    "url": "https://wowhead.com/wotlk/item=45331"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Assembly",
+    "itemName": "Runetouch Wristwraps",
+    "quality": "epic",
+    "itemId": 45423,
+    "url": "https://wowhead.com/wotlk/item=45423"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Assembly",
+    "itemName": "Stormtip",
+    "quality": "epic",
+    "itemId": 45332,
+    "url": "https://wowhead.com/wotlk/item=45332"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Assembly",
+    "itemName": "The Masticator",
+    "quality": "epic",
+    "itemId": 45449,
+    "url": "https://wowhead.com/wotlk/item=45449"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Assembly",
+    "itemName": "Watchful Eye of Fate",
+    "quality": "epic",
+    "itemId": 45447,
+    "url": "https://wowhead.com/wotlk/item=45447"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Kologarn",
+    "itemName": "Emerald Signet Ring",
+    "quality": "epic",
+    "itemId": 45702,
+    "url": "https://wowhead.com/wotlk/item=45702"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Kologarn",
+    "itemName": "Greaves of the Earthbinder",
+    "quality": "epic",
+    "itemId": 45701,
+    "url": "https://wowhead.com/wotlk/item=45701"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Kologarn",
+    "itemName": "Mark of the Unyielding",
+    "quality": "epic",
+    "itemId": 45696,
+    "url": "https://wowhead.com/wotlk/item=45696"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Kologarn",
+    "itemName": "Pendant of the Piercing Glare",
+    "quality": "epic",
+    "itemId": 45699,
+    "url": "https://wowhead.com/wotlk/item=45699"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Kologarn",
+    "itemName": "Sabatons of the Iron Watcher",
+    "quality": "epic",
+    "itemId": 45698,
+    "url": "https://wowhead.com/wotlk/item=45698"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Kologarn",
+    "itemName": "Shawl of the Shattered Giant",
+    "quality": "epic",
+    "itemId": 45704,
+    "url": "https://wowhead.com/wotlk/item=45704"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Kologarn",
+    "itemName": "Shoulderguards of the Solemn Watch",
+    "quality": "epic",
+    "itemId": 45697,
+    "url": "https://wowhead.com/wotlk/item=45697"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Kologarn",
+    "itemName": "Spark of Hope",
+    "quality": "epic",
+    "itemId": 45703,
+    "url": "https://wowhead.com/wotlk/item=45703"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Kologarn",
+    "itemName": "Spire of Withering Dreams",
+    "quality": "epic",
+    "itemId": 45695,
+    "url": "https://wowhead.com/wotlk/item=45695"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Kologarn",
+    "itemName": "Stoneguard",
+    "quality": "epic",
+    "itemId": 45700,
+    "url": "https://wowhead.com/wotlk/item=45700"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Auriaya",
+    "itemName": "Archaedas' Lost Legplates",
+    "quality": "epic",
+    "itemId": 45708,
+    "url": "https://wowhead.com/wotlk/item=45708"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Auriaya",
+    "itemName": "Chestplate of Titanic Fury",
+    "quality": "epic",
+    "itemId": 45712,
+    "url": "https://wowhead.com/wotlk/item=45712"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Auriaya",
+    "itemName": "Cover of the Keepers",
+    "quality": "epic",
+    "itemId": 45864,
+    "url": "https://wowhead.com/wotlk/item=45864"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Auriaya",
+    "itemName": "Elemental Focus Stone",
+    "quality": "epic",
+    "itemId": 45866,
+    "url": "https://wowhead.com/wotlk/item=45866"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Auriaya",
+    "itemName": "Ironaya's Discarded Mantle",
+    "quality": "epic",
+    "itemId": 45711,
+    "url": "https://wowhead.com/wotlk/item=45711"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Auriaya",
+    "itemName": "Mantle of the Preserver",
+    "quality": "epic",
+    "itemId": 45832,
+    "url": "https://wowhead.com/wotlk/item=45832"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Auriaya",
+    "itemName": "Nimble Climber's Belt",
+    "quality": "epic",
+    "itemId": 45709,
+    "url": "https://wowhead.com/wotlk/item=45709"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Auriaya",
+    "itemName": "Nurturing Touch",
+    "quality": "epic",
+    "itemId": 45713,
+    "url": "https://wowhead.com/wotlk/item=45713"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Auriaya",
+    "itemName": "Raiments of the Corrupted",
+    "quality": "epic",
+    "itemId": 45865,
+    "url": "https://wowhead.com/wotlk/item=45865"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Auriaya",
+    "itemName": "Shieldwall of the Breaker",
+    "quality": "epic",
+    "itemId": 45707,
+    "url": "https://wowhead.com/wotlk/item=45707"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Algalon",
+    "itemName": "Band of Lights",
+    "quality": "epic",
+    "itemId": 46048,
+    "url": "https://wowhead.com/wotlk/item=46048"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Algalon",
+    "itemName": "Breastplate of the Timeless",
+    "quality": "epic",
+    "itemId": 46039,
+    "url": "https://wowhead.com/wotlk/item=46039"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Algalon",
+    "itemName": "Dark Matter",
+    "quality": "epic",
+    "itemId": 46038,
+    "url": "https://wowhead.com/wotlk/item=46038"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Algalon",
+    "itemName": "Drape of the Messenger",
+    "quality": "epic",
+    "itemId": 46042,
+    "url": "https://wowhead.com/wotlk/item=46042"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Algalon",
+    "itemName": "Gloves of the Endless Dark",
+    "quality": "epic",
+    "itemId": 46043,
+    "url": "https://wowhead.com/wotlk/item=46043"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Algalon",
+    "itemName": "Meteorite Crystal",
+    "quality": "epic",
+    "itemId": 46051,
+    "url": "https://wowhead.com/wotlk/item=46051"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Algalon",
+    "itemName": "Nebula Band",
+    "quality": "epic",
+    "itemId": 46046,
+    "url": "https://wowhead.com/wotlk/item=46046"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Algalon",
+    "itemName": "Observer's Mantle",
+    "quality": "epic",
+    "itemId": 46044,
+    "url": "https://wowhead.com/wotlk/item=46044"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Algalon",
+    "itemName": "Pendant of the Somber Witness",
+    "quality": "epic",
+    "itemId": 46047,
+    "url": "https://wowhead.com/wotlk/item=46047"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Algalon",
+    "itemName": "Pulsar Gloves",
+    "quality": "epic",
+    "itemId": 46045,
+    "url": "https://wowhead.com/wotlk/item=46045"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Algalon",
+    "itemName": "Reply-Code Alpha",
+    "quality": "epic",
+    "itemId": 46052,
+    "url": "https://wowhead.com/wotlk/item=46052"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Algalon",
+    "itemName": "Shoulderplates of the Celestial Watch",
+    "quality": "epic",
+    "itemId": 46037,
+    "url": "https://wowhead.com/wotlk/item=46037"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Algalon",
+    "itemName": "Starfall Girdle",
+    "quality": "epic",
+    "itemId": 46041,
+    "url": "https://wowhead.com/wotlk/item=46041"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Algalon",
+    "itemName": "Starlight Treads",
+    "quality": "epic",
+    "itemId": 46050,
+    "url": "https://wowhead.com/wotlk/item=46050"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Algalon",
+    "itemName": "Strength of the Heavens",
+    "quality": "epic",
+    "itemId": 46040,
+    "url": "https://wowhead.com/wotlk/item=46040"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Algalon",
+    "itemName": "Zodiac Leggings",
+    "quality": "epic",
+    "itemId": 46049,
+    "url": "https://wowhead.com/wotlk/item=46049"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Freya",
+    "itemName": "Chestguard of the Lasher",
+    "quality": "epic",
+    "itemId": 45941,
+    "url": "https://wowhead.com/wotlk/item=45941"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Freya",
+    "itemName": "Fire Orchid Signet",
+    "quality": "epic",
+    "itemId": 45946,
+    "url": "https://wowhead.com/wotlk/item=45946"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Freya",
+    "itemName": "Gloves of Whispering Winds",
+    "quality": "epic",
+    "itemId": 45943,
+    "url": "https://wowhead.com/wotlk/item=45943"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Freya",
+    "itemName": "Ironbark Faceguard",
+    "quality": "epic",
+    "itemId": 45935,
+    "url": "https://wowhead.com/wotlk/item=45935"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Freya",
+    "itemName": "Legplates of Flourishing Resolve",
+    "quality": "epic",
+    "itemId": 45936,
+    "url": "https://wowhead.com/wotlk/item=45936"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Freya",
+    "itemName": "Petrified Ivy Sprig",
+    "quality": "epic",
+    "itemId": 45294,
+    "url": "https://wowhead.com/wotlk/item=45294"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Freya",
+    "itemName": "Seed of Budding Carnage",
+    "quality": "epic",
+    "itemId": 45945,
+    "url": "https://wowhead.com/wotlk/item=45945"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Freya",
+    "itemName": "Serilas, Blood Blade of Invar One-Arm",
+    "quality": "epic",
+    "itemId": 45947,
+    "url": "https://wowhead.com/wotlk/item=45947"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Freya",
+    "itemName": "Tunic of the Limber Stalker",
+    "quality": "epic",
+    "itemId": 45940,
+    "url": "https://wowhead.com/wotlk/item=45940"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Freya",
+    "itemName": "Unraveling Reach",
+    "quality": "epic",
+    "itemId": 45934,
+    "url": "https://wowhead.com/wotlk/item=45934"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Hodir",
+    "itemName": "Avalanche",
+    "quality": "epic",
+    "itemId": 45872,
+    "url": "https://wowhead.com/wotlk/item=45872"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Hodir",
+    "itemName": "Cowl of Icy Breaths",
+    "quality": "epic",
+    "itemId": 45464,
+    "url": "https://wowhead.com/wotlk/item=45464"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Hodir",
+    "itemName": "Signet of Winter",
+    "quality": "epic",
+    "itemId": 45874,
+    "url": "https://wowhead.com/wotlk/item=45874"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Hodir",
+    "itemName": "Stormedge",
+    "quality": "epic",
+    "itemId": 45458,
+    "url": "https://wowhead.com/wotlk/item=45458"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Hodir",
+    "itemName": "Winter's Frigid Embrace",
+    "quality": "epic",
+    "itemId": 45873,
+    "url": "https://wowhead.com/wotlk/item=45873"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Thorim",
+    "itemName": "Abyss Crystal",
+    "quality": "epic",
+    "itemId": 34057,
+    "url": "https://wowhead.com/wotlk/item=34057"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Thorim",
+    "itemName": "Belt of the Blood Pit",
+    "quality": "epic",
+    "itemId": 45895,
+    "url": "https://wowhead.com/wotlk/item=45895"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Thorim",
+    "itemName": "Combatant's Bootblade",
+    "quality": "epic",
+    "itemId": 45930,
+    "url": "https://wowhead.com/wotlk/item=45930"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Thorim",
+    "itemName": "Gauntlets of the Thunder God",
+    "quality": "epic",
+    "itemId": 45928,
+    "url": "https://wowhead.com/wotlk/item=45928"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Thorim",
+    "itemName": "Guise of the Midgard Serpent",
+    "quality": "epic",
+    "itemId": 45893,
+    "url": "https://wowhead.com/wotlk/item=45893"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Thorim",
+    "itemName": "Handwraps of Resonance",
+    "quality": "epic",
+    "itemId": 45927,
+    "url": "https://wowhead.com/wotlk/item=45927"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Thorim",
+    "itemName": "Legacy of Thunder",
+    "quality": "epic",
+    "itemId": 45892,
+    "url": "https://wowhead.com/wotlk/item=45892"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Thorim",
+    "itemName": "Leggings of Unstable Discharge",
+    "quality": "epic",
+    "itemId": 45894,
+    "url": "https://wowhead.com/wotlk/item=45894"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Thorim",
+    "itemName": "Mjolnir Runestone",
+    "quality": "epic",
+    "itemId": 45931,
+    "url": "https://wowhead.com/wotlk/item=45931"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Thorim",
+    "itemName": "Pendant of the Shallow Grave",
+    "quality": "epic",
+    "itemId": 45933,
+    "url": "https://wowhead.com/wotlk/item=45933"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Thorim",
+    "itemName": "Sif's Remembrance",
+    "quality": "epic",
+    "itemId": 45929,
+    "url": "https://wowhead.com/wotlk/item=45929"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Thorim",
+    "itemName": "Spaulders of the Wayward Conqueror",
+    "quality": "epic",
+    "itemId": 45659,
+    "url": "https://wowhead.com/wotlk/item=45659"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Thorim",
+    "itemName": "Spaulders of the Wayward Protector",
+    "quality": "epic",
+    "itemId": 45660,
+    "url": "https://wowhead.com/wotlk/item=45660"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Thorim",
+    "itemName": "Spaulders of the Wayward Vanquisher",
+    "quality": "epic",
+    "itemId": 45661,
+    "url": "https://wowhead.com/wotlk/item=45661"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Mimiron",
+    "itemName": "Cable of the Metrognome",
+    "quality": "epic",
+    "itemId": 45975,
+    "url": "https://wowhead.com/wotlk/item=45975"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Mimiron",
+    "itemName": "Fused Alloy Legplates",
+    "quality": "epic",
+    "itemId": 45982,
+    "url": "https://wowhead.com/wotlk/item=45982"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Mimiron",
+    "itemName": "Fusion Blade",
+    "quality": "epic",
+    "itemId": 45990,
+    "url": "https://wowhead.com/wotlk/item=45990"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Mimiron",
+    "itemName": "Greaves of the Iron Army",
+    "quality": "epic",
+    "itemId": 45988,
+    "url": "https://wowhead.com/wotlk/item=45988"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Mimiron",
+    "itemName": "Helm of the Wayward Conqueror",
+    "quality": "epic",
+    "itemId": 45647,
+    "url": "https://wowhead.com/wotlk/item=45647"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Mimiron",
+    "itemName": "Helm of the Wayward Protector",
+    "quality": "epic",
+    "itemId": 45648,
+    "url": "https://wowhead.com/wotlk/item=45648"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Mimiron",
+    "itemName": "Helm of the Wayward Vanquisher",
+    "quality": "epic",
+    "itemId": 45649,
+    "url": "https://wowhead.com/wotlk/item=45649"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Mimiron",
+    "itemName": "Mimiron's Flight Goggles",
+    "quality": "epic",
+    "itemId": 45993,
+    "url": "https://wowhead.com/wotlk/item=45993"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Mimiron",
+    "itemName": "Pulse Baton",
+    "quality": "epic",
+    "itemId": 45972,
+    "url": "https://wowhead.com/wotlk/item=45972"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Mimiron",
+    "itemName": "Shoulderguards of Assimilation",
+    "quality": "epic",
+    "itemId": 45974,
+    "url": "https://wowhead.com/wotlk/item=45974"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Mimiron",
+    "itemName": "Static Charge Handwraps",
+    "quality": "epic",
+    "itemId": 45976,
+    "url": "https://wowhead.com/wotlk/item=45976"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Mimiron",
+    "itemName": "Stylish Power Cape",
+    "quality": "epic",
+    "itemId": 45973,
+    "url": "https://wowhead.com/wotlk/item=45973"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Mimiron",
+    "itemName": "Tempered Mercury Greaves",
+    "quality": "epic",
+    "itemId": 45989,
+    "url": "https://wowhead.com/wotlk/item=45989"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Vezax",
+    "itemName": "Aesuga, Hand of the Ardent Champion",
+    "quality": "epic",
+    "itemId": 46035,
+    "url": "https://wowhead.com/wotlk/item=46035"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Vezax",
+    "itemName": "Bindings of the Depths",
+    "quality": "epic",
+    "itemId": 46009,
+    "url": "https://wowhead.com/wotlk/item=46009"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Vezax",
+    "itemName": "Choker of the Abyss",
+    "quality": "epic",
+    "itemId": 46008,
+    "url": "https://wowhead.com/wotlk/item=46008"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Vezax",
+    "itemName": "Darkstone Ring",
+    "quality": "epic",
+    "itemId": 46010,
+    "url": "https://wowhead.com/wotlk/item=46010"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Vezax",
+    "itemName": "Drape of the Faceless General",
+    "quality": "epic",
+    "itemId": 46032,
+    "url": "https://wowhead.com/wotlk/item=46032"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Vezax",
+    "itemName": "Gauntlets of the Wretched",
+    "quality": "epic",
+    "itemId": 45997,
+    "url": "https://wowhead.com/wotlk/item=45997"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Vezax",
+    "itemName": "Hoperender",
+    "quality": "epic",
+    "itemId": 45996,
+    "url": "https://wowhead.com/wotlk/item=45996"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Vezax",
+    "itemName": "Leggings of Profound Darkness",
+    "quality": "epic",
+    "itemId": 46034,
+    "url": "https://wowhead.com/wotlk/item=46034"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Vezax",
+    "itemName": "Pendant of Endless Despair",
+    "quality": "epic",
+    "itemId": 46015,
+    "url": "https://wowhead.com/wotlk/item=46015"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Vezax",
+    "itemName": "Saronite Animus Cloak",
+    "quality": "epic",
+    "itemId": 46014,
+    "url": "https://wowhead.com/wotlk/item=46014"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Vezax",
+    "itemName": "Shadowbite",
+    "quality": "epic",
+    "itemId": 46011,
+    "url": "https://wowhead.com/wotlk/item=46011"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Vezax",
+    "itemName": "Tortured Earth",
+    "quality": "epic",
+    "itemId": 46033,
+    "url": "https://wowhead.com/wotlk/item=46033"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Vezax",
+    "itemName": "Underworld Mantle",
+    "quality": "epic",
+    "itemId": 46013,
+    "url": "https://wowhead.com/wotlk/item=46013"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Vezax",
+    "itemName": "Vestments of the Piercing Light",
+    "quality": "epic",
+    "itemId": 46012,
+    "url": "https://wowhead.com/wotlk/item=46012"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Vezax",
+    "itemName": "Void Sabre",
+    "quality": "epic",
+    "itemId": 46036,
+    "url": "https://wowhead.com/wotlk/item=46036"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Yogg-Saron",
+    "itemName": "Abaddon",
+    "quality": "epic",
+    "itemId": 46016,
+    "url": "https://wowhead.com/wotlk/item=46016"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Yogg-Saron",
+    "itemName": "Amice of Inconceivable Horror",
+    "quality": "epic",
+    "itemId": 46068,
+    "url": "https://wowhead.com/wotlk/item=46068"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Yogg-Saron",
+    "itemName": "Caress of Insanity",
+    "quality": "epic",
+    "itemId": 46097,
+    "url": "https://wowhead.com/wotlk/item=46097"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Yogg-Saron",
+    "itemName": "Chestguard of the Wayward Conqueror",
+    "quality": "epic",
+    "itemId": 45635,
+    "url": "https://wowhead.com/wotlk/item=45635"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Yogg-Saron",
+    "itemName": "Chestguard of the Wayward Protector",
+    "quality": "epic",
+    "itemId": 45636,
+    "url": "https://wowhead.com/wotlk/item=45636"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Yogg-Saron",
+    "itemName": "Chestguard of the Wayward Vanquisher",
+    "quality": "epic",
+    "itemId": 45637,
+    "url": "https://wowhead.com/wotlk/item=45637"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Yogg-Saron",
+    "itemName": "Deliverance",
+    "quality": "epic",
+    "itemId": 46018,
+    "url": "https://wowhead.com/wotlk/item=46018"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Yogg-Saron",
+    "itemName": "Devotion",
+    "quality": "epic",
+    "itemId": 46025,
+    "url": "https://wowhead.com/wotlk/item=46025"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Yogg-Saron",
+    "itemName": "Faceguard of the Eyeless Horror",
+    "quality": "epic",
+    "itemId": 46028,
+    "url": "https://wowhead.com/wotlk/item=46028"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Yogg-Saron",
+    "itemName": "Hammer of Crushing Whispers",
+    "quality": "epic",
+    "itemId": 46067,
+    "url": "https://wowhead.com/wotlk/item=46067"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Yogg-Saron",
+    "itemName": "Kingsbane",
+    "quality": "epic",
+    "itemId": 46024,
+    "url": "https://wowhead.com/wotlk/item=46024"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Yogg-Saron",
+    "itemName": "Leggings of the Insatiable",
+    "quality": "epic",
+    "itemId": 46019,
+    "url": "https://wowhead.com/wotlk/item=46019"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Yogg-Saron",
+    "itemName": "Pendant of a Thousand Maws",
+    "quality": "epic",
+    "itemId": 46022,
+    "url": "https://wowhead.com/wotlk/item=46022"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Yogg-Saron",
+    "itemName": "Royal Seal of King Llane",
+    "quality": "epic",
+    "itemId": 46021,
+    "url": "https://wowhead.com/wotlk/item=46021"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Yogg-Saron",
+    "itemName": "Signet of Soft Lament",
+    "quality": "epic",
+    "itemId": 46096,
+    "url": "https://wowhead.com/wotlk/item=46096"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Yogg-Saron",
+    "itemName": "Soul-Devouring Cinch",
+    "quality": "epic",
+    "itemId": 46095,
+    "url": "https://wowhead.com/wotlk/item=46095"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Yogg-Saron",
+    "itemName": "Touch of Madness",
+    "quality": "epic",
+    "itemId": 46031,
+    "url": "https://wowhead.com/wotlk/item=46031"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Yogg-Saron",
+    "itemName": "Treads of the Dragon Council",
+    "quality": "epic",
+    "itemId": 46030,
+    "url": "https://wowhead.com/wotlk/item=46030"
+  },
+  {
+    "instanceName": "Ulduar N10",
+    "encounter": "Yogg-Saron",
+    "itemName": "Vanquished Clutches of Yogg-Saron",
+    "quality": "epic",
+    "itemId": 46312,
+    "url": "https://wowhead.com/wotlk/item=46312"
+  }
+]
