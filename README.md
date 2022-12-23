@@ -19,6 +19,13 @@ start a ClojureScript REPL
 ```
 npx shadow-cljs browser-repl
 ```
+### Running unit tests
+- May require installing karma: `npm install -D karma karma-chrome-launcher karma-cljs-test`
+- See package.json for where npm task `test` is defined 
+  - Essentially all code is compiled to javascript and then tests in src/test is run in headless browser karma
+```
+npm run test
+```
 ### Building for production
 This command will create a smaller minified app.js file that has dead code removed.
 ```

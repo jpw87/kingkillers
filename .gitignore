@@ -10,12 +10,12 @@ pom.xml.asc
 /.nrepl-port
 /public/js/cljs-runtime/
 /public/js/manifest.edn
-/out
+/out*
 /.repl
 *.log
 /.env
 .idea
 .lsp
 .clj-kondo
-.shadow-cljs
+/.shadow-cljs*
 node_modules/
