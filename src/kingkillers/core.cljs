@@ -3,12 +3,19 @@
      [reagent.core :as r]
      [reagent.dom :as d]
      [shadow.resource :as rc]
-     [kingkillers.parser :as p]))
+     [kingkillers.parser :as p]
+     [clojure.string :as str]))
 
 ;; -------------------------
-;; State
+;; State and state load functions
 (def tmb-json-data (r/atom ""))
-(def demo-blob-data (rc/inline "demo-tmb-blob-small.json"))
+(def demo-data (r/atom ""))
+
+(defn get-demo-data
+  "Get the demo data from the demo data file. Lazy loads demo data using reagent atom."
+  []
+  (when (clojure.string/blank? demo-data) #(reset! tmb-json-data (get-demo-data)))
+  (rc/inline "demo-tmb-blob-small.json"))
 
 ;; -------------------------
 ;; Views
@@ -30,10 +37,7 @@
     [:div {:class "btn-toolbar"}
      [:input {:class "btn btn-primary" :type "button" :value "Submit" :on-click #(reset! tmb-json-data (p/parse @tmb-json-data))}]
      [:input {:class "btn btn-primary" :type "button" :value "Clear" :on-click #(reset! tmb-json-data "")}]
-     [:input {:class "btn btn-primary" :type "button" :value "Demo Data" :on-click #(reset! tmb-json-data demo-blob-data)}]]]
-   [:div {:class "text-center p-3"}
-    [:br] [:br] [:br] ; TODO bottom align the copyright footer somehow
-    [:footer [:p {:class "lead"} "© 2023 Copyright: Joshua White"]]]])
+     [:input {:class "btn btn-primary" :type "button" :value "Demo Data" :on-click #(reset! tmb-json-data (get-demo-data))}]]]])
 
 ;; -------------------------
 ;; Initialize app
